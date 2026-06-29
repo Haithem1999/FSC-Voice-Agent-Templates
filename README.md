@@ -33,7 +33,21 @@ The full corpus of 332 after-hours call transcripts used as the empirical basis 
 - `Shop_B/` — 117 transcripts
 - `Shop_C/` — 67 transcripts
 
-Each transcript file begins with call metadata (shop name, call ID, timestamp, duration, disconnection reason, sentiment, cost, end-to-end latency, agent name) followed by the turn-by-turn agent/user dialogue. Consistent with Appendix B of the thesis, caller names and phone numbers are retained as recorded by the system.
+Each transcript file begins with call metadata (shop name, call ID, timestamp, duration, disconnection reason, sentiment, cost, end-to-end latency, agent name) followed by the turn-by-turn agent/user dialogue. Consistent with Appendix B of the thesis, personally identifying details have been pseudonymised — shop names as `Shop_A/B/C`, caller and staff names as `Caller_NNN`/`Staff_NNN`, phone numbers as `555-100-NNNN`, and addresses/city as bracketed placeholders.
+
+### `call-data/`
+The consolidated post-call export underlying the per-call files in `All_Transcripts/` — one row per call for all 332 calls combined. This is the tabular dataset parsed by `analysis-scripts/01_extract_transcripts.py`.
+
+- `study_332_calls.csv` — 332 rows × 32 columns of Retell post-call data: timing, duration, cost, disconnection reason, call status, sentiment, agent name/ID, and the full call transcript, plus the (mostly empty) downstream analysis columns.
+
+The same anonymisation applied to the per-call transcripts applies here, and the file is consistent with `All_Transcripts/`:
+
+- `Call ID` is preserved and is the join key to the transcript filenames in `All_Transcripts/Shop_*/` (`call_<NNN>_<Call ID>.txt`).
+- The `Transcript` column is identical, call-for-call, to the dialogue in the corresponding transcript file.
+- Caller and shop phone numbers in the `From`/`To` columns are replaced with `555-100-NNNN` placeholder codes.
+- `Agent Name` is shop-anonymised (`Shop_A/B/C`) with the city shown as `[City]`.
+- `Public Log URL` (the provider's call-log links) is redacted to `[REDACTED]`.
+- The provider's per-word `Transcript With Tool Calls` token stream is omitted; the plain `Transcript` column carries the full dialogue.
 
 ## Configuring the Templates
 
