@@ -1,0 +1,30 @@
+Shop: Shop_A
+Call ID: call_23715ef74de26c4def6c933ab63
+Time: 11/16/2025 01:28
+Duration: 1:09
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.134
+End-to-End Latency: 1649.998046875
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Leave a message.
+Agent: Of course! What would you like me to include in your message for the shop?
+User: Please do not work
+User: on the Range Rover for Caller_016 Kepin.
+User: We are returning it to Carvana. We'll pick it up first thing Monday morning. When you all open.
+Agent: Great, can you please spell your first name for me?
+User: Caller_016, C a l l e r _ 0 1 6.
+Agent: Thanks, Caller_016. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you, Caller_016. I’ve notified the shop with your message: not to work on the Range Rover for Caller_016 Kepin, as you’ll be returning it to Carvana and picking it up first thing Monday morning when we open.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You’re welcome, Caller_016! Have a great weekend. Goodbye.

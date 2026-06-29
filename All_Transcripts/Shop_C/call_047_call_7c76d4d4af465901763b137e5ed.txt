@@ -1,0 +1,30 @@
+Shop: Shop_C
+Call ID: call_7c76d4d4af465901763b137e5ed
+Time: 12/03/2025 05:52
+Duration: 1:23
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.161
+End-to-End Latency: 2155
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. Yes. I'm trying to reach, uh, Caller_064 Day.
+Agent: Caller_064 Day isn’t available right now since the shop is currently closed. Would you like to leave a message for Caller_064, or is there something specific I can help you with?
+User: Yes. I would like to leave a message.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 8 0
+Agent: Thanks, Caller_080. And can we use the phone number you are calling from to follow up?
+User: Of course.
+Agent: Thank you! What message would you like me to leave for Caller_064 Day?
+User: Hi, Caller_064. This is Caller_080 from Indeed calling. Uh, wanted to follow-up regarding an open job that you have on the website.
+User: It looks like the job is getting a lot of eyes from the wrong types of candidates.
+User: So if you could please give me a callback, I wanted to help you fix that issue.
+User: My direct number is five five five one zero zero zero zero four three. Again, that's six two six eight two eight eight zero nine.
+User: So much. Bye bye.
+Agent: Thanks, Caller_080. I've notified Caller_064 Day with your message and contact number. Have a great day!

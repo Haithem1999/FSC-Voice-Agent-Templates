@@ -1,0 +1,47 @@
+Shop: Shop_B
+Call ID: call_7af0ec209eb6c33e286ce2928a1
+Time: 01/04/2026 23:53
+Duration: 2:45
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.318
+End-to-End Latency: 1881
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Dropping off car need process.
+Agent: For after-hours drop-off, please call Shop_B at 555-100-0028. A service advisor will provide instructions to make sure your vehicle and keys are secured safely until the shop opens.
+
+Is there anything else I can help you with?
+User: That's the number I'm calling. No one is there or answering.
+User: do I do?
+Agent: I understand how frustrating that can be. Since it’s currently Sunday and the shop is closed, there isn’t staff on-site to assist directly right now. Typically, after-hours drop-off instructions are given by a service advisor, but since no one is available, I can notify the shop about your situation so they can reach out as soon as possible when they reopen.
+
+Would you like to leave an urgent message for the team so they can follow up with you first thing tomorrow morning?
+User: Yes.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 7 3
+Agent: Thanks, Caller_073. And can we use the phone number you are calling from to follow up?
+User: No.
+Agent: No problem! Could you please provide the best phone number for the shop to reach you?
+User: One five five five one zero zero zero zero three one.
+Agent: Thank you. Just to confirm, your phone number is 555-100-0031. Is that correct?
+User: Yes.
+Agent: Thank you, Caller_073. Could you please share any additional details about your drop-off or anything specific you’d like the shop to know?
+User: We think it's the alternator.
+Agent: The shop has been notified of your request, Caller_073. They’ll reach out to you as soon as possible when they reopen to help with your after-hours drop-off and alternator issue.
+
+Is there anything else I can help you with?
+User: Where do I leave the key?
+Agent: Since the shop is closed right now, the specific after-hours drop-off instructions aren’t available to me. Typically, shops have a secure drop box near the front entrance where you can leave your keys and fill out a form with your contact information and details about your vehicle.
+
+If you don’t see a drop box or clear instructions at the shop, I recommend keeping your keys with you until you can speak directly with a service advisor when they open tomorrow morning at 7 am.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling, Caller_073. The shop will follow up with you as soon as possible. Have a great day!

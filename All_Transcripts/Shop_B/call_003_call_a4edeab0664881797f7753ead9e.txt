@@ -1,0 +1,31 @@
+Shop: Shop_B
+Call ID: call_a4edeab0664881797f7753ead9e
+Time: 04/01/2026 04:33
+Duration: 1:31
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.215
+End-to-End Latency: 1908
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Chloe I need to speak to someone in your [Neighborhood] store. 
+Agent: We’re located at [Shop_B_Address] in [City]. At this time, we only have one location. Would you like to leave a message for the shop, or is there something specific I can help you with right now?
+User: Leave a message for the shop. 
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 1 3 0 
+Agent: Thanks, Caller_130. And can we use the phone number you are calling from to follow up?
+User: Yes. 
+Agent: Thank you! What message would you like me to leave for the shop?
+User: I am sending some high school kids over with a car issue, and I was hoping you could take care of them this morning and take a look at the car, period. They are driving a very long distance today, period. I appreciate any help you can provide them, period. 
+Agent: I've made sure the shop has been notified of your request and your message will be passed along as soon as possible.
+
+Is there anything else I can help you with?
+User: That's all. Thank you. 
+User: you. 
+Agent: You're welcome, Caller_130! Have a great day.

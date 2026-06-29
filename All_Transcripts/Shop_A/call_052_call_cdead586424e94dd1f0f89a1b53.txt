@@ -1,0 +1,54 @@
+Shop: Shop_A
+Call ID: call_cdead586424e94dd1f0f89a1b53
+Time: 02/08/2026 00:42
+Duration: 2:09
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.249
+End-to-End Latency: 1219
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Are you Are you open today?
+Agent: We’re actually closed today—our regular hours are Monday through Friday, 8am to 5pm. Is there something I can help you with or a question I can 
+User: So, 
+Agent: answer while you’re 
+User: yeah, I wanna oh, I want to know if you all put do starters. I've I've been getting my car serviced there for a long time. So I was gonna bring it I wanna bring it down there so I can check. Check the starter and for me. Hello?
+Agent: Hi!
+User: Okay. So I 
+Agent:  Yes, we do work on starters and can check 
+User: can just okay. So do I do that do I can I do that Monday?
+Agent: Absolutely! You can bring your car in on Monday—we open at 8am. Would you like to 
+User: Okay. 
+Agent: schedule an appointment for a starter check, or do you prefer to just drop by?
+User: How am I how am I gonna do that for a starter kit?
+Agent: No problem! To have your starter checked, you can either schedule an appointment ahead of time or stop by during our business hours. Scheduling an appointment is recommended to make sure we can get to your vehicle quickly. Would you like me to help you set up an appointment for Monday?
+User: Yeah.
+User: How about nine 
+Agent: Great, can you please spell 
+User: o'clock?
+Agent: I’ll help you get 
+User: Caller_125? Okay. 
+Agent: set up for a 9 o’clock appointment! Can you please spell your first name for me?
+User: Caller_125. C a l l e r _ 1 2 5.
+Agent: Thanks, Caller_125! And can we use the phone number you’re calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Perfect! I’ve just sent you a text message with a link where you can schedule your starter check appointment for Monday at 9am. Just follow the link to confirm your spot.
+
+Is there anything else I can help you with?
+User: Not today. You've been so sweet and kind, and God bless you.
+Agent: Thank 
+User: And okay. Thank thank 
+Agent: you so much, Caller_125! It was a pleasure 
+User: you. Thanks.
+User: Bye. Thank 
+Agent: You're very 
+User: you. Yeah.
+Agent: Thank 
+User: Bye bye.
+Agent: you for calling, Caller_125! Have a wonderful day. Take care!

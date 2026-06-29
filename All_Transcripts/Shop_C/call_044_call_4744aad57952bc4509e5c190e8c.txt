@@ -1,0 +1,40 @@
+Shop: Shop_C
+Call ID: call_4744aad57952bc4509e5c190e8c
+Time: 12/10/2025 18:30
+Duration: 1:44
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.201
+End-to-End Latency: 2234.99609375
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Speak with the human.
+Agent: The team isn’t available to answer the phone right now, but I’m here to help with any questions or requests you have. Is there something specific I can assist you with today?
+User: Yes. I wanna drop off my car.
+Agent: Absolutely! You’re welcome to drop off your car. Are you planning to bring it in during business hours, or will you be dropping it off after hours? I can give you 
+User: Business hours.
+Agent: instructions for either option.
+User: Business hours.
+Agent: Great! You can bring your car by anytime during our business hours, which are Monday through Friday from 7:30am to 5:00pm. Just stop by [Shop_C_Address], and our team will assist you when you arrive.
+
+Is there anything else I can help you with?
+User: Is there availability today?
+Agent: I can help you check availability for today. Would you like to schedule an appointment for your drop-off? If so, I can send you a scheduling link to make the process quick and easy.
+
+Can you please 
+User: Yes.
+Agent: spell your first name for me?
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 3 9. B e n.
+Agent: Thanks, Caller_039. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Thank you, Caller_039. I’ve just sent you a text message with a link where you can schedule your service appointment for today’s drop-off. Please follow the link to choose your preferred time.
+
+Is there anything else I can help you with?
+User: No.

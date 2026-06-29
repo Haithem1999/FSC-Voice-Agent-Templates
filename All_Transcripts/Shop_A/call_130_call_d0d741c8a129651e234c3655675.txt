@@ -1,0 +1,29 @@
+Shop: Shop_A
+Call ID: call_d0d741c8a129651e234c3655675
+Time: 11/16/2025 19:13
+Duration: 0:59
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.115
+End-to-End Latency: 1619.5009765625
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I was just calling to see if someone could come out and fix my car.
+User: put a part 
+User: (User pressed digit: a)
+User: in for my car?
+Agent: Thanks for reaching out! We don’t offer mobile repair services, so we aren’t able to send someone out to install a part at your location. All repairs and part installations are done at our shop on [Shop_A_Address]
+
+If your car isn’t drivable and you need help getting it to us, we can help arrange a tow. Would you like assistance with that, or would you like to schedule an appointment to bring your car in?
+User: Let's schedule an appointment.
+User: Could 
+User: I talk to a real person?
+Agent: I understand wanting to speak with someone directly. The shop is currently closed, so there isn’t anyone available to take your call right now. However, I can help you schedule an appointment, and the team will follow up with you as soon as they’re back in the shop.
+
+Let’s get started—can you please spell your first name for me?

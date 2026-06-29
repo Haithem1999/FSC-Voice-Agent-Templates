@@ -1,0 +1,30 @@
+Shop: Shop_C
+Call ID: call_8dd0afa1213fbd6dbd69f1a90bf
+Time: 11/10/2025 18:28
+Duration: 1:22
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.159
+End-to-End Latency: 2500.5
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I wanna confirm that you received my appointment request.
+Agent: I don’t have access to appointment confirmations directly, but I can help you schedule a new appointment or leave a message for the shop to confirm your request. Would you like me to leave a message for the team to follow up with you about your appointment?
+User: Yes, please.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 6 2
+Agent: Thanks, Caller_062. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What message would you like me to leave for the shop? Would you like me to ask them to confirm your appointment request, or is there anything specific you’d like included?
+User: Just confirm my report.
+User: request that I made just a moment ago.
+User: I'm not sure it went through.
+Agent: I've notified the shop to confirm your appointment request and let you know if it went through. Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're welcome, Caller_062! Have a great day.

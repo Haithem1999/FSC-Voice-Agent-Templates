@@ -1,0 +1,22 @@
+Shop: Shop_A
+Call ID: call_f678ba44c2b7ed204ff7a0bd8cc
+Time: 01/07/2026 05:25
+Duration: 0:52
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.102
+End-to-End Latency: 3278
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Manager.
+Agent: The shop is currently closed, so our manager isn’t available right now. Is there something specific I can help you with, or would you like to leave a message for the manager?
+User: Secondary.
+Agent: Could you clarify what you mean by "secondary"? Are you looking to speak with a specific person, or is there something else I can assist you with? If you’d like, I can take a message for the shop or help with any questions you have.
+User: Secretary.
+Agent: Our front desk staff and management aren’t available right now since the shop is closed. I’m here to help with any questions you have, or I can take a message for the secretary or

@@ -1,0 +1,24 @@
+Shop: Shop_C
+Call ID: call_f3f0bd2760af973414fcda66fce
+Time: 12/20/2025 22:05
+Duration: 0:43
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.084
+End-to-End Latency: 2582.5
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Can I speak to someone, please?
+Agent: The shop is currently closed for the weekend, so there’s no one available to take your call right now. I’m here to help with any questions you might have, or I can 
+User: You get a 
+Agent: take a message for the team to 
+User: s s estimate on a fuel gauge replaceable?
+Agent: I can help you request an estimate for replacing your fuel gauge. Could you please spell your first name for me?
+User: I'll call back. Thanks.
+User: It's just the AM

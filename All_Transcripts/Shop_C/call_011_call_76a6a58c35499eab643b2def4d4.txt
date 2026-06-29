@@ -1,0 +1,25 @@
+Shop: Shop_C
+Call ID: call_76a6a58c35499eab643b2def4d4
+Time: 03/01/2026 21:49
+Duration: 0:53
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.103
+End-to-End Latency: 964
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: You open today?
+Agent: We're actually closed today—it's Sunday. Our regular hours are Monday through Friday, 7:30am to 5:00pm. Is there anything else I can help you with?
+Agent: Just checking in—if you have any other questions or need assistance, I'm here to help!
+User: How would you like to tag this call?
+User: Press 
+Agent: Thanks 
+User: one for good lead. Press two for poor lead. Press three for existing customer. Press four for vendor. Press five for other. Press star to repeat options.
+User: Or pound to skip this step.
+Agent: Thank you for letting me know about the options. Is there anything else I can help you

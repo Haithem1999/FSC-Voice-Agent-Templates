@@ -1,0 +1,30 @@
+Shop: Shop_B
+Call ID: call_92893a065351c1ca6815071637d
+Time: 12/22/2025 04:33
+Duration: 1:29
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.172
+End-to-End Latency: 1515
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Caller_019’s 
+User: Different sizes of some of the art of order, including the custom
+Agent: It sounds like you might be asking about ordering custom art or different sizes of artwork. Just to clarify, Shop_B is an auto repair shop, so we don’t offer art or custom artwork services. If you’re looking for information about vehicle services, repairs, or appointments, I’d be happy to help!Is there something specific related to your vehicle or our shop that I can assist you with?
+User: Cancel my appointment tomorrow.
+Agent: I can help with that! Would you like to receive a cancellation link to handle it yourself, or would you prefer that I forward your cancellation request directly to the shop so they can take care of it for you?
+User: Forward my cancellation to the shop.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 7 6
+Agent: Thanks, Caller_076. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Just to confirm, you’d like to cancel your appointment scheduled for tomorrow. Is there anything else you’d like the shop to know about this cancellation?
+User: No.
+Agent: Your cancellation request has been sent to the shop, and they’ll follow up with you once they’re open.Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're welcome! Have a great day. Goodbye!

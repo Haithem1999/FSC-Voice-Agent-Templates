@@ -1,0 +1,32 @@
+Shop: Shop_A
+Call ID: call_d357bab4a4e51bbbdf6990e8793
+Time: 11/28/2025 02:42
+Duration: 1:25
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.165
+End-to-End Latency: 1829.0009765625
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A 
+User: This is the fraud detection center.
+User: Calling to verify recent activity.
+User: On your Austin Bank debit card ending in one eight nine nine If this is Staff_008 l Steiner. Press one.
+User: If not, press two.
+User: (inaudible speech)
+Agent: This is 
+User: Please make your 
+Agent: Shop_A, an auto 
+User: selection now.
+Agent: This is Shop_A, an auto repair shop in Tyler, Texas. If you have questions about our services or need assistance with your vehicle, I’m happy to help. Is there something related to auto repair or your vehicle that I can assist you with today?
+User: This is the Austin Bank fraud detection center calling to verify recent transactions on your Austin Bank debit card ending in one eight nine nine.
+User: Due to unusual activity, a temporary hold may have been placed on your card.
+User: Please have Staff_008 L Steiner. Call us as soon as possible at five five five one zero zero zero zero one zero.
+User: You'll be asked to enter case number five five five one zero zero zero zero one one one.
+Agent: Thank you for providing that 
+User: Again, the toll free

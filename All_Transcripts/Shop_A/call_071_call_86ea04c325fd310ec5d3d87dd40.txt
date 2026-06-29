@@ -1,0 +1,20 @@
+Shop: Shop_A
+Call ID: call_86ea04c325fd310ec5d3d87dd40
+Time: 01/18/2026 22:27
+Duration: 0:11
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.023
+End-to-End Latency: 2163
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A 
+User: Thank you for 
+Agent: Express! 
+User: call
+Agent: You're welcome! If you have any other questions or need assistance in the future, just give us a call. Have a great day!

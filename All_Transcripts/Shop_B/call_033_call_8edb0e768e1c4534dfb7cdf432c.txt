@@ -1,0 +1,27 @@
+Shop: Shop_B
+Call ID: call_8edb0e768e1c4534dfb7cdf432c
+Time: 02/15/2026 19:48
+Duration: 1:20
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.155
+End-to-End Latency: 1651.9990234375
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Caller_019’s 
+User: I'm not calling you on
+Agent: Automotive Care ! This 
+Agent: No worries! If you have any questions or need assistance with anything related to Shop_B, just let me know how I can help. Is there something specific you’d like information about?
+User: Suzuki Caller_110 repairs.
+Agent: We do offer repairs and maintenance for Suzuki Jimny vehicles! Our ASE-Certified technicians are experienced with a wide range of makes and models, including Suzuki. We handle everything from routine maintenance to more complex repairs.
+
+Is there a specific issue or service you need for your Suzuki Jimny, or would you like to schedule an appointment?
+User: I'm just wondering, if you guys period carry parts for Suzuki Jiminies or do you have to order them?
+Agent: That’s a great question! We typically carry common parts for popular vehicles, but for less common models like the Suzuki Jimny, some parts may need to be ordered depending on availability and the specific repair needed. Our team will always do their best to source parts quickly and keep you updated.
+
+Would you like to know about a specific part, or are you considering scheduling a service?

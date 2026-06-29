@@ -1,0 +1,16 @@
+Shop: Shop_A
+Call ID: call_40450e17ff86f780460be9110cc
+Time: 03/19/2026 02:47
+Duration: 
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Unknown
+Appointment Activity: 
+Cost: $0.000
+End-to-End Latency: 
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+(No transcript - call disconnected before dialogue)

@@ -1,0 +1,45 @@
+Shop: Shop_B
+Call ID: call_e3de1d5c7b6e470a62f740fe3be
+Time: 01/02/2026 01:30
+Duration: 1:47
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.207
+End-to-End Latency: 1123
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Caller_019’s 
+User: Thank 
+Agent: Automotive 
+User: you for calling Beyond Automotive Care.
+Agent: Hi there! Just to 
+User: Oh, thank you.
+Agent: confirm, you’ve reached Shop_B at [Shop_B_Address]. How can I help you today?
+User: Hi. I would like a check on my car.
+Agent: Absolutely, we can help with that! Would you like me to send you a booking link so you can schedule your vehicle check online, or would you prefer that I forward your appointment request directly to the shop so a team member can follow up with you?
+User: Did you forward it directly to the shop? For a team member?
+Agent: Not yet—I wanted to check your preference first! Would you like me to forward your request directly to the shop so a team member 
+User: Where were they?
+Agent: can contact you, or would you rather receive a booking link to schedule the appointment yourself online?
+User: Forward it directly.
+Agent: Great, I’ll forward your appointment request directly to the shop so a team member can follow up with you.
+
+Can you please spell your first name for me?
+User: Caller_075.
+User: Caller_075. Thank you. 
+Agent: Thank you, Caller_075. Can you please spell your first name for me, just to make sure I have it correct?
+User: C a l l e r _ 0 7 5.
+Agent: Thank you, Caller_075! And can we use the phone number you’re calling from to follow up with you?
+User: Yes.
+Agent: Perfect, thank you! What day and time would you like to come in for your car check?
+User: Today as soon as possible.
+Agent: I've notified the shop about your request for a car check today as soon as possible. A team member will follow up with you shortly.
+
+Is there anything else I can help you with?
+User: Nope.
+Agent: Thank you for calling Shop_B, Caller_075. Have a great day!

@@ -1,0 +1,33 @@
+Shop: Shop_A
+Call ID: call_bdea8d0c9f943cebebd6ff529f8
+Time: 02/23/2026 05:22
+Duration: 1:28
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.171
+End-to-End Latency: 1526
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: How much is it for a diagnostic testing?
+Agent: I’d be happy to help you get a quote for diagnostic testing. Great, can you please spell your first name for me?
+User: C a l l e r _ 0 3 3.
+Agent: Thanks, Caller_033. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Perfect, thank you! Could you please tell me the year, make, and model of your vehicle? This will help us provide an 
+User: Two 
+Agent: accurate quote for diagnostic testing.
+User: two thousand and three Chevy Tahoe.
+Agent: Thank you! If you have your VIN number handy, could you please share it slowly? This will help us provide the 
+User: I don't.
+Agent: most accurate quote. If you don’t have it available, that’s okay too.
+Agent: No problem at all! Just to confirm, you’re looking for a quote on diagnostic testing for your 2003 Chevy Tahoe, correct?
+User: Yes.
+Agent: Thank you, Caller_033! I’ve forwarded your request for a diagnostic testing quote on your 2003 Chevy Tahoe to the shop. Someone from Shop_A will follow up with you as soon as possible.
+
+Is there anything else I can help you with?

@@ -1,0 +1,36 @@
+Shop: Shop_B
+Call ID: call_e429842a3e4d397d7f6e0215d1d
+Time: 12/25/2025 02:22
+Duration: 1:28
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.171
+End-to-End Latency: 1181
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I want to make an appointment for next week
+User: an oil change and service.
+Agent: Great! Would you like me to send you a booking link so you can schedule your oil change and service online, or would you prefer that I forward your appointment request directly to the shop so a team member can follow up with you?
+User: Well, I want to do it with direct
+User: to 
+User: one of the assistants.
+Agent: Perfect, I can help with that. Can you please spell your first name for me?
+User: Yes. Caller_002.
+User: o 
+Agent: Thanks, Caller_002.
+User: C a l l e r _ 0 1 1.
+Agent: Thank you, Caller_002. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thanks! And when would you like to come in next week for your oil change and service?
+User: Monday.
+Agent: I've notified the shop about your request for an oil change and service on Monday next week. A team member will follow up with you to confirm your appointment.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling Shop_B, Caller_002. Have a great day!

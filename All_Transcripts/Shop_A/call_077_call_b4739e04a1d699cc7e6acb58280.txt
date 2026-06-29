@@ -1,0 +1,29 @@
+Shop: Shop_A
+Call ID: call_b4739e04a1d699cc7e6acb58280
+Time: 01/12/2026 04:05
+Duration: 1:13
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.142
+End-to-End Latency: 2604
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yes. I have an appointment today This is Caller_069 Brown. And I will is that I believe that appointment is at nine o'clock. I'm gonna have to cancel that appointment. I have a medical emergency that came up.
+Agent: Thank you for letting us know, Caller_069. I’ll make sure the shop gets your message about canceling your 9:00am appointment today due to a medical emergency.
+
+Could you please spell your first name for me, just to make sure I have it correct?
+User: C a l l e r _ 0 6 9
+Agent: Thank you, Caller_069. And can we use the phone number you are calling from to follow up with you?
+User: Yes.
+Agent: The shop has been notified about your cancellation, Caller_069, and they’ll follow up if needed.
+
+Is there anything else I can help you with?
+User: No.
+User: Thank you very much. I appreciate the services. I will call back to reschedule.
+Agent: You're very welcome, Caller_069! Take care, and we look forward to helping you when you're ready to reschedule. Have a great day!

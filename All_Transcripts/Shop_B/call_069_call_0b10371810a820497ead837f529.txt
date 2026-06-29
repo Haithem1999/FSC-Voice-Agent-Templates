@@ -1,0 +1,29 @@
+Shop: Shop_B
+Call ID: call_0b10371810a820497ead837f529
+Time: 01/18/2026 01:35
+Duration: 1:34
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.182
+End-to-End Latency: 4232
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: A message to Staff_002.
+Agent: Of course! What would you like me to include in your message to Staff_002?
+User: Staff_004 said I could call on Monday, to pick up my Fiat. This is Caller_074 Padilla.
+User: And to receive a shuttle from my home to John's.
+Agent: Thank you, Caller_074. Can you please spell your first name for me, just to make sure I have it correct?
+User: C a l l e r _ 0 7 4.
+Agent: Thank you, Caller_074. And can we use the phone number you’re calling from, 555-100-0029, to follow up with you?
+User: Yes.
+Agent: I've noted your message for Staff_002: that Staff_004 said you could call on Monday to pick up your Fiat, and that you’d like to receive a shuttle from your home to Shop_B. The shop has been notified and will follow up with you at 555-100-0029.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're very welcome, Caller_074! Have a great rest of your weekend. Goodbye!

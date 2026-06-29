@@ -1,0 +1,29 @@
+Shop: Shop_B
+Call ID: call_17fad472c21e82df9b8cb7d0e3b
+Time: 11/30/2025 00:47
+Duration: 1:05
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.127
+End-to-End Latency: 2314.001953125
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: What time are you open till today?
+Agent: Our Saturday hours are 8 am to 5 pm. Is there anything else I can help you with?
+User: Yes. Can you please have Staff_004 give me a call
+User: let me know what time
+User: the oil change is going to be done?
+Agent: Absolutely, I can leave that message for you. Great, can you please spell your first name for me?
+User: Yes. C a l l e r _ 0 2 3
+User: Caller_023,
+Agent: Thanks, Caller_023. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you, Caller_023. I’ve notified the shop to have Staff_004 give you a call about what time your oil change will be done today. Is there anything else I can help you with?
+User: No. That would be all. Thank you very much.
+Agent: You’re very welcome, Caller_023! Have a great rest of your Saturday. Goodbye!

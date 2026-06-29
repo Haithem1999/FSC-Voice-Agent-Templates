@@ -1,0 +1,34 @@
+Shop: Shop_B
+Call ID: call_01aef2c7a52690de5807ee5d583
+Time: 01/14/2026 03:58
+Duration: 1:36
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.186
+End-to-End Latency: 1456.00390625
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I was calling to set an appointment to drop off my car tomorrow morning.
+Agent: I can help with that! Would you like me to send you a booking link so you can schedule your appointment online, or would you prefer that I forward your appointment request directly to the shop so they can follow up with you?
+User: Can you forward my appointment request to the shop?
+Agent: Absolutely, I can do that for you. Great, can you please spell your first name for me?
+User: Caller_118 C a l l e r _ 1 1 8.
+Agent: Thanks, Caller_118. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Perfect, thank you! What type of service or reason should I note for your appointment tomorrow morning?
+User: Vehicle inspection.
+Agent: Thank you. And when would you like to 
+User: For odd noise, possibly hub assembly.
+Agent: Got it, Caller_118. You’d 
+Agent: like to schedule 
+Agent: a vehicle inspection for an odd noise, possibly related to the hub assembly, tomorrow morning.I’ll forward your appointment request to the shop and they’ll follow up with you as soon as possible.Your appointment request has been sent to the shop, and they’ll follow up with you soon to confirm the details.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling Shop_B, Caller_118. Have a great day!

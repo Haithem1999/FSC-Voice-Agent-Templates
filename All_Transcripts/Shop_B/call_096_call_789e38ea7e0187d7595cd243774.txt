@@ -1,0 +1,26 @@
+Shop: Shop_B
+Call ID: call_789e38ea7e0187d7595cd243774
+Time: 12/22/2025 04:26
+Duration: 0:57
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.111
+End-to-End Latency: 1328
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to cancel an appointment for tomorrow.
+Agent: I can help you with that. Would you like to receive a link to manage your appointment cancellation, or would you prefer that I forward your cancellation request directly to the shop for you?
+User: You can send me a link.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 7 6.
+Agent: Thanks, Caller_076. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: You’ll receive a text message shortly with a link to manage and cancel your appointment. Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling Shop_B. Have a great day!

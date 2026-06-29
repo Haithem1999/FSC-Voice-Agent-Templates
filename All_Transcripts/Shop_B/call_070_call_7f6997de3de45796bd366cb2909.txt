@@ -1,0 +1,31 @@
+Shop: Shop_B
+Call ID: call_7f6997de3de45796bd366cb2909
+Time: 01/17/2026 20:18
+Duration: 1:30
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.174
+End-to-End Latency: 2647.5
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. I'm wondering if the you have appointment for today. My car's check engine light came on.
+Agent: I can help with that! Would you like to receive a booking link to schedule your appointment online, or would you prefer that I forward your request directly to the shop so they can follow up with you about availability for today?
+User: Directly to the shop.
+Agent: Great, can you please spell your first name for me?
+User: Yes. B r e n C a l l e r _ 0 3 9.
+Agent: Thanks, Caller_091. And can we use the phone number you are calling from to follow up?
+User: Yes. You can.
+Agent: Thank you! Just to confirm, you’d like to schedule an appointment for today because your check engine light came on. And when would you like to come in for your check engine light issue?
+User: As soon as possible.
+Agent: I've notified the shop about your request, and they'll follow up with you as soon as possible about getting your car in today.
+
+Is there anything else I can help you with?
+User: Nope.
+User: That'll do it.
+Agent: Alright, thanks for calling Shop_B, Caller_091! Have a great day.

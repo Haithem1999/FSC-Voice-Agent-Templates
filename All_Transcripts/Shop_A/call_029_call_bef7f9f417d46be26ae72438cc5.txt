@@ -1,0 +1,45 @@
+Shop: Shop_A
+Call ID: call_bef7f9f417d46be26ae72438cc5
+Time: 03/07/2026 03:19
+Duration: 2:21
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.272
+End-to-End Latency: 1272
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Returning your call
+Agent: Thanks for getting back to us! The shop is currently closed for the evening, but I’m happy to help however I can. Could you let me know what your call was regarding? That way, I can either assist you now or make sure the right person follows up when we reopen.
+User: I'm calling about a a fold f three fifty truck. Belonging to my husband, Caller_022 Simba.
+Agent: Thank you for letting me know. Are you looking for an update on the Ford F-350, wanting to schedule a service, or is there something specific you need help with regarding Caller_022 Simba’s truck? Let me know how I can assist you!
+User: Well, we just wanna know if it's ready because we missed your call.
+Agent: I understand you’re checking to see if Caller_022 Simba’s Ford F-350 is ready for pickup. Since the shop is closed right now, I don’t have access to real-time status updates. Would you like me to leave a message for the team to follow up with you as soon as they reopen, or is there anything else 
+User: Yes.
+Agent: I can help with tonight?
+User: Yes. 
+Agent: Great, can you 
+User: Follow-up call, please.
+Agent: Great, can you please spell 
+User: Yes.
+Agent: your first name for me?
+Agent: Thank you! Could you please spell your first name for me? This will help make sure the 
+User: It's 
+Agent: shop knows who to follow up with.
+User: it's Caller_022 Simbler.
+Agent: Thank you, Caller_022. And can we use the phone number you’re calling from to follow up with you?
+User: It's five five five one zero zero zero zero zero two.
+Agent: Thank you. Just to confirm, your phone number is 555-100-0002. Is that correct?
+User: Yes.
+Agent: Thank you, Caller_022. Just to confirm, you’d like the shop to follow up with you about whether your Ford F-350 is ready for pickup. Is there anything else you’d like me to include in your message?
+User: No.
+Agent: Thanks, Caller_022. I’ve notified the shop to follow up with you about your Ford F-350 as soon as they reopen.
+
+Is there anything else I can help you with tonight?
+User: No.
+Agent: Alright, thank you for calling Shop_A. Have a great evening!

@@ -1,0 +1,36 @@
+Shop: Shop_C
+Call ID: call_e8f4e78036eec7b7372a00b90c1
+Time: 11/03/2025 18:15
+Duration: 1:26
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.167
+End-to-End Latency: 2109.4990234375
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I want to repair my brakes.
+Agent: We can definitely help you with brake repairs. Would you like to schedule an appointment for your brake service?
+User: Yes.
+User: No. 
+User: I want an estimate.
+User: I want the estimate.
+Agent: I’m not able to provide exact pricing over the phone, but I can have the shop follow up with you to give you an estimate for your brake repair. Would you like to 
+User: Okay.
+Agent: leave your contact information and any details about your vehicle so the team can get back to you with an estimate?
+User: five five five one zero zero zero zero four six. Repeat. five five five one zero zero zero zero four six. This is for Caller_117 brake repair. Caller_117 model e s three five zero.
+Agent: Thank you for providing your phone number: six one nine - two five two - three five one nine. I have your request for a brake repair estimate on a Caller_117 ES 350.
+
+Is there anything else you’d like to add about your vehicle or the brake issue, or would 
+User: No. No. 
+Agent: you like the shop to contact you at this number with your estimate?
+User: Yeah. Yeah.
+User: right. Yes, please. Yes.
+User: Thank 
+User: you.
+Agent: Great! The

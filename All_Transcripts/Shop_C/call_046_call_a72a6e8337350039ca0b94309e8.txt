@@ -1,0 +1,31 @@
+Shop: Shop_C
+Call ID: call_a72a6e8337350039ca0b94309e8
+Time: 12/04/2025 04:01
+Duration: 1:00
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.117
+End-to-End Latency: 2927.0009765625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yeah. Hi. I just wanted to let them know I would be able to make my appointment tomorrow.
+Agent: No problem, I can let the shop know that you won’t be able to make your appointment tomorrow. Would you like to reschedule, or just cancel for now?
+User: I will be able to make my appointment tomorrow.
+Agent: Thank you for clarifying! I’ll let the shop know that you will be able to make your appointment tomorrow.
+
+Great, can you please spell your first name for me?
+User: Caller_019?
+User: o h n.
+Agent: Thank you, Caller_019. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thanks, Caller_019. I’ve notified the shop that you’ll be able to make your appointment tomorrow.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You’re welcome, Caller_019! Have a great day.

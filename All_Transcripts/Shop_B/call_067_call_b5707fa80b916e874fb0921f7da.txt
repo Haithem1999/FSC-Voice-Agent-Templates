@@ -1,0 +1,28 @@
+Shop: Shop_B
+Call ID: call_b5707fa80b916e874fb0921f7da
+Time: 01/19/2026 18:23
+Duration: 1:15
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.146
+End-to-End Latency: 3061.5
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'm wondering how much would it cost me to to have the torque mount and the engine mount put on my two thousand fifteen Honda Civic LX.
+Agent: I’d be happy to help you get a quote for replacing the torque mount and engine mount on your 2015 Honda Civic LX.
+
+Great, can you please spell your first name for me?
+User: C a l l e r _ 0 4 5.
+Agent: Thanks, Caller_045. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you, Caller_045. I’ve forwarded your request for a quote on replacing the torque mount and engine mount for your 2015 Honda Civic LX to the shop. Someone from our team will follow up with you soon.
+
+Is there anything else I can help you with?
+User: No. You.
+Agent: Alright, thank you for calling Shop_B. Have a great day!

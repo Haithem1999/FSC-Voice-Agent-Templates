@@ -1,0 +1,24 @@
+Shop: Shop_B
+Call ID: call_ef685e82094900026b55510b81a
+Time: 12/05/2025 20:21
+Duration: 1:07
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.130
+End-to-End Latency: 1698.49951171875
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Can I get an oil change today?
+Agent: We’d be happy to help you with an oil change! Would you like me to send you a booking link so you can schedule your appointment online, or would you prefer that I forward your request directly to the shop so they can follow up with you?
+User: Alright. I can schedule one online.
+Agent: Great, can you please spell your first name for me?
+User: First name is Caller_023.
+Agent: Thanks, Caller_023. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: No. I'm scheduling it right now.
+Agent: No problem! What’s the best phone number to send the scheduling link to?

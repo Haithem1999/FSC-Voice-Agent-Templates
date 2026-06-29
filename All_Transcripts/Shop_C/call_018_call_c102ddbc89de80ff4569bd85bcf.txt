@@ -1,0 +1,40 @@
+Shop: Shop_C
+Call ID: call_c102ddbc89de80ff4569bd85bcf
+Time: 02/09/2026 20:40
+Duration: 2:08
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.247
+End-to-End Latency: 1475
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I just need inquiring about fixing the engine block.
+Agent: We do offer engine repair services, including work on engine blocks. Could you tell me a bit more about the issue you’re experiencing? Are you looking to schedule an appointment for diagnostics, or would you like to get a quote for the repair?
+User: Hold for the repair.
+Agent: No problem! Would you like to schedule an appointment to bring your vehicle in for engine block repair, or do you want to discuss the repair details further? Let me know how you’d like to proceed.
+User: Discuss repair details further.
+Agent: Absolutely! What specific issues are you having with your engine block? For example, is there a crack, 
+User: (inaudible speech)
+Agent: overheating, or something else going on? The more details you can provide, the better I can assist you.
+User: A small pinhole.
+Agent: Thank you for 
+User: In the block.
+Agent: sharing that. A small pinhole in the engine block can lead to coolant or oil leaks and may cause engine performance issues if not addressed. Repair options can vary depending on the location and severity of the pinhole.
+
+Would you like to bring your vehicle in for an inspection so our technicians can assess the damage and recommend the best repair solution? Or are you looking for an estimate on the repair cost?
+User: A estimate on the repair cost.
+Agent: Great, I can help you request an estimate for repairing a small pinhole in your engine block. Can you please spell your first name for me?
+User: C a l l e r _ 1 3 0 a r d.
+Agent: Thanks, Caller_131. And can we use the phone number you’re calling from to follow up with your estimate?
+User: Yes.
+Agent: Your request for an estimate to repair a small pinhole in your engine block has been forwarded to the shop. Someone from our team will follow up with you soon.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're welcome, Caller_131! Have a great day.

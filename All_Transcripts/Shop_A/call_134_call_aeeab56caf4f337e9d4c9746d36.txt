@@ -1,0 +1,17 @@
+Shop: Shop_A
+Call ID: call_aeeab56caf4f337e9d4c9746d36
+Time: 11/15/2025 05:49
+Duration: 0:28
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.056
+End-to-End Latency: 
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+Agent: Just checking in—are you still there? Let me know how I can help you today!

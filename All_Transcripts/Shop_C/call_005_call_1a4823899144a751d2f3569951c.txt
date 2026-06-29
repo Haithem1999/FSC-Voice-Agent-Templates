@@ -1,0 +1,29 @@
+Shop: Shop_C
+Call ID: call_1a4823899144a751d2f3569951c
+Time: 03/19/2026 03:29
+Duration: 0:45
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.088
+End-to-End Latency: 1726.998046875
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Diagnostic appointment. 
+Agent: Great, can you please spell your first name for me?
+User: Higgins, eight oh, Caller_003. Caller_095. 
+User: Caller_003. Caller_003, C a l l e r _ 0 0 3. 
+User: Jeez. 
+Agent: Thanks, 
+Agent: Thank you, Caller_003. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes. 
+Agent: Thanks, Caller_003. I’ve just sent you a text message with a link where you can schedule your diagnostic appointment at your convenience.
+
+Is there anything else I can help you with?
+User: Nope. Thank you. 
+Agent: You're welcome, Caller_003! Have a great day.

@@ -1,0 +1,32 @@
+Shop: Shop_B
+Call ID: call_a803f5394521c74bc59e62efc1b
+Time: 02/06/2026 03:47
+Duration: 1:27
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.169
+End-to-End Latency: 1434
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need my car looked at.
+Agent: I’d be happy to help you with that! Would you like me to send you a booking link so you can schedule your appointment online, or would you prefer that I forward your request directly to the shop so they can follow up with you?
+User: The shop.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 1 2
+Agent: Thanks, Caller_012. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What would you like us to take a look at on your car?
+User: We had it in a week or so ago, we're having the same problem where it just stalls out in the middle of the road.
+Agent: Thank you for letting me know, Caller_012. And when would you like to come in to have the stalling issue checked out?
+User: As soon as possible.
+Agent: I've notified the shop about your request, and they'll follow up with you as soon as possible to get your car in for service.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling Shop_B, Caller_012. Have a great day!

@@ -1,0 +1,23 @@
+Shop: Shop_C
+Call ID: call_2baa824c24b8c7755698b3f88dd
+Time: 03/16/2026 06:25
+Duration: 0:51
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.100
+End-to-End Latency: 1272.0009765625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yeah. One of my headlights is out, and I was right here on the AutoZone on Balboa, and I needed somebody to come and put it in. 
+Agent: We don’t offer mobile repair services or roadside assistance for headlight installation. If you’d like, we can help you schedule an appointment to bring your vehicle into the shop for headlight replacement. Would you like to set up an appointment for that?
+User: No. 
+Agent: No problem! Is there anything else I can help you with tonight?
+User: How would you like to tag this call? 
+User: Press one for good lead. Press two for poor lead. Press three for existing customer. Press four for vendor. Press five for other. Press star to repeat options. Or pound to skip this step. 
+Agent: I'm just the AI assistant here to help with your automotive needs, so I don't

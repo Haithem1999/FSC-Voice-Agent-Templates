@@ -1,0 +1,31 @@
+Shop: Shop_B
+Call ID: call_421ace93046dc71e9f63255f5a7
+Time: 12/02/2025 04:00
+Duration: 1:02
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.121
+End-to-End Latency: 2270
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Caller_019’s 
+User: Thank you for calling
+Agent: Automotive Care ! This 
+Agent: You’re welcome! How can I help you today?
+User: I'm looking for a quote on my two thousand four Volvo.
+Agent: Great, can you please spell your first name for me?
+User: Sure. Caller_003.
+Agent: Thanks, Caller_003. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What specific service or repair would you like a quote on for your 2004 Volvo?
+User: I'd like a shocks and struts replacement.
+User: and rear.
+Agent: Your request for a quote on shocks and struts replacement—including the rear—for your 2004 Volvo has been forwarded to the shop. Someone from our team will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No.

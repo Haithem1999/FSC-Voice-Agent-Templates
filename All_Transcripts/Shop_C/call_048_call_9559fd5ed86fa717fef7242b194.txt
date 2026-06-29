@@ -1,0 +1,23 @@
+Shop: Shop_C
+Call ID: call_9559fd5ed86fa717fef7242b194
+Time: 12/02/2025 06:50
+Duration: 0:43
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.084
+End-to-End Latency: 1355
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Cancel appointment.
+Agent: I can help with that. Could you please provide the name the appointment is under and the date and time it was scheduled for?
+User: Penelope Smith, December third.
+User: AM.
+Agent: Thank you for the details. I’ll let the shop know that Penelope Smith’s appointment for the morning of December 3rd needs to be canceled. Is there anything else I can help you with?
+User: No.
+Agent: Alright, your cancellation request will be passed along to the shop. Have a great evening!

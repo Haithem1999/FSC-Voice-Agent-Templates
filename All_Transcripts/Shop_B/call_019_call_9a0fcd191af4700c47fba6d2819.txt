@@ -1,0 +1,55 @@
+Shop: Shop_B
+Call ID: call_9a0fcd191af4700c47fba6d2819
+Time: 02/25/2026 05:36
+Duration: 3:17
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.380
+End-to-End Latency: 2285
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Very good morning. This is Caller_005 calling from QuickBooks. How are doing today?
+Agent: Good morning, Caller_005! I’m doing well, thank you for asking. How can I assist you today?
+User: Well, this call regards to QuickBooks automatic update and syncing error. So could you please transfer the call to the authorized person over there?
+Agent: Thanks for reaching out, Caller_005. The shop is currently closed, so there isn’t anyone available to take your call right now. Would you like to leave a message for our team, and I’ll make sure it gets to the right person when we open?
+User: Yeah.
+Agent: Great, can you please spell your first name for me?
+User: Can you please spell your first Caller_005, k e.
+Agent: Thank you, Caller_005. And can we use the phone number you are calling from to follow up?
+User: No. Not this number. It's under number.
+Agent: No problem, 
+User: Which is eight 
+Agent: Caller_005. Could you please 
+User: three zero problem, Caller_005.
+Agent: Thank you, Caller_005. Could you please provide the full phone number so I can make sure we have the correct contact information for you?
+User: five five five one zero zero zero zero two zero.
+User: And my extension is four five six.
+Agent: Thank you, Caller_005. Just to confirm, your phone number is 555-100-0020, and your extension is 456. Is that correct?
+User: Yes.
+Agent: Perfect, thank you! What message would you like me to leave for the shop regarding the QuickBooks automatic update and syncing error? Could you please provide any specific details you’d like our team to know?
+User: Well, we are getting constant alert that your Google is not communicating with our Intuit server, and they're not getting the latest update which way they were, like, supposed to reach or get
+Agent: Thank you, Caller_005. I’ve noted your message about the alert regarding Google not communicating with your Intuit server and the update issue. The shop has been notified and will follow up with you at 555-100-0020, extension 456.
+
+Is there anything else I can help you with?
+User: Which company you say?
+User: It's QuickBooks. And you maybe you said Google.
+Agent: Thank you for clarifying, Caller_005. I have your company listed as QuickBooks. In your earlier message, 
+User: Mhmm. 
+Agent: you mentioned an 
+User: In your earlier message,
+User: Yep. 
+Agent: Of course! In your 
+User: That's all.
+Agent: earlier message, you mentioned that you’re getting constant alerts that the system is not communicating with your Intuit server and not receiving the latest updates as expected. You also referenced “Google” in your message, 
+User: Mhmm. You also referenced Please remove that.
+Agent: Thank you for letting me know, Caller_005. I’ve updated your message to remove the reference to Google. The shop will follow up with you regarding the Intuit server communication and update issue.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: Thank you for calling, Caller_005. Have a great day!

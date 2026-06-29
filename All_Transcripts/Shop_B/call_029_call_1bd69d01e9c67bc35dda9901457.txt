@@ -1,0 +1,38 @@
+Shop: Shop_B
+Call ID: call_1bd69d01e9c67bc35dda9901457
+Time: 02/16/2026 20:35
+Duration: 2:23
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.276
+End-to-End Latency: 1622
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Caller_019’s 
+User: You for
+Agent: Automotive Care ! This is Chloe, an AI assistant. How can I help?
+User: Yes. This is an answering service.
+Agent: That’s right! I’m here to help answer your questions, take messages, or assist with scheduling and service requests for Shop_B. What can I help you with today?
+User: I'd like to leave a message for Staff_002.
+Agent: Absolutely, I can help with that. What message would you like me to pass along to Staff_002?
+User: I'd like to find out what company Shop_B prefers customers to for transmission work.
+User: And I was gonna ask Staff_002 some specific questions. About a turbo con converter problem. So I'd like to hear from him.
+User: Caller_018, Tilston, t I l e s t o n. five five five one zero zero zero zero two two.
+Agent: Thank you, Caller_018. Just to confirm, your first name is spelled C a l l e r _ 0 1 8, and your last name is Tilston, spelled T-I-L-E-S-T-O-N. We’ll use the phone number 555-100-0022 to follow up with you.
+
+To make sure I have your message correct: You’d like to know which 
+User: Yes.
+Agent: company Shop_B prefers to refer customers to for transmission work, and you also have some specific questions for Staff_002 about a turbo converter problem. You’d like Staff_002 to give you a call back.
+
+Is that all correct, or would you like to add anything else to your message?
+User: That's very correct. I could go ahead and add that the car is a two thousand four. Mercedes ML three fifty.
+Agent: Thank you, Caller_018. I’ve notified the shop and passed your message along to Staff_002, including your questions and details about your 2004 Mercedes ML350. Someone from the team will follow up with you as soon as possible.
+
+Is there anything else I can help you with today?
+User: No. Thank you.
+Agent: You’re very welcome, Caller_018! Have a great day. Goodbye.

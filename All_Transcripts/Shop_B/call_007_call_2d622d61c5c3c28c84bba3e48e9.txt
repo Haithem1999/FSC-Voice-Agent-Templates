@@ -1,0 +1,18 @@
+Shop: Shop_B
+Call ID: call_2d622d61c5c3c28c84bba3e48e9
+Time: 03/26/2026 20:13
+Duration: 0:52
+Call Status: ended
+Disconnection Reason: call_transfer
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.124
+End-to-End Latency: 1979
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hello. Good afternoon. Uh, this is Dennis from AT and T Alliance channel on a recorded line, and I'm looking for Caller_068, please. 
+Agent: Thanks for reaching out, Dennis. Let me get you connected with someone who can assist you further.

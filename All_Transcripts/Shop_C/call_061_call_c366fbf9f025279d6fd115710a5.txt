@@ -1,0 +1,30 @@
+Shop: Shop_C
+Call ID: call_c366fbf9f025279d6fd115710a5
+Time: 10/31/2025 05:11
+Duration: 1:17
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.149
+End-to-End Latency: 1534
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hello. This is Sofia.
+Agent: Hi 
+User: Can you hear me?
+Agent: Yes, I can hear you, Sofia! How can I assist you today?
+User: Okay. I just wanna ask something regarding appointment tomorrow. Because I'm planning on dropping off my car before zero seven thirty.
+User: And
+Agent: Absolutely, Sofia! You’re planning to drop off your car before 7:30am tomorrow. We do have an after-hours drop-off option for early arrivals. Would you like me to explain how that works, or would you like to schedule your appointment as well?
+User: yeah.
+User: How does that work?
+Agent: No problem! For after-hours drop-off, just park your car out front and lock it. On the front door of the shop, you’ll find envelopes—fill one out with your information, put your keys inside, and drop the envelope through the mail slot on the door. If your car is being towed in or isn’t safe to drive, the tow truck driver can park it directly behind the shop.
+
+We’ll reach out to you during business hours once we have your vehicle. Is there anything else I can help you with regarding your appointment or the drop-off process?
+User: No.
+Agent: Great! If you need

@@ -1,0 +1,37 @@
+Shop: Shop_B
+Call ID: call_9a9cfd1bebf37627d03c17bd5a4
+Time: 12/15/2025 18:39
+Duration: 2:03
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.238
+End-to-End Latency: 1859
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hello. My name is Caller_049 Lim. And I have a two thousand and thirteen Nissan Rogue.
+User: I dropped it off on Saturday night and it's through AAA, I think. It's something to do with the filters or maybe the starter I was having issues accelerating.
+Agent: Thank you for letting 
+User: And
+Agent: me know, Caller_049. Just to confirm, you dropped off your 2013 Nissan Rogue on Saturday night through AAA, and you were experiencing issues with acceleration—possibly related to the filters or the starter.
+
+How can I assist you further with your vehicle today? Would you like to schedule a service, request an update, or leave a message for the team?
+User: Request an update.
+Agent: Absolutely, Caller_049. I’ll make sure the team gets your request for an update on your 2013 Nissan Rogue that you dropped off Saturday night through AAA, with acceleration issues possibly related to the filters or starter.
+
+Is there anything specific you’d like the team to know, or just a general update on the status?
+User: That's it.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 4 9.
+Agent: Thanks, Caller_049. And can we use the phone number you are calling from to follow up?
+User: Yes, you can.
+Agent: Thank you, Caller_049. I’ve notified the shop of your request for an update, and someone will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: Not at this time.
+Agent: Alright, thank you for calling Shop_B. Have a great day!

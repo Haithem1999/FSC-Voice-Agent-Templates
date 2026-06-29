@@ -1,0 +1,50 @@
+Shop: Shop_B
+Call ID: call_db0ca22d16ea8fbdee1841406fe
+Time: 11/26/2025 21:51
+Duration: 2:40
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.309
+End-to-End Latency: 1589.9949951171875
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I just wanna leave a message.
+User: the 
+User: guys We're gonna work on my car tomorrow.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 6 0.
+Agent: Thanks, Caller_060. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Just to confirm, your first name is spelled C a l l e r _ 0 6 0, and we’ll use the number you’re calling from to follow up.
+
+Could you please clarify the message you’d like me to leave for the shop? Would you like to let them know you’re confirming that your car is scheduled for work tomorrow, or is there something specific you’d like to add?
+User: There's something specific I would like to add.
+Agent: Of course! Please let me know exactly what you’d like the shop to know, and I’ll make sure your message is passed along.
+User: I want them to do an oil change on my car
+User: and to look into what's going on with the windshield wiper fluid
+User: nozzles, and see whether what's now broken is what they worked on last time.
+User: And if the warranty covers that.
+User: And then
+User: like them to provide me an estimate for how much it would be to fix
+User: the driver's side
+User: door handle which is broken.
+User: going to they're going to see that the driver's side door will open.
+User: They're gonna need to come in from the passenger side And if they could also look at the tire pressure sense that would be good.
+User: But, yeah, they can do the oil change.
+User: And look at the windshield.
+User: Wiper. Fluid nozzle.
+User: salting me.
+User: That's all.
+Agent: Thank you, Caller_060. I’ve made sure your message includes all your requests: the oil change, checking the windshield wiper fluid nozzles (and whether it’s related to previous work and warranty), an estimate for the driver’s side door handle repair (noting they’ll need to open it from the passenger side), and a check on the tire pressure sensor.
+
+The shop has been notified of your message and will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No. That's all.
+Agent: Thank you for calling Shop_B, Caller_060. Have a great night!

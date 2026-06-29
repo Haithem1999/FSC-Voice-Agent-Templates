@@ -1,0 +1,41 @@
+Shop: Shop_C
+Call ID: call_7df32fa754bdd29135087d1c7aa
+Time: 12/02/2025 04:07
+Duration: 1:15
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.146
+End-to-End Latency: 1956.9993896484375
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, an AI
+User: Wow. 
+Agent: assistant. How can I help?
+User: Wow. Wow. Wow. Hi. I'm sorry. I just wanted to ask, uh, how much is your brake fluid replacement?
+User: (inaudible speech)
+Agent: No worries at all! I’d be happy to help you with that. I don’t have the exact 
+User: It's a
+Agent: price for a brake fluid replacement, but I can have the shop follow up with a quote for you.
+
+Would you like me to get a quote started for you?
+User: Oh, yeah. And do you also replace air coolant or no. No. No.
+User: you also what is it, babe?
+User: Yeah. The coolant.
+Agent: Got it! So you’d like a quote for both a brake fluid replacement and a coolant replacement. I can get that 
+User: Yes. 
+Agent: started for you.
+
+Great, can you please spell your first name for me?
+User: AI.
+Agent: Thank you, AI. And can we use the phone number you are calling from to follow up?
+User: How would you like to tag this call?
+User: Press one for good lead, Press two for poor lead. Press three for existing customer.
+User: four for vendor.
+User: five for other, Press star to repeat options.
+User: pound to skip this step.
+Agent: It sounds like you might be hearing

@@ -1,0 +1,46 @@
+Shop: Shop_C
+Call ID: call_40fcc1677570abbbbaa2335fc41
+Time: 11/29/2025 23:36
+Duration: 2:30
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.289
+End-to-End Latency: 1676.0074462890625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. We wanted to drop our car off on Sunday night
+User: for service.
+Agent: Absolutely, you can drop your car off on Sunday night for service. Here’s what to do: park your vehicle out front and lock it. On the front door, you’ll find envelopes—just fill one out with your information, place your keys inside, and drop the envelope through the mail slot on the front door. We’ll reach out to you during business hours on the next business day.
+
+Is there anything else I can help you with? Would you like to 
+User: No. That's it. 
+Agent: schedule a specific service or leave any details for the team?
+User: Yes, please.
+Agent: Great, I’ll leave a message for the shop letting them know you’ll be dropping your car off Sunday night for service.
+
+Can you please spell your first name for me?
+User: M a r k
+User: Last name Thurston, t h u r s t o n.
+Agent: Thank you, Mark. And can we use the phone number you’re calling from to follow up with you?
+User: five five five one zero zero zero zero four four.
+Agent: Thank you, Mark. Just to confirm, your phone number is 555-100-0044. Is that correct?
+User: Yes.
+Agent: Thank you! And just to confirm, the message you’d like me to leave for the shop is that you’ll be dropping your car off on Sunday night for service. Is there anything specific you’d like the team to know, or is that message good as is?
+User: Add more
+Agent: Of course! What additional details would you like me to include in your message for the shop?
+User: that we just had our car in with this service repair shop to remove a wrench error code
+User: and it has since come on
+User: more.
+User: So it's the same problem
+User: itself.
+Agent: Thank you, Mark. I’ve left a message for the shop: you’ll be dropping your car off Sunday night for service, and you’re experiencing the same wrench error code issue that was recently addressed.
+
+The team will be notified and will follow up with you as soon as possible. Is there anything else I can help you with?
+User: That's it. Thank you.
+Agent: You’re very welcome, Mark! Have a great rest of your weekend, and we’ll be in touch soon. Goodbye!

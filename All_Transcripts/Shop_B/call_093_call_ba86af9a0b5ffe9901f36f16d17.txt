@@ -1,0 +1,38 @@
+Shop: Shop_B
+Call ID: call_ba86af9a0b5ffe9901f36f16d17
+Time: 12/22/2025 20:27
+Duration: 1:42
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.197
+End-to-End Latency: 1291.0009765625
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Caller_019’s 
+User: This is.
+Agent: Automotive Care ! This is 
+Agent: Hi there! How can I help you today?
+User: Cancel an appointment.
+Agent: I can help with that. Would you like to receive a link to manage your appointment cancellation, or would you prefer that I forward your cancellation request directly to the shop for you?
+User: Forward the request.
+Agent: Of course, I can help with that. May I have your first name, and could you please spell it for me?
+User: The first name is Caller_095, C a l l e r _ 0 0 3 t o t h e r.
+Agent: Thank you, Caller_095. Can we use the phone number you are calling from to follow up with you?
+User: five five five one zero zero zero zero three two.
+Agent: Thank you. Just to confirm, your phone number is 555-100-0032. Is that correct?
+User: Yes.
+Agent: Great, thank you! And just to confirm, is there a specific date or time for the appointment you’d like to cancel, or any other details you’d like to share about the appointment?
+User: The appointment is tomorrow, December twenty second.
+User: At 
+User: eight 
+User: thirty AM.
+Agent: Thank you for providing that detail. I’ve notified the shop to cancel your appointment scheduled for tomorrow, December 22nd, at 8:30 AM. They’ll follow up with you once they are open.
+
+Is there anything else I can help you with?
+User: That'll be it.
+Agent: Thank you for calling Shop_B. Have a great evening!

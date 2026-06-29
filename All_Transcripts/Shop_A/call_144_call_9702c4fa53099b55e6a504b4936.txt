@@ -1,0 +1,37 @@
+Shop: Shop_A
+Call ID: call_9702c4fa53099b55e6a504b4936
+Time: 11/08/2025 02:05
+Duration: 2:09
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.249
+End-to-End Latency: 1926
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Just checking on my car.
+User: Hello?
+Agent: Hi there! I’m here and happy to help. Since the shop is currently closed for the day, I don’t have access to real-time updates on vehicles. Would you like to leave a message for the team so they can get back to you as soon as they’re open?
+User: Yes.
+Agent: Great, can you please spell your first name for me?
+User: Caller_046, C a l l e r _ 0 4 6.
+Agent: Thanks, Caller_046. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What message would you like me to leave for the shop about your car?
+User: I didn't receive a phone call or maybe I did. Receive a phone call about the status of my car.
+User: But I was away from my phone
+User: temporarily and may have missed their call, but just wanted to see if it was done.
+User: The gentleman I spoke with earlier said that it would be done this afternoon.
+User: And just wanted to check and see what the status was.
+Agent: Thanks for clarifying, Caller_046. I’ve added to your message that you were told your car would be done this afternoon and you’re checking on its status. The shop has been notified and will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: Uh, when is the shop gonna be open again?
+Agent: The shop will reopen on Monday morning at 8:00am. Is there anything else I can help you with?
+User: Nope.
+Agent: Alright, thank you for calling Shop_A, Caller_046. Have a great weekend!

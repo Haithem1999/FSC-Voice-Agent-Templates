@@ -1,0 +1,31 @@
+Shop: Shop_C
+Call ID: call_c59f0c4b5a6f69047d71dd4a699
+Time: 01/02/2026 18:30
+Duration: 1:17
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Negative
+Appointment Activity: true
+Cost: $0.149
+End-to-End Latency: 2118.99951171875
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Book appointment. For vehicle inspection.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 8 9.
+Agent: Thanks, Caller_089. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: No.
+Agent: No problem! Could you please provide the phone number you’d like us to use?
+User: No. I'd like to talk to someone about booking an appointment.
+Agent: Understood! The team will reach out to you as soon as possible to help you book your vehicle inspection. Is there anything else I can help you with?
+User: No. I would like to talk to someone now.
+User: Sales.
+Agent: I've notified the shop of your request, and someone will reach out to you as soon as possible to help you book your appointment. Is there anything else I 
+User: They don't have 
+Agent: can help you with?
+User: they don't have my number. Can't I just be connected now?
+Agent: I'm sorry, but I can't connect you directly at this moment since the team wasn't able to answer the phone. If you'd like,

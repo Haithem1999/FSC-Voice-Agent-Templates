@@ -1,0 +1,55 @@
+Shop: Shop_A
+Call ID: call_80c62213d3f20174ed018416fd2
+Time: 12/23/2025 03:37
+Duration: 3:24
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.393
+End-to-End Latency: 1990
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A 
+User: Thank you for calling Panda Express.
+Agent: You’ve reached Shop_A, a full-service auto repair shop in Tyler, Texas. How can I help you today?
+User: Representative.
+User: Customer service.
+Agent: The shop is currently closed for the day, but I’m happy to help with any questions or requests you have. What can I assist you with?
+User: I need a tow truck to tow my car to your shop.
+User: To be repaired?
+Agent: I’m sorry you’re going through this. You’re in good hands, though. Would you like us to set up a tow for you?
+User: Yes, please.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 2 2 n e t h
+Agent: Thanks, Caller_063. And can we use the phone number you are calling from to send you a text message?
+User: Yes.
+Agent: Okay, I’ve gone ahead and notified Prestons Towing. I've also sent you a text message with their contact info. They will get in touch with you as soon as possible to make sure you get the help you need. Is there anything else I can help you with?
+User: Can I have this tow bill added to the bill of y'all's repair?
+Agent: That’s a great question. I don’t have access to billing details after hours, but I’ll make sure the shop gets your request. Would you like to leave a message for the team to follow up with you about adding the tow bill to your repair invoice?
+User: Yes.
+User: please.
+Agent: Absolutely! What would you like the shop to know about adding the tow bill to your repair invoice? You can share any details or specific requests, and I’ll make sure they get your message.
+User: Okay.
+Agent: Go ahead whenever you’re ready, Caller_063. What would you like me to include in your message for the shop?
+User: I hit a deer
+User: It broke the transmission line
+User: coolant system.
+User: On my twenty fifteen Jeep.
+User: And I'm gonna need it towed
+User: to your shop
+User: and have y'all repair that?
+User: And I need you to add the tow charge to that.
+User: in Mineola, Texas.
+User: In front of the AutoZone.
+User: That is all.
+Agent: Thank you, Caller_063. Here’s what I’ll pass along to the shop:
+
+You hit a deer in your 2015 Jeep, which broke the transmission line and affected the coolant system. Your vehicle is in front of the AutoZone in Mineola, Texas, and you need it towed to our shop for repairs. You’d also like the tow charge added to your repair invoice.
+
+I’ll make sure the team gets this message and follows up with you as soon as possible. Is there anything else I can help you with?
+User: That is all.
+Agent: Great. If you've never dropped your vehicle off at our shop before, I recommend giving me a call back when you arrive. I'll be able to explain our drop off procedure to you. Take care, Caller_063!

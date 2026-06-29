@@ -1,0 +1,20 @@
+Shop: Shop_A
+Call ID: call_a840c1ee6c37321c4cce8be4e81
+Time: 04/02/2026 03:53
+Duration: 0:21
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.051
+End-to-End Latency: 1353
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'd like to know what cars you have for sale. 
+Agent: Thanks for asking! Shop_A is a full-service auto repair and maintenance shop, but we don’t sell vehicles—we focus on repairs and maintenance for cars and 
+User: Did you 
+Agent: trucks. Is there anything

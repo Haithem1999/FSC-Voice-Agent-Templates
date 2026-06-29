@@ -1,0 +1,29 @@
+Shop: Shop_C
+Call ID: call_6d653e0e320292d1f37e2d043fe
+Time: 10/30/2025 05:02
+Duration: 1:18
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.151
+End-to-End Latency: 2801
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Need to leave a message.
+Agent: Of course! What would you like the shop to know? Please share the details of your message, and I’ll make sure it gets to the team.
+User: This is Don Fryer I called yesterday, and was going to bring my Volkswagen Atlas in today.
+User: But I'm unable to. So I'm going to try for tomorrow.
+Agent: Thank you for letting us know, Don. Can you please spell your first name for me, just to make sure I have it correct?
+User: D o n
+Agent: Great, thank you, Don. And can we use the phone number you are calling from to follow up with you?
+User: Yes, please.
+Agent: I've notified the shop with your message, Don. They'll be aware that you plan to bring your Volkswagen Atlas in tomorrow instead of today.
+
+Is there anything else I can help you with?
+User: That's it. Thank you so much.
+Agent: You're very welcome, Don! Have a great day, and we look forward to seeing you

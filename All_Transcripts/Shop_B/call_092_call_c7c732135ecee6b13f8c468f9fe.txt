@@ -1,0 +1,31 @@
+Shop: Shop_B
+Call ID: call_c7c732135ecee6b13f8c468f9fe
+Time: 12/22/2025 21:23
+Duration: 1:12
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.140
+End-to-End Latency: 1476.00048828125
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Get a quote.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 0 3
+Agent: Thanks, Caller_003. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Could you please tell me the year, make, and model of your vehicle?
+User: Two thousand six Toyota Sequoia.
+Agent: Perfect, thank you. What would you like to be quoted on for your 2006 Toyota Sequoia?
+User: Timing belt.
+User: water pump replacement.
+Agent: Thanks, Caller_003. I’ve forwarded your request for a quote on timing belt and water pump replacement for your 2006 Toyota Sequoia to the shop. Someone from our team will follow up with you soon.
+
+Is there anything else I can help you with?
+User: No that'd be all
+Agent: Alright, thank you for calling Shop_B. Have a great day!

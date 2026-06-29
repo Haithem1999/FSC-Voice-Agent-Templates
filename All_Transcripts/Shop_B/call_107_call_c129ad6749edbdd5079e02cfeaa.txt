@@ -1,0 +1,30 @@
+Shop: Shop_B
+Call ID: call_c129ad6749edbdd5079e02cfeaa
+Time: 12/08/2025 19:50
+Duration: 1:49
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.211
+End-to-End Latency: 2148
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. I have a a Jeep currently in the shop, and I would like to have one more concern addressed.
+Agent: Absolutely, I can help with that. Would you like to leave a message for the shop with the additional concern, or would you prefer I forward your request directly to the team for follow-up?
+User: Leave a message with the shop.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 5 5 r e y
+Agent: Thanks, Caller_108. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Could you please let me know what additional concern you’d like the shop to address with your Jeep? I’ll make sure your message is passed along—just let me know the details.
+User: It's in the vent closest to the driver's side door, The control handle is is missing. I would like to find out how much it would cost to have that replaced or repaired.
+Agent: I've noted your concern about the missing control handle in the vent by the driver's side door and your request for a quote to repair or replace it. The shop has been notified and will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No. Thank you for your help.
+Agent: You're very welcome, Caller_108! Have a great day.

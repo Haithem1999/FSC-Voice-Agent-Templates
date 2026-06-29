@@ -1,0 +1,25 @@
+Shop: Shop_B
+Call ID: call_fc8b66f1cac074339db5f05bbbd
+Time: 12/13/2025 06:53
+Duration: 1:16
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.148
+End-to-End Latency: 1250
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I was wondering if you do inspections vehicle inspections for triple a.
+Agent: Thanks for asking! We do offer comprehensive vehicle inspections at Shop_B, but we are not an official AAA inspection station. If you need a general inspection or a pre-purchase inspection, we can definitely help with that.
+
+Is there anything else I can help you with, or would you like to schedule an inspection appointment?
+User: So okay. Here's what I'd like to do. I'd like a dealership to bring the car by and have it pre inspected.
+Agent: We can definitely help with a pre-purchase inspection! Would you like to receive a booking link to schedule the inspection yourself, or would you prefer that I forward your request directly to the shop so they can follow up with you?
+User: Yeah. What I'd like to do, can now can I have a dealership bring the car down there to have it inspected?
+User: then and we go from there?
+Agent: Absolutely! You can have the dealership bring the car to our shop for a pre-purchase inspection. Many customers do this when buying a vehicle. Once the inspection is complete, we’ll provide you with a detailed report so you can make an informed

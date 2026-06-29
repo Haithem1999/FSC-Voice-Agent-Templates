@@ -1,0 +1,29 @@
+Shop: Shop_B
+Call ID: call_06014d1e9528e7236939e0d78bd
+Time: 03/04/2026 05:39
+Duration: 2:18
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.266
+End-to-End Latency: 1980
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Leave a message for the manager.
+Agent: Of course! What would you like me to let the manager know?
+User: My name is Caller_010 Kearl. My Mazda three two thousand ten, the brake work was done on is to be released to my son who will pay the bill first thing tomorrow morning
+User: My phone number is four one five six four zero two seven four o, and you can call me I have talked to the warranty company. through quality tech who put in the faulty calipers in Caller_113 of twenty twenty five. And I have a case number And all I need is their invoice
+User: the work that they've now done and they they are not going to hold the car while they settle this. This is not their warranty. It is a warranty for the faulty calipers that were installed by quality tech. And I want that car returned to my son tomorrow ASAP.
+Agent: Thank you, Caller_010. Just to confirm, your phone number is 555-100-0018, is that correct?
+
+And just to make sure I have 
+User: Correct.
+Agent: your message right: You want the manager to know that your 2010 Mazda 3, which recently had brake work done, should be released to your son tomorrow morning after he pays the bill. You’ve spoken to the warranty company (through Quality Tech, who installed the faulty calipers in Caller_113 2025), you have a case number, and you just need their invoice for the work done. You also want to clarify that the shop should not hold the car while the warranty is being settled, as it’s not their warranty—it’s for the faulty calipers installed by Quality Tech. You want the car returned to your son as soon as possible tomorrow.
+
+Is all of that correct, or would you like to add or change anything?
+User: No. It's correct. And I'd like a phone call as soon as the manager's available at seven AM. Four one five six four zero two seven four o. Thank you.

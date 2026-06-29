@@ -1,0 +1,51 @@
+Shop: Shop_B
+Call ID: call_1fc1f81c6678a034a56ee41268d
+Time: 11/27/2025 18:53
+Duration: 3:07
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.360
+End-to-End Latency: 2161.0048828125
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yes. I need I need help. For fixing my head for my car.
+User: I know. You have a place in Tijuana, California?
+Agent: We’re located at [Shop_B_Address] in [City], California. We do not have a location in Tijuana or anywhere else in California—just our [City] shop.
+
+Would you like help scheduling an appointment to have your car’s head repaired at our [City] location, or do you have any other questions about our services?
+User: Can you give me the price for the for the hat?
+User: I have a Kia Optima
+User: two thousand and four Two four two twenty four You know how much is for the head?
+Agent: Thanks for sharing your vehicle details—a 2004 Kia Optima. Just to confirm, you’re asking for a quote on the cylinder head repair or replacement for your car, correct?
+
+Great, can you please spell your first name for me?
+User: Yes. Yes. I need a price for for the hat.
+User: You have a you have a do have a or you wanna you have hotel?
+Agent: Just to clarify, we’re an auto repair shop and do not have a hotel or offer lodging services. We specialize in vehicle repairs and maintenance at our [City] location.
+
+To help you with your quote for the cylinder head (“hat”) repair or replacement on your 2004 Kia Optima, could you please spell your first name for me?
+User: Yeah. My name is Caller_104.
+Agent: Thank you, 
+User: Yeah. They they they 
+Agent: Caller_104! And can we use the 
+User: call you for they they yeah. I wanna go see how much for the price for the hat that's this Kia Optima two thousand and four four cylinder It's two twenty four. How much for the head?
+Agent: Thank you, 
+User: Can you give me the 
+Agent: Caller_104. Just to 
+User: price, please?
+Agent: Thank you, Caller_104. I’ll get a quote request started for you. Can we use the phone number you’re calling from to follow up with you?
+User: Yeah. Yeah. My phone number is a five five five one zero zero zero zero three six.
+Agent: Thank you! Just to confirm, your phone number is six six four - two nine two - five seven zero five. Is that correct?
+User: Yes.
+Agent: Your request for a quote on the cylinder head repair or replacement for your 2004 Kia Optima has been forwarded to the shop. Someone from our team will follow up with you soon at the number you provided.
+
+Is there anything else I can help you with today?
+User: No. That's it. Thank you very much.
+User: you for your help.
+Agent: You’re very welcome, Caller_104! Thank you for calling Shop_B. Have a great day!

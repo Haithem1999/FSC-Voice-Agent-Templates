@@ -1,0 +1,24 @@
+Shop: Shop_C
+Call ID: call_c6135faf1adb9f0672bcc588554
+Time: 02/06/2026 04:11
+Duration: 1:43
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.199
+End-to-End Latency: 1488.00390625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C 
+User: Assistant at Sopel Realty and Investments. How are you doing?
+Agent: Hi there! I’m doing well, thank you for asking. How can I assist you today with Shop_C?
+User: Hi, Caller_131. The reason for my call is we help longtime homeowners over the age of sixty five under their options when it comes time to move. Whether it be downsizing or moving into an area you've always wanted to live and how Prop nineteen can help you keep your current property tax rate And best of all, we may cover the cost of that move This isn't a sales call, just informational. Would it be okay if I ask you a couple of quick questions?
+User: If they respond yes, proceed to ask have you heard about prop nineteen and the ability for sixty five plus homeowners in Southern California to transfer their property tax base to a new home in Southern California?
+User: No if they prefer more information instead. Respondo? Great. I'll get that sent right over. If you don't see it, make sure to check your junk mailbox and move the first messages over to your inbox to let your mail software know Eyes wipe up. And more than WiveUp of of voice in more of a multigest.
+Agent: Thank you for sharing that information! However, I’m the after-hours AI assistant for Shop_C, so I’m not able to answer questions or provide information about real estate or Prop 19. If you’d like to leave a message for the shop, I’d be happy to take it and make sure it gets to the right person. Would you like to leave a message?
+User: I apologize for the mix up, Caller_131. I will go ahead and end the call. Thank you for your time. Have a great day.
+Agent: No problem at all! Thank you for calling. Have a wonderful day.

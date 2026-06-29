@@ -1,0 +1,31 @@
+Shop: Shop_C
+Call ID: call_7c8983630196936a24d4088bc19
+Time: 01/30/2026 18:14
+Duration: 1:58
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.228
+End-to-End Latency: 2854
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to let Caller_005 know that this is Caller_004 Blanker Burns calling. And I just spoke to my I just spoke to my claim and they are going to pay the labor for my water pump I have to pay the six hundred the balance, because of the limited liability on my car.
+Agent: Thank you for sharing those details, Caller_004. Can you please spell your first name for me, just to make sure I have it correct?
+User: C a l l e r _ 0 4 3.
+Agent: Thank you, Caller_043. And can we use the phone number you are calling from to follow up with you?
+User: Brinker b r Yes. Mhmm.
+Agent: Thank you! Just to confirm, we’ll use the number you’re calling from to follow up.
+
+To make sure I have your message correct: You’d like Caller_005 to know that you just spoke to your claim, and they will pay the labor for your water pump. You’ll be responsible for the $600 balance due to the limited liability on your car. Is that correct, or would you like to add or clarify anything?
+User: That's correct. It well, I need to and I'll talk to him to see. How much the other eggs that I was asking for will be costing.
+Agent: Thank you, Caller_043. I’ve notified the shop with your message for Caller_005, including your request to discuss the cost of the other work you were asking about. They’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No. Thank you very much.
+User: bye.
+Agent: You’re very welcome, Caller_043. Have a great day! Goodbye.

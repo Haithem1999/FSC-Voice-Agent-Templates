@@ -1,0 +1,47 @@
+Shop: Shop_C
+Call ID: call_06025c85deb63a99b1edfbd03ab
+Time: 10/26/2025 01:14
+Duration: 2:58
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.343
+End-to-End Latency: 2091
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+Agent: Just checking in—are you still there? Let me know how I can assist you today!
+User: Catalytic converter.
+Agent: Thanks for reaching out about your catalytic converter. Are you looking to schedule an appointment for service, or would you like a quote or more information about catalytic converter repairs? Let me know how I can assist!
+User: Hello?
+Agent: Hi there! I’m here and 
+User: I'm here.
+Agent: ready to help. You mentioned “catalytic converter”—are you looking for a repair, a replacement, or do you have a specific question about it? Let me know what you need, and I’ll do my best to assist you!
+User: Question.
+Agent: Of course! What would you like to know about your catalytic converter?
+User: Cost of repair.
+Agent: I’d be happy to help you get a quote for the cost of repairing your catalytic converter.
+
+Great, can you please spell your first name for me?
+User: C a l l e r _ 0 0 7.
+Agent: Thanks, Caller_007. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Could you please tell me the year, make, and model of your vehicle?
+User: Twenty twenty Honda Fit.
+Agent: Great, just to confirm—you’d like a quote for a catalytic converter repair on your 2020 Honda Fit, correct?Is there anything 
+User: Yeah.
+Agent: specific you’d like us to know about the issue, or are you just looking for a general estimate?
+User: General estimate.
+Agent: Thanks, Caller_007! I’ve forwarded your request for a general estimate on a catalytic converter repair for your 2020 Honda Fit to the shop. Someone from our team will follow up with you soon.
+
+Is there anything else I can help you with?
+User: I want to talk to someone now.
+Agent: I understand you'd like to speak with someone directly. The team is currently unavailable to answer the phone, but I’ve made sure your request is a priority and they’ll reach out as soon as possible.
+
+Is there anything else I can help you with in the meantime?
+User: No.
+Agent: Alright, Caller_007. Thanks for calling Shop_C. We’ll be in touch soon about your quote. Have a great day!

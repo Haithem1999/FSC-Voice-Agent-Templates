@@ -1,0 +1,35 @@
+Shop: Shop_B
+Call ID: call_7d99d400d66078b06592673d9e2
+Time: 01/02/2026 01:12
+Duration: 2:16
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.263
+End-to-End Latency: 1520
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B 
+User: Thank you for calling
+Agent: Care ! This is 
+Agent: You’re welcome! How can I help you today?
+User: Hi. I think my daughter has her car fixed there about a month and a half ago.
+User: And it completely broke down the freeway again.
+Agent: I’m really sorry to hear that your 
+User: But I
+Agent: daughter’s car broke down again, especially after just having it repaired. Is she currently stranded and in need of a tow, or would you like to discuss the repair history with the shop? Let me know how I can best assist you right 
+User: I know. No. I would like well, she she she towed her car to the house here in Orange County She goes to school down in [City], and we think I think it's John's Auto Repair. I don't know if it's Caller_019 or Joe.
+User: but maybe they can help me.
+Agent: Absolutely, I’d be happy to help you get in touch with the right shop. You’ve reached Shop_B on [Shop_B_Address] in [City]. If your daughter had her car serviced here, we can look into her repair history and see how we can assist further.
+
+Would you like to leave a message for 
+User: Okay.
+Agent: our team with your contact information and details about the situation, or would you prefer to speak directly with a team member? Let me know what works best for you.
+User: And provide I would prefer to speak with with a team member.
+User: She's got she's gotta get back to school, and I I I'm I'm I'm paranoid. She's telling me I don't know what to do.
+Agent: I understand how stressful this is, and I want to make sure you get the help you need. Let me forward this to the shop so a team member can follow up with you as soon as possible.
+Agent: It looks like I wasn’t able to connect you directly with a team member just now. Would you like me to take

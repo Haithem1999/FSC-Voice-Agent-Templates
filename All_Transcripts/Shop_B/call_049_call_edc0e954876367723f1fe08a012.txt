@@ -1,0 +1,19 @@
+Shop: Shop_B
+Call ID: call_edc0e954876367723f1fe08a012
+Time: 02/03/2026 22:30
+Duration: 0:57
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.111
+End-to-End Latency: 2400
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+Agent: Just checking in—are you still there? If you need help with an appointment, a quote, or have any questions about our services, I’m here to assist!
+User: This is Caller_084 at Delta Investment Group. I noticed that you may have a property for sale or lease. I may be interested in writing an offer. You can reach me back here at five five five one zero zero zero zero two five. Again, five five five one zero zero zero zero two five. I'm a have a question or two. five five five one zero zero zero zero two five. Look forward to your call. Thank you.
+Agent: Thank you,

@@ -1,0 +1,35 @@
+Shop: Shop_B
+Call ID: call_46cf91bab122b94651fb0c51f60
+Time: 01/31/2026 18:22
+Duration: 3:24
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.393
+End-to-End Latency: 1528
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Auto emergency.
+Agent: I'm sorry to hear you're having an auto emergency. Could you please tell me a bit more about the situation so I can make sure you get the right help? For example, are you stranded, in need of a tow, or is there another urgent issue?
+User: My car is making a loud grinding noise from the front left wheel area.
+Agent: Thank you for letting me know. Is your vehicle currently safe to drive, or are you stranded and in need of a tow? If this is urgent and you need immediate assistance, I can notify the shop right away or help arrange a tow for you. Please let me know how you’d like to proceed.
+User: I think I can drive it to you.
+Agent: Thank you for the update. Since you feel comfortable driving it, I recommend bringing your vehicle in as soon as possible to prevent any further damage. Would you like to schedule an appointment for service, or would you prefer to receive a booking link to set up your visit online?
+User: Schedule an appointment.
+Agent: Would you like me to send you a booking link so you can schedule your appointment online, or would you prefer that I forward your appointment request directly to the shop so a service advisor can follow up with you?
+User: Yes. Directly to the shop.
+Agent: Great, I’ll forward your appointment request directly to the shop. Could you please provide your name, phone number, the year, make, and model of your vehicle, and your preferred date and time for the appointment? This will help the team follow up and get you scheduled as soon as possible.
+User: Caller_055 Visane. That is spelled v as in Victor, e z as in Zulu, a I, n as in November, It is a two thousand and six Toyota Prius.
+Agent: Thank you, Caller_055. Could you please provide your phone number and let me know your preferred date and time to bring in your 2006 Toyota Prius? This will help the shop reach out and confirm your appointment.
+User: Phone number is area code five five five one zero zero zero zero two six I would like to bring it in as soon as possible.
+User: This morning would be great.
+Agent: Thank you, Caller_055. I’ve notified the shop about your request to bring in your 2006 Toyota Prius this morning for the grinding noise issue. A service advisor will follow up with you as soon as they are open to confirm your appointment.
+
+Is there anything else I can help you with?
+User: Nope. That'll be all.
+Agent: Thank you for calling Shop_B, Caller_055. We look forward to helping you. Have a great day!

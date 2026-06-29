@@ -1,0 +1,33 @@
+Shop: Shop_C
+Call ID: call_1cb54817a1a696d73ef6d60f725
+Time: 01/24/2026 20:31
+Duration: 1:14
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.144
+End-to-End Latency: 1726
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'd like to schedule an appointment. Customer service.
+Agent: Great, can you please spell your first name for me?
+User: Can I speak with a human being, please?
+Agent: The shop is currently closed, so there isn’t anyone available to take your call right now. I’m here to help with 
+User: Okay.
+Agent: scheduling, general questions, or to leave a message for the team. Would you like to continue scheduling your appointment, or would you prefer to leave a message for the shop?
+User: Okay.
+User: Well, I'll schedule an appointment for Monday morning for an oil change.
+Agent: Thank you! Can you please spell your first name for me?
+User: C a l l e r _ 1 3 7.
+Agent: Thanks, Caller_137. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Perfect! I’ve just sent you a text message with a link where you can schedule your oil change appointment for Monday morning.Is there anything else I 
+User: Thank you.
+Agent: can help you with?
+User: No. That's it.
+Agent: You're welcome, Caller_137! Have a great weekend, and we look forward to seeing you soon. Goodbye!

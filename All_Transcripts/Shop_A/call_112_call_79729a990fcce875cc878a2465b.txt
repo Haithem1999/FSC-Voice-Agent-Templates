@@ -1,0 +1,32 @@
+Shop: Shop_A
+Call ID: call_79729a990fcce875cc878a2465b
+Time: 12/06/2025 20:21
+Duration: 1:06
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.128
+End-to-End Latency: 2056
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: What are your hours, please?
+Agent: Our hours are Monday through Friday from 8:00am to 5:00pm. We’re closed on Saturdays and Sundays. Is there anything else I can help you with?
+User: Not right now. Thank you.
+Agent: You're 
+User: Can you tell me 
+Agent: welcome! Have a great 
+User: Oh, can you wait. Wait. Can are you still there?
+Agent: Yes, I’m still here! Take your time—what else 
+User: Okay. 
+Agent: can I help you with?
+User: The the the personnel that worked there, the owners, is it Robbie?
+Agent: I don’t have 
+User: And Randy?
+Agent: specific information about the owners or staff names at Shop_A. Is there something else I can help you with about our services or the shop?
+User: Uh, not right now, but thank you very much. Bye bye.
+Agent: Thank you for calling! Have a wonderful day. Goodbye!

@@ -1,0 +1,56 @@
+Shop: Shop_B
+Call ID: call_6fc586f9017371edf326c2365e7
+Time: 12/20/2025 19:22
+Duration: 2:50
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.328
+End-to-End Latency: 1506
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Um, I have an appointment at nine o'clock. I'm just making sure I have the right place.
+User: It's are you you're Shop_B on Airport Way. Is that correct?
+Agent: Thanks for checking! You’ve reached Shop_B located at [Shop_B_Address] in [City]. We are not on Airport Way. If your appointment is at our shop, it will be at the [Shop_B_Address] location.
+
+Is there anything else I can help you with, or would you like directions to our shop?
+User: No. I want tickets.
+User: Airport Way. So what is that phone number?
+Agent: It sounds like you may be trying to reach a different business, as Shop_B is located on [Shop_B_Address], not Airport Way. Unfortunately, I don’t have the contact information for a shop on Airport Way.
+
+Would you like to leave a message for our team, or is there anything else I can help you with?
+User: I want to know if I am if I have an appointment at your place
+Agent: I don’t have access to our appointment calendar, but I can have the team check for you and get back to you as soon as possible. Would you like to leave your name and phone number so we can confirm your appointment?
+User: Yes.
+Agent: Great! Please 
+User: Caller_044 Caller_044
+Agent: provide your name and the best phone number to reach you, and I’ll make sure the team checks on your appointment and gets back to you.
+User: Okay. Caller_044 Baker.
+Agent: Thank you, Caller_044 Baker. Could you 
+User: Five thirty eight I'm sorry.
+Agent: No 
+User: Caller_044 Baker.
+Agent: problem, Caller_044! Could you please provide your full phone number so the team can reach you to confirm your appointment?
+User: five five five one zero zero zero zero three four.
+Agent: Thank you! Just to 
+User: So do I do
+Agent: confirm, your phone number is 555-100-0034. 
+Agent: Thanks, Caller_044! I’ll have the team check if you have an appointment with 
+User: (inaudible speech)
+Agent: us and they’ll reach out to you at 555-100-0034 to confirm.
+
+Is there anything specific you’d like me to mention in your message to the team, or just to confirm your appointment for this morning?
+User: Confirm my appointment. And what address are you?
+User: What is your address?
+Agent: Our address is [Shop_B_Address]. We’re in [City], just off Mission Gorge Road.
+
+The team has been notified to confirm your appointment, and they’ll reach out to you soon. Is there anything else I can help you with?
+User: Uh, no. Thank you.
+Agent: You’re 
+User: Thank you.
+Agent: very welcome, Caller_044! Have a great day, and we look forward to seeing you soon.

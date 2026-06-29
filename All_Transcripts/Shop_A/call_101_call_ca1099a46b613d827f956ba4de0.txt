@@ -1,0 +1,20 @@
+Shop: Shop_A
+Call ID: call_ca1099a46b613d827f956ba4de0
+Time: 12/20/2025 20:18
+Duration: 0:38
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.075
+End-to-End Latency: 2499.5
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Operator.
+Agent: The shop is currently closed for the weekend, so there isn’t anyone available to take your call directly. I’m here to help with any questions you might have, schedule appointments, or take a message for the team. What can I assist you with today?
+User: Schedule an appointment.
+Agent: Great, can you please spell your first name for me?

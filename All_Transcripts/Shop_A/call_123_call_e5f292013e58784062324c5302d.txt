@@ -1,0 +1,33 @@
+Shop: Shop_A
+Call ID: call_e5f292013e58784062324c5302d
+Time: 11/22/2025 23:36
+Duration: 1:24
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.163
+End-to-End Latency: 1647.9990234375
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Uh, can I leave a voice mail?
+Agent: Absolutely, you can leave a message for the shop. What would you like us to pass along?
+User: I'm Caller_086 Williams. I just picked up my car yesterday. Today, it's having the check engine light come on.
+User: And I took it over to a shop to get it red. And the code that's coming back is p one four five zero.
+User: It has stopped on me today while driving it maybe two miles from the house.
+User: So I 
+Agent: Thank you for 
+User: was hoping to get on y'all thank you.
+Agent: Thank you for sharing those details, Caller_086. Can you please spell your first name for me, just to make sure I have it correct?
+User: C a l l e r _ 0 2 6.
+Agent: Thank you, Caller_026. And can we use the phone number you’re calling from to follow up with you?
+User: Yes.
+Agent: Thank you, Caller_026. I’ve notified the shop with your message and they’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No. That's all.
+Agent: Alright, thank you for calling Shop_A. Have a great day!

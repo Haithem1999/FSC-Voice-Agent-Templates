@@ -1,0 +1,39 @@
+Shop: Shop_A
+Call ID: call_738a52d52473c6bb5cd516b37d2
+Time: 12/27/2025 20:50
+Duration: 2:03
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.238
+End-to-End Latency: 1463.0009765625
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'm looking to speak with service
+Agent: Thanks for reaching out! The shop is currently closed today (Saturday), but I’m happy to help however I can. Are you looking to schedule a service appointment, get information about a repair, or would you like to leave a message for our service team?
+User: No. I'll just I just need to get some questions answered.
+Agent: Of course! I’m here to help. What questions can I answer for you today?
+User: Can they prepare a a cylinder head?
+User: I have one cylinder head that's bad on my engine.
+Agent: Thanks for sharing that. Shop_A specializes in engine repair and maintenance, including work related to cylinder heads. While we handle many engine repairs, the specific process of cylinder head preparation—such as machining, resurfacing, or rebuilding—may sometimes be referred out to a machine shop, depending on the extent of the work needed.
+
+Would you like more details about how we can help with your cylinder head issue, or are you interested in scheduling an appointment to have it checked out?
+User: I'm interested in how much it'll cost.
+Agent: Absolutely, I can help you request a quote for cylinder head work. To get started, can you please spell your first name for me?
+User: Hey. E Caller_042, e e e d.
+Agent: Thank you, Caller_042. And can we use the phone number you’re calling from to follow up with you?
+User: Yeah.
+Agent: Great, thank you! Could you please tell me the year, make, and model of your vehicle? This will help us provide a more accurate 
+User: Twenty 
+Agent: quote.
+User: one, two thousand twenty one CTS.
+Agent: Thank you, Caller_042. If you have it handy, could you please share your VIN number slowly? This helps 
+User: Oh, I 
+Agent: us give you the most 
+User: don't have I don't have the VIN number. I have to get back with you on that.
+User: don't have a VIN.

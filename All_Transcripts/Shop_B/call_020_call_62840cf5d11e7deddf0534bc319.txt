@@ -1,0 +1,25 @@
+Shop: Shop_B
+Call ID: call_62840cf5d11e7deddf0534bc319
+Time: 02/25/2026 01:33
+Duration: 0:56
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.109
+End-to-End Latency: 1496
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. My name is Caller_110. My phone number is five five five one zero zero zero zero two one. I wanted to get an estimate on replacing the oil pan on a twenty twelve Fiat five hundred pop.
+User: The 
+User: oil pan has a hairline crack in the bottom of it, and that's where the oil is leaking. Thank you.
+User: (User pressed digit: #)
+Agent: Thanks, Caller_110! I’ve forwarded your request for an estimate on replacing the oil pan for your 2012 Fiat 500 Pop to the shop. Someone from our team will follow up with you as soon as possible.
+
+Is there anything else I can help you with today?
+User: No. Thank you.
+Agent: You’re welcome, Caller_110! Have a great rest of your day. Goodbye!

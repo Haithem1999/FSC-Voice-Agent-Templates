@@ -1,0 +1,30 @@
+Shop: Shop_C
+Call ID: call_16c41da133e6cf3a0340f56cbaa
+Time: 01/29/2026 04:32
+Duration: 1:31
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.176
+End-to-End Latency: 1935.99609375
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yes, Chloe. This is Caller_004 Brinker Burns, and I brought my car in today. And I just forgot to tell Caller_005 that also if they could check out my air conditioning and heater system because I can only my heater will only work if it's set on the I think it's the just if you could just call me tomorrow, I would appreciate it.
+User: five five five one zero zero zero zero four one.
+Agent: Thank you, Caller_004. Just to confirm, your phone number is 555-100-0041, correct?
+
+And just to make sure I have your 
+User: Correct.
+Agent: message right: You'd like the shop to check your air conditioning and heater system, specifically because your heater only works when it's set to a certain setting. You'd also like someone to call you tomorrow to discuss this. Is that correct, or would you like to add anything else?
+User: That's it.
+User: Thank you.
+Agent: Thank you, Caller_004. I've notified the shop with your message, and someone will give you a call tomorrow to follow up about your air conditioning and heater system.
+
+Is there anything else I can help you with?
+User: No. I appreciate your help. Have a nice evening. Bye.
+Agent: You're very welcome, Caller_004. Have a wonderful evening! Goodbye.

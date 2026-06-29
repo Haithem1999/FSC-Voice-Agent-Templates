@@ -1,0 +1,33 @@
+Shop: Shop_B
+Call ID: call_49071784a119e7ebe9f84269f92
+Time: 01/11/2026 04:42
+Duration: 1:02
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.121
+End-to-End Latency: 1527.4990234375
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'm calling for a quote on fixing a tail light.
+Agent: Great, can you please spell your first name for me?
+User: Caller_088, C a l l e r _ 0 8 8.
+Agent: Thanks, Caller_088. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Could you please tell me the year, make, and model of your vehicle?
+User: Twenty twenty two Ford Escape.
+Agent: Perfect, thank you. Just to confirm, you’d like a quote for fixing a tail light on your 2022 Ford Escape, correct?
+User: That's correct. I already have the part.
+User: I just need to 
+User: change 
+User: it out.
+Agent: Thank you for clarifying, Caller_088. I’ve forwarded your request for a quote to the shop, and someone will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: Nope. That's all. Thank you.
+Agent: You're welcome, Caller_088! Have a great rest of your weekend. Goodbye!

@@ -1,0 +1,31 @@
+Shop: Shop_C
+Call ID: call_c9b95ddb78cad473e46c089881e
+Time: 11/24/2025 05:48
+Duration: 1:03
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.123
+End-to-End Latency: 1323
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to leave a message.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 1 0 7
+Agent: Thanks, Caller_107. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What message would you like me to leave for the shop?
+User: I won't be able to make my appointment today. Seven thirty for my twenty twenty Outback.
+User: sick, 
+User: and so I 
+User: just need to reschedule for next week probably.
+Agent: I've let the shop know that you won't be able to make your appointment today for your 2020 Outback and that you'd like to reschedule for next week. They'll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: That's it.
+Agent: Thank you for calling, Caller_107. I hope you feel better soon! Have a great day.

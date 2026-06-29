@@ -1,0 +1,36 @@
+Shop: Shop_A
+Call ID: call_85d705cd6edee910c4aa0ef7c24
+Time: 02/21/2026 20:16
+Duration: 2:33
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.295
+End-to-End Latency: 1332
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hello, Corey. This is Caller_009 with automated Lending. Um, I just want to ask, um, could I speak with the owner or the manager?
+Agent: Hi Caller_009, thanks for reaching out! The shop is currently closed for the weekend, so the owner or manager isn’t available right now. Would you like to leave a message for them, or is there something specific I can help you with?
+User: Sure. Yeah. You I can leave a message. Yeah.
+Agent: Great, can you please spell your first name for me?
+User: Oh, this is Caller_009 from Automated Vending. So we're offering snack and beverages machine. In, like, selected businesses at no cost. So I just want to ask, you already have vending machine on your location?
+Agent: Thank you for clarifying, Caller_009. I don’t have that information available, but I can leave your message for the owner or manager so they can follow up with you.
+
+Could you please spell your first name for me?
+User: Yes. My name is Caller_009.
+Agent: Thank you, Caller_009. And can we use the phone number you are calling from to follow up?
+User: Sure. So my number is five five five one zero zero zero zero zero four.
+Agent: Thanks, Caller_009. Just to confirm, your phone number is seven one six - three nine six - six four nine six, correct?
+User: Yes. That's right.
+Agent: Perfect! What would you like your message to say for the owner or manager? Is it just to ask if Shop_A currently has a vending machine, or would you like to include more details about your offer?
+User: Yes. I want to explain more details to the owner or the manager. So we're currently placing fully service snack and beverages machine. So we offering different kind of vending machines. It can be combo mix with a snack and drinks, or can be a cooler AI cooler So it depends on the preference. In your location. So I just want to clarify first or I just want to clarify if your location qualified. With the owner or the manager.
+Agent: Thank you, Caller_009. I’ve passed your message along to the owner and manager, and they’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with today?
+User: None none so far. Thank you so much for your time.
+Agent: You're very welcome, Caller_009! Have a great day. Goodbye!

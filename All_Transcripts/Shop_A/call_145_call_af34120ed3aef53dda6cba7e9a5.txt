@@ -1,0 +1,19 @@
+Shop: Shop_A
+Call ID: call_af34120ed3aef53dda6cba7e9a5
+Time: 10/24/2025 04:11
+Duration: 1:29
+Call Status: ended
+Disconnection Reason: inactivity
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.172
+End-to-End Latency: 2451.9990234375
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Talk to a person about bringing my car in.
+Agent: The shop is currently closed since it’s Friday morning before 8am, but I can help you schedule an appointment to bring your car in, or leave a message for the team to call you back when they open. Which would you prefer?
+Agent: Just checking in—would you like to schedule an appointment to bring your car in, or would you prefer to leave a message for the team to call you back when they open? Let me know how you’d like to proceed!

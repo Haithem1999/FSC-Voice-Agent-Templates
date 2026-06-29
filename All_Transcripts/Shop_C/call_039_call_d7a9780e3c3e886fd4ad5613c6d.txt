@@ -1,0 +1,22 @@
+Shop: Shop_C
+Call ID: call_d7a9780e3c3e886fd4ad5613c6d
+Time: 12/20/2025 21:36
+Duration: 0:47
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.092
+End-to-End Latency: 2132
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'm calling about getting an oil change.
+Agent: Great! I can help you with that. Would you like to schedule an appointment for your oil change?
+User: Are there walk ins available today?
+Agent: We’re actually closed today—Shop_C is open Monday through Friday, from 7:30am to 5:00pm. Would you like to schedule an appointment for your oil change on a weekday, or is there anything else I can help you with?
+User: That's it.
+Agent: Alright, thanks for calling Shop_C. Have a great weekend!

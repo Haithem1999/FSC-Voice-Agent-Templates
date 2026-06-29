@@ -1,0 +1,42 @@
+Shop: Shop_A
+Call ID: call_f2c76c61106abc216a7eabcd124
+Time: 03/01/2026 00:26
+Duration: 1:37
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.188
+End-to-End Latency: 1439.001953125
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yes. I I called yesterday for a quote. And I was trying to find out if they're open today.
+User: Give me a quote.
+Agent: Absolutely, I can help with that quote request. Great, can you please spell your first name for me?
+User: Caller_002, C a l l e r _ 0 0 2.
+Agent: Thanks, Caller_002. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Perfect, thank you! What is the year, make, and model of your vehicle?
+User: It's a two thousand and twelve Toyota Scion x b.
+Agent: Thank you! If you have your VIN number handy, could you please share it slowly? This will help us provide a more accurate quote. If you don’t have it 
+User: I've already given 
+Agent: available, that’s okay too.
+User: I've already given that to them.
+Agent: No problem, 
+User: And all that stuff.
+Agent: Caller_002.
+Agent: What would you like to be 
+User: But I 
+Agent: quoted on today?
+User: well, I engine replacement.
+Agent: Your request for an engine replacement quote on your 2012 Toyota Scion xB has been forwarded to the shop. They'll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: Are they open today?
+Agent: No, Shop_A is closed today—Saturday. Our regular hours are Monday through Friday, 8:00am to 5:30pm. Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're welcome, Caller_002! Have a great weekend. Goodbye!

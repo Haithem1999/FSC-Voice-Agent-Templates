@@ -1,0 +1,33 @@
+Shop: Shop_A
+Call ID: call_6bba1792115c4c916dc001d44a1
+Time: 11/10/2025 05:17
+Duration: 1:43
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.199
+End-to-End Latency: 2476
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to leave a message.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 4 6
+Agent: Thanks, Caller_046. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What message would you like me to leave for the shop?
+User: I plan on dropping my car off tomorrow for some work under warranty.
+User: And I just wanted to call and let them know that.
+User: Um, I don't know exactly what time yet, but I've gotta get a rental car and get it towed up there.
+User: And and the car was actually going through was working fine one day. The next, nothing came on.
+User: power whatsoever.
+User: And so I went and bought a new battery. And that didn't work either. So I think it might be the ECM, which is covered under the one So I'm just gonna have somebody look at it and see if they can fix that.
+Agent: I've notified the shop of your message, Caller_046. They'll be aware that you're planning to drop off your car tomorrow for warranty work and the details you shared.
+
+Is there anything else I can help you with?
+User: No. That's all.
+Agent: Alright, thank you for calling Shop_A, Caller_046. Have a great day!

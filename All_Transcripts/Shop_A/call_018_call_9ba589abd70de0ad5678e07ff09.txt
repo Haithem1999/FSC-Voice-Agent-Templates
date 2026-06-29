@@ -1,0 +1,32 @@
+Shop: Shop_A
+Call ID: call_9ba589abd70de0ad5678e07ff09
+Time: 03/22/2026 00:51
+Duration: 1:21
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.157
+End-to-End Latency: 1619.5
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to get an estimate on how much a how much an oil change costs 
+Agent: I’d be happy to help you with that estimate. Great, can you please spell your first name for me?
+User: C a l l e r _ 0 0 2. 
+Agent: Thanks, Caller_002. And can we use the phone number you are calling from to follow up?
+User: Yes. 
+Agent: Perfect, thank you. Could you please tell me the year, make, and model of your vehicle? This will help us provide 
+User: Twenty four 
+Agent: an accurate estimate for your oil change.
+User: twenty fourteen. Toyota Prius. 
+Agent: Thank you! If you have your VIN number handy, could you please share it slowly? This helps us provide the most accurate quote. If you don’t have it available, that’s totally fine—just let me know.
+User: I don't have it. 
+Agent: No problem at all. I’ve forwarded your request for an oil change estimate on your 2014 Toyota Prius to the shop. Someone from our team will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No. 
+Agent: Alright, thank you for calling Shop_A. Have a

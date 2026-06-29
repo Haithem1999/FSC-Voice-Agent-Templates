@@ -1,0 +1,23 @@
+Shop: Shop_B
+Call ID: call_955350190e2def22382465f5c68
+Time: 01/31/2026 20:43
+Duration: 0:48
+Call Status: ended
+Disconnection Reason: call_transfer
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.094
+End-to-End Latency: 1210.49951171875
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: This is Caller_005 at Top Notch termite or Caller_005 Heller?
+Agent: Hi 
+User: Hello?
+Agent: Caller_005! This is Shop_B. You’ve reached our AI assistant, Chloe. How can I assist you today? Are you looking to schedule service, leave a message, or do you have a question about our shop?
+User: Oh, okay.
+User: Talk to a technician.
+Agent: Let me get you connected with a technician from our team. Please hold for just a moment.

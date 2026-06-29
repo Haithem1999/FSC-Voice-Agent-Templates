@@ -1,0 +1,28 @@
+Shop: Shop_C
+Call ID: call_a90054824590bc8548fb858487d
+Time: 11/10/2025 18:23
+Duration: 1:02
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.121
+End-to-End Latency: 1779
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'd like to bring my car in the morning or this afternoon for repair.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 6 2
+Agent: Thanks, Caller_062. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Thank you! What type of repair or service would you like to schedule for your car?
+User: Axle leak.
+Agent: I've just sent you a text message with a link to schedule your service appointment for the axle leak repair. You can choose a time that works best for you.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're welcome, Caller_062! Have a great day, and we look forward to helping you with your car. Goodbye!

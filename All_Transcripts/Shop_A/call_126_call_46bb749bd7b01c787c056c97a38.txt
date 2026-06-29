@@ -1,0 +1,24 @@
+Shop: Shop_A
+Call ID: call_46bb749bd7b01c787c056c97a38
+Time: 11/22/2025 01:21
+Duration: 0:50
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.098
+End-to-End Latency: 1791.99951171875
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: What are your hours for Saturday?
+Agent: We’re closed on Saturdays. Our regular hours are Monday through Friday, 8am to 5pm. Is there anything else I can help you with?
+User: Can I just drop my car by?
+Agent: Absolutely! You can drop your car off even when we’re closed. There’s a secure drop box at our location on [Shop_A_Address] where you can leave your keys. Just make sure to fill out the envelope with your contact information and details about your vehicle or the service you need.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Thanks for calling Shop_A

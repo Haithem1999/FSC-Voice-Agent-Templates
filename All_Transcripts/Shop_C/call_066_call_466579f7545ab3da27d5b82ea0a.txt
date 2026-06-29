@@ -1,0 +1,26 @@
+Shop: Shop_C
+Call ID: call_466579f7545ab3da27d5b82ea0a
+Time: 10/25/2025 21:00
+Duration: 0:54
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.105
+End-to-End Latency: 1869
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I want to schedule an appointment.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 6 9.
+Agent: Thanks, Caller_069. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Thank you! What would you like to schedule your appointment for?
+User: Regular service for a Nissan
+Agent: I've just sent you a text message with a link where you can schedule your service appointment for your Nissan. Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling Shop_C, Caller_069. Have a great day!

@@ -1,0 +1,35 @@
+Shop: Shop_A
+Call ID: call_488e60f648499508ab5c41c23c0
+Time: 12/15/2025 05:04
+Duration: 1:21
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.157
+End-to-End Latency: 2507.4990234375
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Caller_079.
+Agent: Hi Caller_079! What can I help you with today?
+User: No. I just need to speak to Caller_079.
+Agent: Caller_079 isn’t available right now since the shop is currently closed. Would you like to leave a message for Caller_079, and I’ll make sure he gets it as soon as possible?
+User: Caller_057 Smisick. five five five one zero zero zero zero zero nine.
+Agent: Thank you, Caller_057. Just to confirm, your phone number is 555-100-0009, correct?
+
+What message would you like me to 
+User: Correct.
+Agent: leave for Caller_079?
+Agent: Great, thanks for confirming your 
+User: Hammer. 
+Agent: number. What would you like your message to say for Caller_079?
+User: Humber h three in parking lot. Needs repair.
+Agent: Thank you, Caller_057. I’ve notified the shop that your Hummer H3 in the parking lot needs repair, and your message will be passed along to Caller_079.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Alright, thank you for calling Shop_A. Have a great day!

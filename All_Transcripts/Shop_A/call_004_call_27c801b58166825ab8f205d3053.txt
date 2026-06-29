@@ -1,0 +1,23 @@
+Shop: Shop_A
+Call ID: call_27c801b58166825ab8f205d3053
+Time: 04/01/2026 01:42
+Duration: 1:08
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.161
+End-to-End Latency: 1186
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'm a customer. 
+Agent: Great! How can I assist you today? Are you calling with a question about our services, looking to schedule an appointment, or is there something else I can help with?
+Agent: Just checking in—are you still there? Let me know how I can help with your vehicle or any questions you might have!
+User: I'm trying to see if my my automobile is ready. My name is Michael Mass. 
+Agent: Thanks for reaching out, Michael. Since the shop is currently closed, I don’t have access to real-time status updates on vehicles. Would you like to leave a message for the team so they can get back to you as soon as they’re open?
+User: No. I'll call them in the morning. 
+Agent: That sounds good, Michael. The shop opens at 8:00am tomorrow, so someone will be able to assist you then. Is there

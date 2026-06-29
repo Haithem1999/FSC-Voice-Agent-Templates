@@ -1,0 +1,20 @@
+Shop: Shop_A
+Call ID: call_4ab9e4b6e517efbd3d8089bc536
+Time: 01/17/2026 19:42
+Duration: 0:25
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.048
+End-to-End Latency: 2094.5
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: What are your hours?
+Agent: We’re open Monday through Friday from 8:00am to 5:00pm, and we’re closed on Saturdays and Sundays. Is there anything else I can help you with?
+User: That's all. Thank you.
+Agent: You’re welcome! Have a great day.

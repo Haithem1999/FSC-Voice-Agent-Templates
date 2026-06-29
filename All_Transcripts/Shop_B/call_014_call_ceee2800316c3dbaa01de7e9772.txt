@@ -1,0 +1,26 @@
+Shop: Shop_B
+Call ID: call_ceee2800316c3dbaa01de7e9772
+Time: 03/10/2026 02:48
+Duration: 1:24
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.163
+End-to-End Latency: 2711
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yes. My name is Caller_087 Staff_004. My phone number on file is five five five one zero zero zero zero one six. Or it could be under five five five one zero zero zero zero one seven. I brought in my Chevy Trailblazer probably about a month ago to have servicing done, and I ended up having my rotors changed. Been out of the country for a couple of weeks, but when I got back, I've noticed that the squeaking when I brake is really loud. And I was gonna see if I could bring my car in to have it checked out again.
+Agent: Thank you for 
+User: You can give me 
+Agent: providing those 
+User: a callback
+Agent: Thank you, Caller_087. I’ll make sure the shop receives your message about the loud squeaking when you brake after your recent rotor service on your Chevy Trailblazer. A team member will give you a call back at one of the numbers you provided to arrange a time to bring your vehicle in for a recheck.
+
+Is there anything else I can help you with today?
+User: No.
+Agent: The shop has been notified and will reach out to you soon. Thank you for calling, Caller_087. Have a great day!

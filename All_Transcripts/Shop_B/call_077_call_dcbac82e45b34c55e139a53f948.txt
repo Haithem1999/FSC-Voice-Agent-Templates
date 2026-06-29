@@ -1,0 +1,36 @@
+Shop: Shop_B
+Call ID: call_dcbac82e45b34c55e139a53f948
+Time: 01/10/2026 20:55
+Duration: 1:56
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.224
+End-to-End Latency: 1442
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Are you open now?
+Agent: Our team isn’t available right now — our Saturday hours are 8 am to 5 pm. Is there something I can help you with?
+User: Can I bring my card in?
+Agent: Absolutely, you can plan to bring your car in — our Saturday hours are 8 am to 5 pm. Would you like to schedule an appointment, or are you planning to stop by as a walk-in?
+User: Yes. Appointment.
+Agent: Great! Would you like me to send you a booking link so you can schedule your appointment online, or would you prefer that I forward your appointment request directly to the shop so a team member can follow up with you?
+User: Yes. Please forward to them.
+Agent: Of course! May I have your name, the best phone number to reach you, and a brief description of the service or concern with your car? This will help the team follow up and get your appointment set up.
+User: Caller_028. five five five one zero zero zero zero three zero. It's regarding an emission system problem.
+Agent: Thank you, Caller_028. Just to confirm, the phone number is 555-100-0030, correct?
+
+And when would you like to come in for 
+User: Yes. 
+Agent: your emission system problem?
+User: As early as possible.
+Agent: Thank you, Caller_028. I’ve notified the shop about your request for an appointment regarding your emission system problem, as early as possible. A team member will follow up with you soon to confirm the details.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You’re very welcome, Caller_028! Have a great day, and we look forward to helping you soon. Goodbye!

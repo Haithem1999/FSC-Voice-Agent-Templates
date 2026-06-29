@@ -1,0 +1,28 @@
+Shop: Shop_B
+Call ID: call_8df9a583903df44ed6a286758b8
+Time: 01/12/2026 05:43
+Duration: 1:27
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.169
+End-to-End Latency: 2014
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Chloe. I was calling to cancel an appointment.
+Agent: Thanks for letting us know! I’m unable to cancel appointments directly after hours, but I can leave a message for the shop to cancel your appointment as soon as they open. Would you like me to do that for you? If so, could you please provide your name and the details of your appointment?
+User: Yes. My name is Caller_081 Riley. I had a I used car vehicle inspection. For purchase. Unfortunately, the seller is unable to make it to the appointment today.
+Agent: Thank you, Caller_081. Can you please spell your first name for me, just to make sure I have it correct?
+User: C a l l e r _ 0 8 1.
+Agent: Thanks, Caller_081. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: The shop has been notified of your request to cancel the used car inspection appointment, and they’ll follow up with you if needed.
+
+Is there anything else I can help you with?
+User: That's it. Thank you.
+Agent: You’re welcome, Caller_081! Have a great day.

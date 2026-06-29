@@ -1,0 +1,33 @@
+Shop: Shop_B
+Call ID: call_8e3644882638c2ddcf22006e4ba
+Time: 12/10/2025 01:10
+Duration: 1:45
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.203
+End-to-End Latency: 1865.5
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Uh, I was calling to make a oil change
+User: for a Buick Encore.
+User: Me and my dad go to your place all the time for Edward Hong. Or Caller_122 Hawn, h o n.
+User: trying to get this planned for this week.
+User: And, also, my tire tire sensor went out.
+User: I don't know if happening with that, but my my tire looks completely fine.
+Agent: Thanks for sharing those details! I can help you get started with scheduling an oil change for your Buick Encore and have the team check out your tire pressure sensor issue as well.
+
+Would you like me to send you a booking link so you can choose a time that works best for you, or would you prefer that I forward your appointment request directly to the shop so they can follow up with you?
+User: You can just send me a link.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 1 2 2.
+Agent: Thanks, Caller_122! And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Perfect! I’ve just sent you a text message with a link where you can schedule your oil change and have the tire pressure sensor checked for your Buick Encore.Is there anything else I can help you with today?
+User: Nope.
+Agent: Thanks for calling Shop_B, Caller_122! Have a great day and we look forward to seeing you soon.

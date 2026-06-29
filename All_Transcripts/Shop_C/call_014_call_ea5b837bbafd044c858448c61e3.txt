@@ -1,0 +1,36 @@
+Shop: Shop_C
+Call ID: call_ea5b837bbafd044c858448c61e3
+Time: 02/23/2026 22:44
+Duration: 1:34
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.182
+End-to-End Latency: 1209.50146484375
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi, Chloe. This is Caller_027 with Snap Finance on a recorded line. I was hoping to speak with Staff_001 if she's available.
+Agent: Hi Caller_027! Thanks for reaching out. Staff_001 isn’t available to take your call at the moment. Would you like to leave her a message, or is there anything else I can help you with today?
+User: Sure. I'll leave her a message.
+Agent: Great, can you please spell your first name for me?
+User: Yes. It is C a l l e r _ 0 2 7.
+Agent: Thanks, Caller_027. And can we use the phone number you are calling from to follow up?
+User: Yes.
+User: It 
+Agent: Thank you!
+User: is five five five one zero zero zero zero three eight.
+Agent: Just to confirm, your phone number is 555-100-0038. Is that correct?
+User: Yeah.
+User: Yes.
+Agent: Perfect, thank you! What message would you like me to leave for Staff_001?
+User: I'm calling to speak with you pertaining to our partnership. I also wanted to see how things are going for you guys now that we are into the new year and the first quarter.
+Agent: I've noted your message for Staff_001 and the shop has been notified. She’ll get back to you as soon as possible.
+
+Is there anything else I can help you with today?
+User: No. That should do it.
+Agent: Thank you for calling, Caller_027. Have a great rest of your day!

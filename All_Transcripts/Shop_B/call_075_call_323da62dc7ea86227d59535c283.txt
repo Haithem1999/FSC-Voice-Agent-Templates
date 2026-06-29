@@ -1,0 +1,30 @@
+Shop: Shop_B
+Call ID: call_323da62dc7ea86227d59535c283
+Time: 01/11/2026 23:58
+Duration: 1:02
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.121
+End-to-End Latency: 1703
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B 
+User: (inaudible speech)
+Agent: Care ! This is Chloe, an AI assistant. How can I help?
+User: Can I leave a voice mail?
+Agent: You can absolutely leave a message for the shop, and they’ll follow up as soon as possible. What would you like me to pass along?
+User: I would like you to pass along name is Caller_008, that they worked on my Jeep a little bit ago. And I'm still having squeaky sounds coming from when the AC is on.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 0 8
+Agent: Thanks, Caller_008. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you, Caller_008. I’ve passed your message along to the shop, and they’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No. That's it. Thank you.
+Agent: You’re welcome, Caller_008! Have a great day.

@@ -1,0 +1,27 @@
+Shop: Shop_B
+Call ID: call_b2d148d76c54cc51181f7573991
+Time: 12/06/2025 22:21
+Duration: 0:59
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.115
+End-to-End Latency: 1238
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I have an appointment at noon for Caller_036 Norton, and I would like to push it back to two if possible.
+User: One or two.
+Agent: Thank you for letting me know! Can you please spell your first name for me?
+User: C a l l e r _ 0 3 6.
+Agent: Thanks, Caller_036. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Great, thank you! Just to confirm, you’d like to move your appointment from noon to either 1:00 or 2:00 pm today. I’ll notify the shop about your request and they’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling, Caller_036! The shop will follow up with you soon about your appointment. Have a great day!

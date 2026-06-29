@@ -1,0 +1,32 @@
+Shop: Shop_A
+Call ID: call_8096c3c0ce8ea32ac55e3088624
+Time: 01/07/2026 05:09
+Duration: 1:45
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.203
+End-to-End Latency: 2334.49853515625
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I would love to talk to whoever gave me a quote on my
+Agent: I’m happy to help with that! The shop is currently closed, but I can leave a message for the team to have the person who gave you the quote reach out to you as soon as they’re back in. Would you like to leave your name, contact information, and any details about your quote or vehicle?
+User: Yes. Caller_037 Wilknight.
+Agent: Thank you, Caller_037. Could you 
+User: Two one two 
+Agent: please provide the best phone number to 
+User: one Yes. five five five one zero zero zero zero zero eight.
+Agent: Thank you. Just to confirm, your phone number is 555-100-0008. Is that correct?
+User: That's right.
+Agent: Great, thank you! And just to make sure I have everything correct—would you like the shop to have the person who gave you the quote reach out to you? If there are any specific details about your quote or vehicle you’d like me to include in the message, please let me know.
+User: Uh, Jeep. Maxwell replacement.
+Agent: Thank you, Caller_037. I’ve notified the shop to have the person who gave you a quote on your Jeep Maxwell replacement call you back at 555-100-0008.
+
+Is there anything else I can help you with?
+User: No. Thank you. Appreciate it.
+Agent: You’re very welcome, Caller_037! Have a great day. Goodbye!

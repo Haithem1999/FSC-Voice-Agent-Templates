@@ -1,0 +1,28 @@
+Shop: Shop_A
+Call ID: call_54439d463a820c45c0621238719
+Time: 11/12/2025 05:23
+Duration: 1:07
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.130
+End-to-End Latency: 2030.9990234375
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yes. I wanted to see about bringing in a Toyota Land Cruiser for either an alternator or voltage regulator?
+Agent: We’d be happy to help with your Toyota Land Cruiser’s alternator or voltage regulator issue. Would you like to schedule an appointment to have it checked out?
+User: Yes.
+Agent: Great, can you please spell your first name for me?
+User: It's C a l l e r _ 0 6 6
+Agent: Thanks, Caller_066. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Thank you, Caller_066. I’ve just sent you a text message with a link where you can schedule your service appointment for your Land Cruiser’s alternator or voltage regulator issue.
+
+Is there anything else I can help you with?
+User: That's it.
+Agent: Thanks for calling Shop_A, Caller_066. Have a great day!

@@ -1,0 +1,35 @@
+Shop: Shop_B
+Call ID: call_8097db4b6c1c060ca399529fa2b
+Time: 01/25/2026 20:56
+Duration: 1:23
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.161
+End-to-End Latency: 2288
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B 
+User: You 
+Agent: Care ! 
+User: for calling
+Agent: Hi there! This is Chloe at Shop_B. How can I help you today?
+User: Cancel appointment.
+Agent: I can help with that. Would you like to receive a link to manage your appointment cancellation, or would you prefer I forward your cancellation request directly to the shop for you?
+User: Forward to the shop.
+Agent: Of course, I can forward your cancellation request to the shop. May I please have your first name, and could you spell it for me?
+User: Caller_017, C a l l e r _ 0 1 7.
+Agent: Thank you, Caller_017. And can we use the phone number you’re calling from to follow up with you?
+User: Yes.
+Agent: Thanks, Caller_017. Just to confirm, you’d like to cancel your appointment. Could you please let me know the date or time of the appointment you’d like to cancel?
+User: Tomorrow, the twenty sixth.
+User: Twenty sixth January, seven AM.
+Agent: Thank you for clarifying, Caller_017. The shop has been notified about your request to cancel your appointment for January 26th at 7 am. They’ll follow up with you once they are open.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're welcome, Caller_017! Have a great day.

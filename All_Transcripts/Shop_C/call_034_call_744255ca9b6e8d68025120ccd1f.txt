@@ -1,0 +1,35 @@
+Shop: Shop_C
+Call ID: call_744255ca9b6e8d68025120ccd1f
+Time: 01/17/2026 23:37
+Duration: 2:05
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.241
+End-to-End Latency: 1947.000244140625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C 
+User: Thank you for calling your
+Agent: Automotive! This is Chloe, a 
+Agent: Hi there! This is Chloe with Shop_C. How can I help you today?
+User: Hi. I have some I I got my engine replaced by you guys. Maybe two years ago, and I'm having some issues with it. So I just wanted to circle back and talk to you guys. About that.
+Agent: Thank you for reaching out about your engine 
+User: Thank you for
+Agent: concerns. Shop_C provides a 2-year or 24,000-mile warranty on our work, so depending on your mileage, you may still be covered.
+
+Would you like to schedule an appointment to have your engine checked out, or would you prefer to leave a message for the team so they can follow up with you when the shop opens?
+User: I'll leave a message with the team, please.
+Agent: Of course! I’ll make sure your message gets to the team.
+
+Great, can you please spell your first name for me?
+User: Caller_070, C a l l e r _ 0 7 0.
+Agent: Thanks, Caller_070. And can we use the phone number you are calling from to follow up?
+User: Yes.
+User: okay.
+Agent: Thank you! What would you like me to include in your message for the shop about your engine concerns? If you’d like, you can share a few details about the issues you’re experiencing, or just let me know if you want the team to call you back for more information.
+User: Yeah. So I got my motor you know, I got a refurbished motor from LKQ. I have a two thousand two Toyota Tacoma. I've I was seeing you guys a lot for a span of, like, three months. And if you recall, Juan did all the work, and he's the man, but it was the motor got replaced, and then the motor that LKQ sent, the refurbished motor was leaking oil again, which was the issue. Previous one with the blown head gasket. And so then you had to redo it and get it replaced the second time. I just oh my god.

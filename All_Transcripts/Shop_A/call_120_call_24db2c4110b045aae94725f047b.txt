@@ -1,0 +1,32 @@
+Shop: Shop_A
+Call ID: call_24db2c4110b045aae94725f047b
+Time: 11/27/2025 03:11
+Duration: 1:15
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.146
+End-to-End Latency: 2905
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling 
+User: Thank you for
+Agent: Shop_A! This is Chloe, an AI assistant. How can I help?
+User: Hi. I just called AAA for a tow that I think they're bringing me to your shop.
+Agent: Thanks for letting 
+User: How do I
+Agent: me know! If your vehicle is being towed to 
+Agent: No problem! If your vehicle is being towed to us, you can have it dropped off at [Shop_A_Address] We have a secure drop box for your keys if you arrive after hours.Would you like instructions on how to leave your keys, or do you need to schedule a service for your vehicle once it arrives?
+User: Instructions and schedule a service.
+Agent: Absolutely! Here’s what to do when your vehicle arrives:
+
+1. Park your vehicle in our lot at [Shop_A_Address]
+2. Locate our key drop box near the front entrance.
+3. Fill out the provided envelope with your contact information and a brief description of your vehicle’s issue.
+4. Place your keys in the envelope and drop it in the box.
+
+Now, let’s get you set up to schedule a service. Great, can you please spell your first name for me?

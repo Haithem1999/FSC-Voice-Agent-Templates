@@ -1,0 +1,21 @@
+Shop: Shop_A
+Call ID: call_dc1d2a7fb5d98565b1d019ef66d
+Time: 12/08/2025 03:47
+Duration: 0:47
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.092
+End-to-End Latency: 2467
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Does your shop do mobile
+User: auto repair?
+Agent: We don’t offer mobile auto repair services—our repairs and maintenance are all done at our shop on [Shop_A_Address] If you need help getting your vehicle to us, though, I can help arrange a tow. Would you like more information about that, or is there something else I can help you with?
+User: Do you do mobile inspections?
+Agent: We don’t provide mobile inspections—any diagnostic or inspection services are performed at our shop. If your vehicle isn’t drivable, I can help you arrange a tow to get it here. Is there anything else I can

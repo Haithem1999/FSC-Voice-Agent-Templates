@@ -1,0 +1,38 @@
+Shop: Shop_B
+Call ID: call_0e8885b2cab167478210f070120
+Time: 03/31/2026 22:48
+Duration: 1:42
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.240
+End-to-End Latency: 1337
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Can I leave a voice mail? 
+User: Hello? 
+Agent: Hi there! Yes, you can absolutely leave a message for the shop and I’ll make sure they get it.Great, can you please spell your first name for me?
+User: C a l l e r _ 0 2 1 
+Agent: Thank you, Caller_021. And can we use the phone number you are calling from to follow up?
+User: Absolutely. 
+Agent: Thanks, Caller_021. What message would you like me to leave for the shop?
+User: Yes. Can I just leave the message? Like, record it and then send it over? Is that a thing? 
+Agent: At the moment, I’m only able to take down your message in text and pass it along to the shop team—I can’t record and send a voice message. If you’d like, just let me know 
+User: Okay. 
+Agent: what you’d like to say, and I’ll make sure it gets to the right person. What would you like your message to be?
+User: Could I have Staff_006, Staff_004, Caller_025, or Staff_002 call me back? 
+Agent: Absolutely, Caller_021. Just to confirm, you’d like Staff_006, Staff_004, Caller_025, or Staff_002 to give you a call back at this number, correct? Is there anything specific you’d like them to know, or just to return your call?
+User: Just return my call. 
+Agent: Thank you, Caller_021. I’ve noted your request and the shop has been notified to have Staff_006, Staff_004, Caller_025, or Staff_002 return your call.
+
+Is there anything else I can help you with?
+User: Thank you. 
+User: No. Thank you. 
+Agent: You’re very welcome, Caller_021! Have a great day. If you need anything else, just give us a 
+User: Too. Bye. 
+Agent: call.

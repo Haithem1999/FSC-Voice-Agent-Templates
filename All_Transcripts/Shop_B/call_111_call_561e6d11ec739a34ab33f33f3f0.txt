@@ -1,0 +1,32 @@
+Shop: Shop_B
+Call ID: call_561e6d11ec739a34ab33f33f3f0
+Time: 12/05/2025 05:52
+Duration: 1:19
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.153
+End-to-End Latency: 2211.5
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to make an appointment.
+User: the morning
+Agent: No problem! Would you like me to send you a booking link so you can choose your preferred morning time, or would you prefer that I forward your appointment request directly to the shop so a service advisor can follow up with you?
+User: A text.
+Agent: Great, can you please spell your first name for me?
+User: Caller_014 Nelson.
+Agent: Thank you, Caller_014. Can you please spell your first name for me, just to make sure I have it correct?
+User: C a l l e r _ 0 1 4
+User: n e l s o n.
+Agent: Thank you, Caller_014. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Thank you, Caller_014! I’ve sent you a text message with a link to schedule your service appointment for a morning time that works best for you.
+
+Is there anything else I can help you with?
+User: No. That's it. Thank you.
+Agent: You're welcome, Caller_014! Have a great evening. Goodbye!

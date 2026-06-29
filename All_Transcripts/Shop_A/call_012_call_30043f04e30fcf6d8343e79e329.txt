@@ -1,0 +1,47 @@
+Shop: Shop_A
+Call ID: call_30043f04e30fcf6d8343e79e329
+Time: 03/28/2026 02:27
+Duration: 2:51
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.401
+End-to-End Latency: 1885
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A 
+User: Our calling 
+Agent: Express! 
+User: is just Hello? 
+Agent: Hi there! Thanks for calling Shop_A. How can I help you today?
+User: Is this a automated system or is this a person? 
+Agent: I’m actually an automated assistant for Shop_A, here to help answer your questions and assist with anything you need after hours. What can I help you with today?
+User: I was wanting to start a claim, uh, through a warranty 
+User: for 
+Agent: No problem! I can help get you started with that. Could you tell me a bit more about your vehicle and the warranty claim you’d like to start?
+User: It's having some mechanical issues in the engine. Uh, far as the oil consumption. Oh, wow. I can't do this. 
+Agent: I understand—it can be stressful dealing with engine issues and warranty claims. If you’d like, I can have the shop follow up with you about starting a warranty claim for your engine’s oil consumption problem. Would you like to leave a message for the team so they can reach out and help you with the process?
+User: Yes. 
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 3 0. 
+Agent: Thank you, Caller_030. And can we use the phone number you are calling from to follow up?
+User: Yes. 
+Agent: Thanks! Just to confirm, you’d like to leave a message for the shop about starting a warranty claim due to mechanical issues with your engine, specifically oil consumption. Is there anything else you’d like to add or clarify in your message?
+User: Yeah. There were some smoke in the exhaust, some tapping noise, the lifters. 
+Agent: Thank you, Caller_030. I’ve notified the shop with your message about the engine issues—oil consumption, smoke in the exhaust, tapping noise, and possible lifter problems. The team will follow up with you to help start your warranty claim.
+
+Is there anything else I can help you with?
+User: No that'll be all 
+Agent: Alright, thank you for calling Shop_A 
+User: Hold on. 
+Agent: Express. Have a great 
+User: Hold on. Hold on. 
+Agent: Of course! Take your time. What else can I help you with?
+User: I'm sorry. What are the hours to the business? 
+Agent: No problem! Shop_A is open Monday through Friday from 8:00am to 5:30pm. We’re closed on Saturdays and Sundays. Is there anything else I can help you with?
+User: No, ma'am. 
+Agent: Thank you for calling, Caller_030. Have a wonderful evening!

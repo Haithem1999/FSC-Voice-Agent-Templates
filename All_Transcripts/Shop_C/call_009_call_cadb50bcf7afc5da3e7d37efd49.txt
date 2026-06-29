@@ -1,0 +1,41 @@
+Shop: Shop_C
+Call ID: call_cadb50bcf7afc5da3e7d37efd49
+Time: 03/08/2026 01:21
+Duration: 1:50
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.213
+End-to-End Latency: 1271.00244140625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Agent.
+User: Customer service.
+Agent: I’m here to help! Shop_C is currently closed, but I can assist with questions, scheduling appointments, quotes, urgent requests, towing, or leaving a message for the shop. What can I help you with today?
+User: Are you repairing secondary injections?
+User: of four Volkswagen.
+Agent: Yes, Shop_C does offer diagnostics and repairs for secondary air injection systems, including those on Volkswagen vehicles. Our ASE-certified technicians are experienced with both general and specialized repairs like this.
+
+Would you like to schedule an appointment to have your Volkswagen’s secondary air injection system checked, or do you have more questions about the service?
+User: Yeah. How much does it cost in inspection?
+Agent: I’d be happy to get a quote started for you on the inspection cost for your Volkswagen’s 
+User: Okay.
+Agent: secondary air injection system.
+
+Great, can you please spell your first name for me?
+User: Caller_112.
+Agent: Thank you, Caller_112. And can we use the phone number you are calling from to follow up with you?
+User: Just give me the price, please.
+Agent: I understand you’d like the price right away. Since I don’t have exact pricing information available, I’ll forward your request to the shop so they can provide you with an accurate quote for the inspection of your Volkswagen’s secondary air injection system.
+
+Could you please confirm if we can use this phone number to contact you, or would you prefer to provide a different one?
+User: No. I called you on Monday.
+Agent: Thank you 
+User: All the best.
+Agent: for letting me know, Caller_112. Just to make sure we follow up correctly, could you please provide the best phone number to reach you at? I’ll confirm it with you once you provide 
+User: Yeah. I called you on Monday.

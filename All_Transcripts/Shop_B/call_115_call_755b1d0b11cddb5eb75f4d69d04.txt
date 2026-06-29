@@ -1,0 +1,33 @@
+Shop: Shop_B
+Call ID: call_755b1d0b11cddb5eb75f4d69d04
+Time: 11/28/2025 00:30
+Duration: 2:02
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.236
+End-to-End Latency: 2617.9970703125
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+User: Just checking in. Are you still there? If now isn't a good time, I'm happy to call back later. Let me know what works best for you.
+Agent: Hi there! I’m here and ready to help you. If you have any questions or need assistance with anything related to Shop_B, just let me know. Is there something I can help you with right now?
+User: Thank you for your offer. I actually reached out to introduce s three tech supply and solutions. We support facilities like Shop_B with premium batteries and energy storage at below market pricing.
+User: Are you the right person to speak with about energy procurement or battery maintenance? For your facility?
+Agent: Thank you for reaching out and sharing information about your services. I’m the AI assistant for Shop_B and not the decision-maker for energy procurement or battery maintenance. Would you like to leave a message with your contact details and a brief description of your offer? I can make sure it gets to the appropriate person at the shop.
+User: Absolutely. Thank you.
+User: Here's a brief message 
+User: you can pass along. Contact Caller_121 s three tech supply and solutions info at s three tech supply dot com.
+User: five five five one zero zero zero zero three five. Message, we help facilities like Shop_B save ten thirty percent on premium batteries and energy storage solutions, including backup power and equipment batteries.
+User: We offer factory direct pricing, UL listed equipment, and all required documentation.
+User: be happy to provide a custom cost comparison or answer any technical questions.
+User: Please let us know if there's a good time for a quick call or if you'd like more information by email.
+User: Thank you for your help in passing this along. If you need anything else, just let me know.
+Agent: Thank you, Caller_121. I’ve passed your message along to the team at Shop_B, and they’ll reach out if they’re interested or need more information.
+
+Is there anything else I can help you with today?
+User: Thank you so much for your help. I appreciate you passing along my message.
+User: a great day.

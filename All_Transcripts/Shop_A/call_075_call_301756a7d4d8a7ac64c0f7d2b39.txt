@@ -1,0 +1,29 @@
+Shop: Shop_A
+Call ID: call_301756a7d4d8a7ac64c0f7d2b39
+Time: 01/17/2026 18:53
+Duration: 1:03
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.123
+End-to-End Latency: 1609
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I've I've got a vehicle that I was sudden, bunch of lights came on. I need y'all to look at it.
+Agent: We’d be happy to help you with that! Would you like to schedule an appointment for us to take a look at your vehicle?
+User: Yes. Uh-huh.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 5 3
+Agent: Thanks, Caller_053. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+User: Uh-huh.
+Agent: Thank you, Caller_053! I’ve just sent you a text message with a link where you can schedule your service appointment for us to check out those warning lights.
+
+Is there anything else I can help you with?
+User: That'll do it. Thank you very much.
+Agent: You're very welcome, Caller_053! Have a great day, and we look forward to helping you with your vehicle. Goodbye!

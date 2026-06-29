@@ -1,0 +1,36 @@
+Shop: Shop_C
+Call ID: call_f251c2b61e36eb8064b92c9574c
+Time: 10/23/2025 05:47
+Duration: 1:59
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.230
+End-to-End Latency: 1887
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Wanted to ask about an exhaust leak fix up.
+Agent: We can definitely help with exhaust system repairs, including diagnosing and fixing exhaust leaks. Would you like to schedule an appointment to have your vehicle inspected, or do you have specific questions about the process?
+User: Wanted to look at about an estimate price.
+Agent: No problem, I can get a quote request started for you. Great, can you please spell your first name for me?
+User: J o a n
+Agent: Thanks, 
+User: b a 
+Agent: Joan. And can we use the phone number you are calling from to follow up?
+User: That's one. Yes.
+Agent: Perfect, thank you! Could you please tell me the year, make, and model of your vehicle?
+User: Nineteen eighty five Nissan three hundred z x.
+Agent: Thank you! And just to confirm, you’d like a quote for fixing an exhaust leak on your 1985 Nissan 300ZX, correct? Is there anything specific about the leak or repair you’d like us to know for the estimate?
+User: I tried fixing it myself by replacing the screws and putting a new gasket worked for a while, but then it just kind of stopped working.
+User: then it started smelling, like, like, fumes.
+User: and wanna get fixed as soon as possible because not safe.
+Agent: I've forwarded your request for a quote to the shop, including the details about your previous repair attempts and the urgency due to the fumes. Someone from our team will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: That'd be all.
+Agent: Thank you for calling, Joan. We’ll be in touch soon about your quote. Have a great evening!

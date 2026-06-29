@@ -1,0 +1,33 @@
+Shop: Shop_B
+Call ID: call_25ad87481db19fdb9d2bba94b07
+Time: 01/03/2026 22:36
+Duration: 1:18
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.151
+End-to-End Latency: 1210
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Set an appointment for tomorrow.
+Agent: Would you like to receive a booking link to schedule your appointment yourself, or would you prefer that I forward your appointment request directly to the shop so they can follow up with you?
+User: Forwarded directly to the shop.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 4 1
+Agent: Thanks, Caller_041. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What will the appointment be for? (For example: oil change, brake inspection, diagnostics, etc.)
+User: Diagnostic shock absorber.
+Agent: And when would you like to come in for your diagnostic on the shock absorber?
+User: Tomorrow?
+User: Saturday?
+Agent: Thank you, Caller_041. The shop has been notified about your request for a diagnostic on your shock absorber tomorrow. They’ll follow up with you once they are open.
+
+Is there anything else I can help you with?
+User: No. That'll be it. Thank you.
+Agent: You're welcome, Caller_041! Have a great night. Goodbye!

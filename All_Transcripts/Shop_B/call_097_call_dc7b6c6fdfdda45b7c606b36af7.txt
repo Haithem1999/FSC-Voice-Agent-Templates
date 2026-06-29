@@ -1,0 +1,42 @@
+Shop: Shop_B
+Call ID: call_dc7b6c6fdfdda45b7c606b36af7
+Time: 12/20/2025 21:05
+Duration: 1:40
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.194
+End-to-End Latency: 2856.0048828125
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. I'm calling back. My name is Caller_020 Chua. About a o seven Hyundai Santa Fe.
+Agent: Thank you, Caller_020. How can I assist you today regarding your 2007 Hyundai Santa Fe? Are you looking to schedule an appointment, request a 
+User: (inaudible speech)
+Agent: quote, or is there something else I can help 
+User: (User pressed digit: a)
+User: request a callback.
+Agent: Absolutely, Caller_020. I’ll let the team know you’d like a callback about your 2007 Hyundai Santa Fe. Is there anything specific you’d like them to address when they call you back, or just a general follow-up? And what’s the best phone 
+User: Just a just 
+Agent: number for them to reach you 
+User: a call. Just 
+User: (User pressed digit: a)
+User: a call. Phone number is five five five one zero zero zero zero three three.
+User: (User pressed digit: a)
+Agent: Thank you, Caller_020.
+User: (inaudible speech)
+Agent:  Just to confirm, your phone number is 
+User: (User pressed digit: 5)
+Agent: eight five eight - four four nine 
+User: (User pressed digit: a)
+Agent: eight five five one. Is that correct?
+User: Yes.
+Agent: Thank you, Caller_020. I’ve notified the shop that you’d like a callback about your 2007 Hyundai Santa Fe, and they’ll reach out to you at 555-100-0033 as soon as possible.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Alright, thank you for calling Shop_B. Have a great day!

@@ -1,0 +1,28 @@
+Shop: Shop_C
+Call ID: call_aba7e1049eba23dd97e3ffcf267
+Time: 12/12/2025 18:14
+Duration: 1:06
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.128
+End-to-End Latency: 1590.99853515625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I want an urgent appointment.
+User: An emergency appointment.
+Agent: I can help you get started with scheduling an appointment. Can you please spell your first name for me?
+User: C a l l e r _ 1 2 3.
+Agent: Thanks, Caller_123. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Thank you! What is the reason for your appointment?
+User: Emergency lights
+User: Subaru Outback.
+Agent: Thank you for letting me know your vehicle is a Subaru Outback. I’ve just sent you a text message with a link to schedule your service appointment for the emergency lights issue.Is there anything else I can help you with?
+User: No.
+Agent: Thank you for calling Shop_C, Caller_123. Have a great day!

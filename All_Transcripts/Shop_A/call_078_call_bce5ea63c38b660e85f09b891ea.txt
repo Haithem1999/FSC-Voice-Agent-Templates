@@ -1,0 +1,22 @@
+Shop: Shop_A
+Call ID: call_bce5ea63c38b660e85f09b891ea
+Time: 01/11/2026 22:19
+Duration: 0:21
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.042
+End-to-End Latency: 2540.50048828125
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling 
+User: Thank you for calling one 
+Agent: Shop_A! 
+User: minute to class.
+Agent: Hi there! This is Shop_A. How can I help you today?
+User: What are your hours of operation?
+Agent: Our hours are Monday through Friday from 8:00am to 5:00pm. We’re closed on Saturdays and Sundays.

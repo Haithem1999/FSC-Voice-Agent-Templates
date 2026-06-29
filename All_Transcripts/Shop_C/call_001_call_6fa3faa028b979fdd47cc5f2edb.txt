@@ -1,0 +1,33 @@
+Shop: Shop_C
+Call ID: call_6fa3faa028b979fdd47cc5f2edb
+Time: 04/02/2026 04:14
+Duration: 2:11
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.308
+End-to-End Latency: 2173
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. Yes. Um, I got my car back yesterday, and my husband drove it to work, and it was smoking. While he was driving the car. So I'm not sure what we've done to the car, but it's smoking while he's driving the car. 
+Agent: I’m sorry to hear that your car is having issues after your recent visit. That definitely sounds concerning. Since this could be urgent, I’ll make sure the shop is notified right away so they can follow up with you as soon as possible.
+
+Could you please provide your name, the best phone number to reach you, and any other details about the vehicle or the situation?
+User: Yes. My name is Caller_117 Bond. My phone number is five five five one zero zero zero zero three seven. When my husband started the the car, it was making a weird noise. And as he started driving closer to work, that's when he started getting the smoke smell, and it seemed like it was coming through the vent. And then once he turned off the car, it just started smoke started coming from underneath the hood. 
+Agent: Thank you, Caller_117. Just to confirm, your phone number is 555-100-0037, correct?
+
+Is there anything else 
+User: Yes. 
+Agent: you’d like the shop to know about the situation, or does that cover everything?
+User: I think that covers it for the most part. 
+User: He's down at [Neighborhood], so I'm not sure if they would want us to bring the car in. I think he's kinda just nervous that he starts driving it again, that it might cause smoke. So I'm not sure what what they would want us to do. We're trying to see if we can get somebody else to look at it. Because he's kinda scared to drive the car now. 
+Agent: Thank you for all those details, Caller_117. I’ve notified the shop about your situation and they’ll follow up with you as soon as possible to advise you on what to do next.
+
+Is there anything else I can help you with right now?
+User: No. That's it. 
+Agent: Thank you for calling, Caller_117. The shop will be in touch with you as soon as possible. Have a good day and take care!

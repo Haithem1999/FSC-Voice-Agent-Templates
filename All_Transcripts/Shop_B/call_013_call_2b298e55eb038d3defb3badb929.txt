@@ -1,0 +1,29 @@
+Shop: Shop_B
+Call ID: call_2b298e55eb038d3defb3badb929
+Time: 03/13/2026 22:33
+Duration: 1:01
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.119
+End-to-End Latency: 2723.49755859375
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I wanted to get pricing on a prepurchase inspection. 
+User: of a Hyundai Kona twenty twenty three? 
+Agent: Great, I can help you request a quote for a pre-purchase inspection on a 2023 Hyundai Kona.
+
+Can you please spell your first name for me?
+User: C a l l e r _ 0 3 5. 
+Agent: Thanks, Caller_035. And can we use the phone number you are calling from to follow up?
+User: Yes. 
+Agent: Thank you, Caller_035. I’ve forwarded your request for a quote on a pre-purchase inspection for your 2023 Hyundai Kona to the shop. Someone from our team will follow up with you soon.
+
+Is there anything else I can help you with today?
+User: No. Thank you. 
+Agent: You’re very welcome, Caller_035! Have a great rest of your Friday. Goodbye!

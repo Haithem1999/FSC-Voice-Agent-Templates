@@ -1,0 +1,33 @@
+Shop: Shop_A
+Call ID: call_2d9c613ed4124c6f46c2a0d24e1
+Time: 02/12/2026 05:28
+Duration: 1:32
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.178
+End-to-End Latency: 1206.4990234375
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I would like to get an estimate of how much it cost to change a torque converter in a two thousand seven Murano?
+Agent: Great, can you please spell your first name for me?
+User: Caller_059, C a l l e r _ 0 5 9.
+Agent: Thanks, Caller_059. And can we use the phone number you are calling from to follow up?
+User: five five five one zero zero zero zero zero six.
+Agent: Thank you. Just to confirm, your phone number is 555-100-0006. Is that correct?
+User: Yes.
+Agent: Perfect! For your quote, I have your vehicle as a 2007 Murano. Could you please share your VIN number slowly? This will help us provide a more accurate estimate. If you don’t have it handy, that’s okay too.
+User: Don't have it.
+Agent: No problem at all! And just to confirm, you’d like an estimate for replacing the torque converter on your 2007 Murano, correct? Is there anything 
+User: Yes.
+Agent: specific you’d like us to know about the issue, or is it just a general quote for the replacement?
+User: General quote.
+Agent: Thank you, Caller_059! I’ve forwarded your request for a general quote on replacing the torque converter in your 2007 Murano to the shop. Someone from our team will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No. Thank you.

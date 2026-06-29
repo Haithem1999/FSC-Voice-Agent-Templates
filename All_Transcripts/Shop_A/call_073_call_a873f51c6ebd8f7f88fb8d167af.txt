@@ -1,0 +1,32 @@
+Shop: Shop_A
+Call ID: call_a873f51c6ebd8f7f88fb8d167af
+Time: 01/17/2026 20:02
+Duration: 1:16
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.148
+End-to-End Latency: 2354
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to speak to one someone about service.
+Agent: The shop is currently closed for the weekend, but I can help you schedule a service appointment or leave a message for the team. Would you like to set up an appointment, or would you prefer 
+User: No. 
+Agent: to leave a message for someone to call you back?
+User: Leave a message.
+Agent: Of course! What would you like me to include in your message for the shop?
+User: I would like to inquire if they can help me resolve electrical problems on a Jeep Wrangler.
+Agent: Great, can you please spell your first name for me?
+User: Caller_012, C a l l e r _ 0 1 2.
+Agent: Thanks, Caller_012. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you, Caller_012. I’ve notified the shop about your inquiry regarding electrical problems on your Jeep Wrangler, and someone will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: No, ma'am. Thank you.
+Agent: You’re very welcome, Caller_012! Have a great day. Goodbye!

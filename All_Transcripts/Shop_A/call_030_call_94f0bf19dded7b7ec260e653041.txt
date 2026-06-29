@@ -1,0 +1,28 @@
+Shop: Shop_A
+Call ID: call_94f0bf19dded7b7ec260e653041
+Time: 03/07/2026 03:18
+Duration: 1:20
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.155
+End-to-End Latency: 1359
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'd like to leave a message.
+Agent: Of course! What would you like your message to say?
+User: Hi. My name is Caller_065 Heard, and I know that it is Friday afternoon, and it's, uh, almost six thirty. I am calling because I want get more information on your gold GMC little SUV. If somebody could call me back, five five five one zero zero zero zero zero three.
+Agent: Thank you, Caller_065. Just to confirm, your first name is spelled C a l l e r _ 0 6 5, correct?
+User: No, ma'am. T a n.
+Agent: Thank you for clarifying, Caller_065 with a T-A-N at the end. And just to confirm, the best number to reach you is 555-100-0003—is that correct?
+User: Yes.
+Agent: Thank you, Caller_115. I’ve made sure your message will be passed along to the shop, and someone will follow up with you about the gold GMC SUV as soon as possible.
+
+Is there anything else I can help you with?
+User: No, ma'am.
+Agent: Thank you for calling Shop_A, Caller_115. Have a great evening!

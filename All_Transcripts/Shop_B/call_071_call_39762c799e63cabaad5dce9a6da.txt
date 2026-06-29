@@ -1,0 +1,36 @@
+Shop: Shop_B
+Call ID: call_39762c799e63cabaad5dce9a6da
+Time: 01/17/2026 00:49
+Duration: 1:54
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.220
+End-to-End Latency: 1819.001953125
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Uh, you just have someone give me a callback if they have a free moment.
+Agent: Absolutely, I can help with that. Great, can you please spell your first name for me?
+User: Alright. C a l l e r _ 1 0 0
+Agent: Thanks, Caller_100. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! And just to confirm, you’d like someone from the shop to give you a call back when they have a free moment—is that correct, or is there anything specific you’d like them to know?
+User: I just wanted to know availability for bringing my car in next week.
+Agent: The shop has been notified of your request, and someone will give you a call back about availability for next week as soon as they can.
+
+Is there anything else I can help you with?
+User: Can you make sure my name is spelled correctly?
+Agent: Of course! I have your name spelled as C a l l e r _ 1 0 0. Is that correct?
+User: No.
+Agent: Thank you for letting me know. Could you please spell your name for me one more time, just to make sure I have it right?
+User: R C a l l e r _ 1 0 0.
+Agent: Thank you for clarifying, Reagan. I’ve updated your name to R-C a l l e r _ 1 0 0 for the message to the shop.
+
+Is there anything else I can help you with?
+User: No. You've been great. Thank you.
+Agent: Thank you so much, Reagan! Have a great day, and someone from the shop will be in touch soon. Goodbye!

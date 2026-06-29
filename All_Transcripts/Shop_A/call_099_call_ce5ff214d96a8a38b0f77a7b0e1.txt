@@ -1,0 +1,31 @@
+Shop: Shop_A
+Call ID: call_ce5ff214d96a8a38b0f77a7b0e1
+Time: 12/23/2025 03:49
+Duration: 1:09
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.134
+End-to-End Latency: 1865
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I left my keys in one of the vehicles that I pest drove.
+Agent: No problem, I’ll make sure the shop is notified right away so they can help you as soon as possible.
+
+Great, can you please spell your first name for me?
+User: Caller_064.
+User: C a l l e r _ 0 6 4,
+Agent: Thanks, Caller_064. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you, Caller_064. Could you please share any additional details about the vehicle you test drove or where you think the keys might be? This will help the shop assist you more quickly.
+User: Two thousand fifteen Chevy.
+Agent: The shop has been notified of your request, and they’ll reach out to you as soon as possible to help with your keys.
+
+Is there anything else I can help you with?
+User: Nope. That's all. Thank you.
+Agent: You’re very welcome, Caller_064! Have a great evening.

@@ -1,0 +1,49 @@
+Shop: Shop_A
+Call ID: call_1441161045db86b83baffa1fdb3
+Time: 02/06/2026 03:05
+Duration: 3:18
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.381
+End-to-End Latency: 1706
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. Is this going here that I can speak to?
+Agent: Thanks for calling! The shop is currently closed, so there isn’t anyone available to speak with directly right now. I’m here to help with any questions you have, or I can take a message for the team. Is there something specific I can assist you with?
+User: Yes.
+Agent: Of course! What can I help you with today?
+User: Name, Caller_116, l a t y.
+Agent: Thank you, Caller_116. How can I assist you today?
+User: What is this like?
+User: My engine light is on. And at one speed, it hurts the shock because my engine light is full.
+Agent: Thanks for sharing that, Caller_116. If your check engine light is on and you’re noticing issues with how your vehicle drives—like it feeling rough or “hurting the shock” at certain speeds—it’s definitely something that should be checked out soon. The check engine light can come on for a variety of reasons, some minor and some more serious, especially if it’s affecting how your car runs.
+
+Would you like to schedule an appointment for a diagnostic so our technicians can take a look and figure out what’s going on?
+User: Yes. I would like to get my car off tomorrow, early in the morning.
+Agent: Great, can you please spell your first name for me just to make sure I have it correct?
+User: C as in cat, a as in America, n as in November, g as in zebra, r as in four, a as in America.
+Agent: Thank you for spelling that out—so your first name is Cangra, correct?
+
+Next, can we use the phone number you’re calling from to send you a text message with our scheduling link?
+User: My phone number?
+Agent: Yes, could you please provide your phone number so we can send you a text message with our 
+User: Yes. Four. 
+Agent: scheduling link? This will let you easily set up your appointment for tomorrow morning.
+User: five five five one zero zero zero zero zero seven.
+User: three zero three six seven three two zero four.
+Agent: Just to confirm, your phone number is 555-100-0007. Is that correct?
+User: Yes.
+User: Mary 
+User: Lynn's son. This appointment is my
+Agent: Thank you for letting me know, Cangra. I’ve sent you a text message with a link to schedule your service appointment for your check engine light and the driving issue. You can use that link to pick a time that works best for you—like early tomorrow morning.
+
+Is there anything else I can help you with?
+User: No. Thank you. Thank you
+User: your help.
+Agent: You’re very welcome, Cangra! Have a great evening, and we look forward to helping you with your car. Goodbye!

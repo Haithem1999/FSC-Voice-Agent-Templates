@@ -1,0 +1,30 @@
+Shop: Shop_C
+Call ID: call_3bc78354b8dc8ad89808413e519
+Time: 11/02/2025 23:25
+Duration: 1:35
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.184
+End-to-End Latency: 2563.9990234375
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi, Chloe. Um, I am having a stop right now, and I just wanted to see if you have availability Monday to get it
+User: addressed.
+Agent: Absolutely, I can help you schedule an appointment for Monday to get your vehicle checked out. Could you tell me a bit more about the issue you're experiencing, and what time on Monday works best for you?
+User: Well, I'm dropping the vehicle off today, and I'm gonna leave the key inside the key box at the shop. And the earlier, the better
+User: get it addressed because I to get the vehicle up and running as soon as possible.
+Agent: Great, thanks for letting me know! I’ll send you a link so you can schedule your service appointment for early Monday.Can you please spell your first name for me?
+User: Yeah. It's Caller_016. C a l l e r _ 0 1 6.
+Agent: Thanks, Caller_016. And can we use the phone number you’re calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Perfect! I’ve just sent you a text message with a link to schedule your service appointment for Monday. You can use that link to confirm all the details.
+
+Is there anything else I can help you with?
+User: No.
+Agent: Alright, thank you for calling Shop_C, Caller_016. Have a great day!

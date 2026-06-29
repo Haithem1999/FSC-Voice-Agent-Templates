@@ -1,0 +1,27 @@
+Shop: Shop_C
+Call ID: call_a5a55377849de30c667d7cd1464
+Time: 11/29/2025 21:28
+Duration: 0:49
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.096
+End-to-End Latency: 1959
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Checking the price
+User: an oil change on a two thousand seventeen Chevy Sonic. 1.8 l.
+Agent: Great, I can help you request a quote for an oil change on your 2017 Chevy Sonic with a 1.8L engine.
+
+Can you please spell your first name for me?
+User: C a l l e r _ 0 4 8
+Agent: Thanks, Caller_048. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thanks, Caller_048. I’ve forwarded your request for an oil change quote on your 2017 Chevy Sonic to the shop. They’ll follow up with you as soon as possible.
+
+Is there anything else I can help

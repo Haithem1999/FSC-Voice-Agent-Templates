@@ -1,0 +1,20 @@
+Shop: Shop_A
+Call ID: call_c252d6762503d4385b9595b3ba8
+Time: 11/15/2025 05:22
+Duration: 0:37
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.073
+End-to-End Latency: 1660
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to rent a trailer.
+Agent: Thanks for reaching out! Shop_A does not offer trailer rentals—we focus on auto repair and maintenance services. Would you like to leave a message for the shop, or is there anything else I can help you with today?
+User: Give me the storage building next door. Their number.
+Agent: I’m sorry, but I don’t have the contact information for the storage building next door. Is there anything else I can help you with regarding Shop_A or your

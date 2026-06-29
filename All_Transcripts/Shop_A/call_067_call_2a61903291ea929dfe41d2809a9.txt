@@ -1,0 +1,18 @@
+Shop: Shop_A
+Call ID: call_2a61903291ea929dfe41d2809a9
+Time: 01/23/2026 04:56
+Duration: 0:27
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.054
+End-to-End Latency: 1938
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Are there any appointments for oil changes this morning?
+Agent: Thanks for asking! The shop is currently closed and will open today at 8:00am. I can send you a scheduling link so you can book an oil change appointment at your convenience.Great, can you please spell your first name for me?

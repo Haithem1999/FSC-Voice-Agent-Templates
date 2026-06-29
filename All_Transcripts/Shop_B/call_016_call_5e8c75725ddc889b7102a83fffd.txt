@@ -1,0 +1,36 @@
+Shop: Shop_B
+Call ID: call_5e8c75725ddc889b7102a83fffd
+Time: 03/04/2026 05:27
+Duration: 2:04
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Negative
+Appointment Activity: false
+Cost: $0.240
+End-to-End Latency: 2781
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Speak with a manager.
+Agent: Our shop is currently closed for the evening, so there isn’t a manager available right now. Would you like to leave a message for the manager so they can follow up with you as soon as possible? If there’s something urgent, 
+User: Yes. 
+Agent: please let me know and I’ll make sure the shop is notified right away.
+User: Speak with a manager.
+Agent: Absolutely, I can help you leave a message for the manager so they can get back to you as soon as possible.
+
+Great, can you please spell your first name for me?
+User: Caller_010, C a l l e r _ 0 1 0.
+Agent: Thank you, Caller_010. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thanks, Caller_010. What message would you like me to leave for the manager?
+User: Mazda three that's sitting in your shop. I need to talk about the repair the cost, and why it was not returned to my son.
+Agent: I've made sure your message will be delivered to the manager: you’d like to discuss the Mazda 3 in the shop, the repair, the cost, and why it wasn’t returned to your son. The shop has been notified and someone will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: You can let them know this is doctor Caller_010 Kearl. What they're doing. Is malpractice, and I've notified AAA.
+Agent: Thank you, Caller_099. Caller_010 Kearl. I’ve updated your message to include your concerns about malpractice and that you’ve notified AAA, along with your request to discuss the Mazda 3, the repair, the cost, and why it wasn’t returned to your son. The shop has been notified and will follow up with you as soon as possible.
+
+Is there anything else I can help you with?

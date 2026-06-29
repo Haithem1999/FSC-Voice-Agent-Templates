@@ -1,0 +1,33 @@
+Shop: Shop_B
+Call ID: call_6b6a01e57de24d550ab55372b92
+Time: 02/16/2026 20:59
+Duration: 1:16
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.148
+End-to-End Latency: 1402.99609375
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Reschedule.
+Agent: No problem! Would you like to receive a booking link to reschedule your appointment yourself, or would you prefer that I forward your rescheduling request directly to the shop so they can assist you?
+User: Forward my rescheduling request.
+Agent: Great, can you please spell your first name for me?
+User: Caller_096, C a l l e r _ 0 9 6.
+Agent: Thanks, Caller_096. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What would you like to reschedule your appointment for? Is it a specific service or repair?
+User: Brake repair.
+User: Inspection. 
+Agent: And when would you like to come in for your brake repair?
+User: Thursday,
+Agent: I've notified the shop about your request to reschedule your brake repair inspection for Thursday. They’ll follow up with you to confirm the details.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're welcome, Caller_096! Have a great day.

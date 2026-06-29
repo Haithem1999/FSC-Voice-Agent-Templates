@@ -1,0 +1,34 @@
+Shop: Shop_B
+Call ID: call_144c347644d3400af499f6318a4
+Time: 01/05/2026 01:37
+Duration: 1:37
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.188
+End-to-End Latency: 1760.006103515625
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Schedule an appointment.
+Agent: I’d be happy to help you schedule an appointment! Would you like me to send you a booking link so you can schedule online, or would you prefer that I forward your appointment request directly to the shop for follow-up?
+User: Forward it to the shop.
+Agent: Great! Could you please provide a few details about your vehicle, the service you need, and your preferred date and time? This will help the shop follow up with you as soon as possible.
+User: Two thousand twenty four GMC Yukon.
+Agent: Thank you! What type of service or repair 
+User: Pizza.
+Agent: would you like to schedule for your 2024 GMC Yukon? And do you have a preferred date and time for your appointment?
+User: General maintenance. As soon as possible.
+Agent: Thank you! Can you please spell your first name for me?
+User: C a l l e r _ 0 0 7.
+Agent: Thanks, Caller_007. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: The shop has been notified about your request for general maintenance on your 2024 GMC Yukon, and they’ll follow up with you as soon as they’re open.
+
+Is there anything else I can help you with?
+User: Nope.
+Agent: Thank you for calling Shop_B, Caller_007. Have a

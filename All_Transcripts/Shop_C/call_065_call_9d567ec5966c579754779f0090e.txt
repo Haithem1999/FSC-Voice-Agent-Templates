@@ -1,0 +1,27 @@
+Shop: Shop_C
+Call ID: call_9d567ec5966c579754779f0090e
+Time: 10/25/2025 23:19
+Duration: 1:10
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: 
+Cost: $0.136
+End-to-End Latency: 2529
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi there. I received a referral for you and have an engine light on, and you came highly recommended to help me out.
+Agent: Thank you so much for considering us and for letting me know about the referral! We’d be happy to help with your check engine light. Would you like to schedule an appointment to bring your vehicle in for diagnostics?
+User: Yes, please.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 7 7.
+User: N.
+Agent: Thanks, Caller_077. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yeah.
+Agent: Thank you, Caller_077! I’ve just sent you a text message with a link where you can schedule your service appointment for the check engine light diagnostic.Is there anything else I can help you with?
+User: No. That's it. Thank you.
+Agent: You’re very welcome, Caller_077! Have a great day, and we look forward to seeing you soon. Goodbye!

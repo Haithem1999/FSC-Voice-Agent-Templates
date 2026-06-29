@@ -1,0 +1,40 @@
+Shop: Shop_B
+Call ID: call_dd97248c526010898025f7f7750
+Time: 12/06/2025 23:05
+Duration: 1:39
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.192
+End-to-End Latency: 1432
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Get a quote.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 9 0.
+Agent: Thanks, Caller_090. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Could you please tell me the year, make, and model of your vehicle?
+User: Two thousand four Toyota Highlander.
+User: Four cylinder.
+Agent: Thank you for that information. What would you like to be quoted on for your 2004 Toyota Highlander with a four-cylinder engine?
+User: Transmission
+User: and 
+User: gasket 
+User: and fluid change.
+Agent: Thank you for clarifying. I’ll include the transmission, gasket, and fluid change in your quote request for your 2004 Toyota Highlander, four cylinder.
+
+Your request has been forwarded to the shop, and someone will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: The filter change as well.
+Agent: I've updated your request to include the transmission, gasket, fluid, and filter change for your 2004 Toyota Highlander, four cylinder. The shop will follow up with you soon.
+
+Is there anything else I can help you with?
+User: That is all.
+Agent: Thank you for calling Shop_B, Caller_090. Have a great day!

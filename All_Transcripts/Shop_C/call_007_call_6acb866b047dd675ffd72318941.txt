@@ -1,0 +1,23 @@
+Shop: Shop_C
+Call ID: call_6acb866b047dd675ffd72318941
+Time: 03/13/2026 03:26
+Duration: 0:49
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.096
+End-to-End Latency: 1743
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Following up on a quote. 
+Agent: I’d be happy to help with that! Just to clarify, are you looking to get a new quote, or are you checking on the status of a quote you’ve already requested?
+User: Checking on the status of a quote. 
+User: I already requested. 
+Agent: Thanks for letting me know! Since the shop is currently closed, I’m unable to provide updates on existing quote requests at this time. I can leave a message for the team to follow up with you as soon as they’re back in the shop. Would you like to leave a message, or is there anything else I can help you with?
+User: That's all. Thank you. 
+Agent: You're welcome! I'll make sure the team follows up with you as soon as possible. Have a great day!

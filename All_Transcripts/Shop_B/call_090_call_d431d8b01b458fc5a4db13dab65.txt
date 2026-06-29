@@ -1,0 +1,42 @@
+Shop: Shop_B
+Call ID: call_d431d8b01b458fc5a4db13dab65
+Time: 12/25/2025 22:01
+Duration: 1:58
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.228
+End-to-End Latency: 1307
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Excuse me. Do you have a I have a my my tire is flat. Do you have a service for that?
+Agent: Yes, we do offer tire repair services! If you have a flat tire, we can help with repairs, replacements, or installation as needed. If your vehicle is not drivable and you need a tow, just let me know and I can assist with that as well.
+
+Would you like to schedule a tire service, or do you need a tow to get your vehicle to the shop?
+User: Yes. I can I can we driver my my car over there?
+User: But where is the can I can I have the the address, please?
+Agent: Of course! We’re located at [Shop_B_Address]. You’re welcome to drive your car over for tire service.
+
+Is there anything else I can help you with?
+User: Can you repeat the address?
+Agent: Absolutely! The address is [Shop_B_Address].
+
+Is there anything else I can help you with?
+User: (inaudible speech)
+Agent: Is there anything else I can 
+User: Okay.
+Agent: help you with today?
+Agent: Thank you for calling Shop_B! If you need anything else, just let us know. Have a great day!
+User: Okay.
+User: Give me a second, please.
+User: because we don't we don't take the address.
+Agent: No problem! The address is [Shop_B_Address].Take your time—let me know if you need me to repeat it or if there’s anything else I can help you with.
+User: Okay that that's it
+User: it.
+User: see you soon.
+Agent: Thank you! We look forward to seeing you soon at [Shop_B_Address]. Have a great day!

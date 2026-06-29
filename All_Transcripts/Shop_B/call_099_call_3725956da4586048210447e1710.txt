@@ -1,0 +1,30 @@
+Shop: Shop_B
+Call ID: call_3725956da4586048210447e1710
+Time: 12/16/2025 01:14
+Duration: 1:32
+Call Status: ended
+Disconnection Reason: call_transfer
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.178
+End-to-End Latency: 1900.5
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Make an appointment.
+Agent: I’d be happy to help you set up an appointment! Would you like me to send you a booking link so you can schedule it yourself, or would you prefer that I forward your appointment request directly to the shop so they can follow up with you?
+User: Booking link.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 3 1
+Agent: Thanks, Caller_031. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+Agent: Perfect! What would you like to schedule your appointment for? (For example: oil change, brake inspection, diagnostics, etc.)
+User: Engine light is on.
+Agent: Thank you, Caller_031! I’ve just sent you a text message with a link to schedule your service appointment for your engine light concern. You can pick a date and time that works best for you.
+
+Is there anything else I can help you with?
+User: Have a representative call me.
+Agent: Absolutely, I'll have a team member reach out to you as soon as possible.

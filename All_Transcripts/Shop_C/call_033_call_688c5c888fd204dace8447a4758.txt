@@ -1,0 +1,37 @@
+Shop: Shop_C
+Call ID: call_688c5c888fd204dace8447a4758
+Time: 01/19/2026 02:12
+Duration: 2:00
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.232
+End-to-End Latency: 1529
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: With someone who can help me is with an inspection.
+Agent: We’d be happy to help you with a vehicle inspection! Would you like to schedule an appointment for your inspection, or do you have some questions about the process first?
+User: I have questions.
+Agent: Of course! What would you like to know about our inspection services? I’m here to help answer any questions you have.
+User: I need to speak with a real person.
+Agent: The shop is currently closed today, but I can make sure someone from Shop_C gets your message and contacts you as soon as possible when we reopen. Would you like to leave a message for the team, or is there something 
+User: Yes.
+Agent: urgent you need help with?
+User: I 
+User: can leave a message.
+Agent: Great, can you please spell your first name for me?
+User: S I, m like Mary, o, n like Caller_121, e.
+Agent: Thank you, Caller_078. And can we use the phone number you are calling from to follow up?
+User: Yeah.
+Agent: Thanks, Caller_078. What message would you like me to leave for the shop? Would you like them to call you back to discuss the inspection, or is there something specific you want to ask?
+User: Uh, so I wanted to ask them about if they can do an inspection on a van build on a twenty nineteen Ram ProMaster three thousand five hundred extended with a high roof, that I'm trying to purchase from a private party.
+Agent: I've made sure your message will be passed along to the shop. Someone from Shop_C will contact you to discuss whether they can perform an inspection on the 2019 Ram ProMaster 3500 Extended High Roof van.
+
+Is there anything else I can help you with?
+User: Yeah. That's it.
+Agent: Thank you for calling, Caller_078. The shop will reach out to you as soon as possible. Have a great day!

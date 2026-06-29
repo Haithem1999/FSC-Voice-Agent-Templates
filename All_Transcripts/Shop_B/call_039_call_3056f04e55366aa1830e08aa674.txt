@@ -1,0 +1,36 @@
+Shop: Shop_B
+Call ID: call_3056f04e55366aa1830e08aa674
+Time: 02/11/2026 04:24
+Duration: 1:46
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.205
+End-to-End Latency: 1863.5
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I was calling to schedule an oil change
+User: maybe on Friday morning.
+Agent: Thanks for letting me know! Would you like to receive a booking link to schedule your oil change yourself, or would you prefer I forward your request directly to the shop so they can follow up and confirm your Friday morning appointment?
+User: I am driving. So if you could forward the message, that would be great.
+Agent: Absolutely, I can take care of that for you. Great, can you please spell your first name for me?
+User: C a l l e r _ 0 5 4
+Agent: Thank you, Caller_054. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you, Caller_054! I’ve notified the shop about your oil change request for Friday morning, and they’ll follow up with you to confirm the details.
+
+Is there anything else I can help you with?
+User: No. I think that will do it. Thank you.
+User: Oh, actually sorry. Yes.
+Agent: No problem at all! What else can I help you with, Caller_054?
+User: Sure. There were some other service I might be able to piggyback on, uh, to the oil change as well. But they can let me know about that when they call me back.
+Agent: Absolutely, Caller_054! I’ll let the shop know you’re interested in hearing about additional services you might add to your oil change. They’ll be happy to discuss your options when they follow up.
+
+Is there anything else I can help you with today?
+User: Nope. That's it. Thank you.
+Agent: You’re very welcome, Caller_054! Have a great day, and the shop will be in touch soon. Goodbye!

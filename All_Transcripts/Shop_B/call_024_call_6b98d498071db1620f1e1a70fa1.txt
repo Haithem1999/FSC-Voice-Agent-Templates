@@ -1,0 +1,46 @@
+Shop: Shop_B
+Call ID: call_6b98d498071db1620f1e1a70fa1
+Time: 02/19/2026 06:54
+Duration: 2:54
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.335
+End-to-End Latency: 1427.00244140625
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I live close to the Mission Gorge location, and I needed to bring my car in as soon as possible, like, tomorrow, but it looks like there's no appointments available.
+Agent: Thanks for reaching out! If you’d like, I can either send you our online booking link so you can check for any last-minute openings, or I can forward your appointment request directly to the shop so they can contact you if something opens up. Which would you prefer?
+User: Please forward my contact information.
+Agent: Great, can you please spell your first name for me?
+User: Katherine, C a l l e r _ 0 6 1.
+Agent: Thanks, Caller_061. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Perfect. What type of service or repair would you like to schedule the appointment for?
+User: Well, my my light went on. And it looks like I already googled chat GBT. It looks like a a spark plug issue or a spark plug coil issue or both.
+Agent: Thank you 
+User: Have a two 
+Agent: for explaining that, 
+User: thousand four mhmm. K. Alright.
+Agent: Thank you, Caller_061. And when would you like to come in for your spark plug or coil issue? You mentioned as soon as possible—would tomorrow work best for you, or is there another day you prefer?
+User: No. Tomorrow would work great.
+User: It's 
+User: a problem. I can't drive my car that well.
+Agent: Thank you for letting me know, Caller_061. I’ve notified the shop about your request for tomorrow regarding your spark plug or coil issue, and they’ll follow up with you as soon as they’re open.
+
+Since you’re having trouble driving your car, would you like assistance arranging a tow to the shop?
+User: No. I don't live that far. I can drive it. I just can't drive very far.
+Agent: Understood, Caller_061. I’ve made a note that you can drive your car a short distance. The shop will reach out to you once they’re open to confirm your appointment and help with next steps.
+
+Is there anything else I can help you with?
+User: Ask them to leave a voice mail because if it's an unfamiliar number to my phone, I might not be able to pick up the call, but I'll call right back if they leave a message. So please leave a message on voice mail.
+Agent: Absolutely, Caller_061. I’ll let the shop know to leave you a voicemail if you don’t answer, so you can call them back promptly.
+
+Is there anything else I can help you with?
+User: No. Thank you. That's it.
+Agent: You’re very welcome, Caller_061! The shop will be in touch and will be sure to leave a voicemail if you don’t answer. Have a great evening!

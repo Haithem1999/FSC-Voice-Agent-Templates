@@ -1,0 +1,36 @@
+Shop: Shop_B
+Call ID: call_c7bf455ecd92a2bd123ff531b1f
+Time: 01/21/2026 20:10
+Duration: 2:11
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.253
+End-to-End Latency: 1886
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: In for about nine drop off.
+Agent: Just to confirm, are you planning to drop off your vehicle around 9 o’clock? If you’re referring to after-hours drop-off, our shop is currently closed for the evening. Would you like instructions for dropping off your vehicle and keys, or would you like to schedule an appointment for service? Let me know how I can assist!
+User: Uh, I would like to get info to drop off tonight.
+Agent: For 
+User: With the tow truck.
+Agent: after-hours 
+Agent: I’m sorry you’re going through this. You’re in good hands, though. Would you like us to set up a tow for you?
+User: They're they're having they have bringing I have a triple a twelve truck coming there. What should I do?
+Agent: No 
+User: bring 
+Agent: problem!
+User: it in the in a particular place just to drop on the parking?
+Agent: Great question! When your AAA tow truck arrives, you can have them drop your vehicle off in our parking lot at [Shop_B_Address]. After parking, please place your keys in our secure drop box—it's located near the front entrance of the shop.
+
+If you’d like, I can also leave a note for the team with your details so they know your vehicle is arriving tonight. Would you like to do that? And is there anything else I can help you with?
+User: Uh, yes. The keys, but the the car won't start.
+Agent: That’s totally fine—many vehicles dropped off after hours aren’t running. Just have the tow truck park your car in our lot, and then place your keys in the drop box by the front entrance. Our team will take care of it when we open in the morning.
+
+Would you like to leave your name and a contact number so the shop can reach you if they have any questions? And is there anything else I can help you with?
+User: That should do it. Thank you. I call I call later on in the evening. Thank you.

@@ -1,0 +1,19 @@
+Shop: Shop_A
+Call ID: call_5be42fc7d257c549ce12a5e4a10
+Time: 03/14/2026 23:42
+Duration: 0:08
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.017
+End-to-End Latency: 2771.000244140625
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+User: Like, forty years. You know what 
+Agent: Thank you for calling Shop_A! 
+User: mean? Yeah. 
+Agent: Absolutely, I get what you mean!

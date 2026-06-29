@@ -1,0 +1,26 @@
+Shop: Shop_B
+Call ID: call_501c2551328c797a97e231fa76a
+Time: 01/01/2026 01:14
+Duration: 0:59
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.115
+End-to-End Latency: 1823
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hi. Can you have Caller_025 call me back? My name is Caller_001 Barney.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 0 1
+Agent: Thanks, Caller_001. And can we use the phone number you are calling from to follow up?
+User: Yes, please.
+Agent: Thank you! Just to confirm, you’d like Caller_025 to call you back. Is there anything specific you’d like me to mention in your message, or just to have him return your call?
+User: Um, it's about my Subaru Crosstrek.
+Agent: I've noted your message for Caller_025 to call you back regarding your Subaru Crosstrek, and the shop has been notified of your request.Is there anything else I can help you with?
+User: Uh, no. Thank you.
+Agent: You're welcome, Caller_001! Have a great day.

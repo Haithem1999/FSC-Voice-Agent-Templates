@@ -1,0 +1,38 @@
+Shop: Shop_B
+Call ID: call_0a0313411f67371890d65d041c9
+Time: 02/16/2026 04:32
+Duration: 2:18
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.266
+End-to-End Latency: 1595
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Leave a message for Caller_025.
+Agent: Great, can you please spell your first name for me?
+User: Caller_034. C a l l e r _ 0 3 4.
+Agent: Thanks, Caller_034. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! What message would you like me to leave for Caller_025?
+User: Hi, Caller_025. This is Caller_034. I went through the math and kinda went to the dealer to see my options, and I decided for the next few years I'd, um, I'd keep my car. Just just made the most sense. Based on everything you were saying. So I'm looking to get, uh, those repairs we had talked about done, the brake fluid, the alignment, and, uh, those motor mounts Do I need if you could just call me, once you get a chance, that'd be great.
+Agent: Your message for Caller_025 has been sent to the shop, and he’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: Um, could you let him know that I'm planning to bring it in tomorrow after I get the tires swapped out?
+Agent: I've updated your message for Caller_025 to include that you'll be bringing your car in tomorrow after getting the tires swapped out. He’ll reach out to you as soon as he can.
+
+Is there anything else I can help you with?
+User: What is the current message you have for him?
+Agent: Here’s the message I have for Caller_025:
+
+"Hi, Caller_025. This is Caller_034. I went through the math and kinda went to the dealer to see my options, and I decided for the next few years I'd keep my car. Just made the most sense based on everything you were saying. So I'm looking to get those repairs we had talked about done: the brake fluid, the alignment, and those motor mounts. Do I need anything else? Also, I'm planning to bring it in tomorrow after I get the tires swapped out. If you could just call me once you get a chance, that'd be great."
+
+Is there anything else I can help you with?
+User: Nope. That's it.
+Agent: Alright, Caller_034. Thanks for calling Shop_B! Have a great rest of your day.

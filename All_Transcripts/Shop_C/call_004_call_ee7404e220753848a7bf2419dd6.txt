@@ -1,0 +1,29 @@
+Shop: Shop_C
+Call ID: call_ee7404e220753848a7bf2419dd6
+Time: 03/23/2026 05:06
+Duration: 0:56
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.109
+End-to-End Latency: 1601.5
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Reschedule. 
+Agent: No problem! I can help you get set up to reschedule your appointment.
+
+Great, can you please spell your first name for me?
+User: C a l l e r _ 0 3 8 a e? 
+Agent: Thank you, Caller_097.And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes. 
+Agent: Thanks! What would you like to reschedule your appointment for? (For example: oil change, brake service, diagnostics, etc.)
+User: Diagnostics. 
+Agent: You’ll receive a text message with a link to reschedule your diagnostics appointment. Just follow the link to pick a new date and time that works for you.
+
+Is there anything else I can help you with?
+User: No. Thank you.

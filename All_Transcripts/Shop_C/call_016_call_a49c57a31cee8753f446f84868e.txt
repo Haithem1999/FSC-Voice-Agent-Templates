@@ -1,0 +1,48 @@
+Shop: Shop_C
+Call ID: call_a49c57a31cee8753f446f84868e
+Time: 02/22/2026 20:17
+Duration: 2:20
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.270
+End-to-End Latency: 1254
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Yeah. I'm looking for fuel injectors.
+User: Nissan Versa two thousand twelve.
+Agent: Thanks for sharing your vehicle details. Are you looking to have the fuel injectors replaced or serviced, or are you interested in getting a quote for the parts and labor? Let me know how I can assist you further!
+User: How about replace or remanufacture?
+Agent: We can definitely help with fuel injector replacement or servicing for your 2012 Nissan Versa. I don’t have specific pricing or inventory details available right now, but I can have the shop provide you with a quote for either replacement or remanufactured injectors.
+
+Would you like me to have someone reach out to you with a quote? If so, could you please provide your contact information and any preferences you have?
+User: Yeah. My phone number is five five five one zero zero zero zero three nine. My name is Caller_018.
+Agent: Thank you, Caller_018. Just to confirm, your phone number is 555-100-0039, correct?
+
+Once you confirm, I’ll forward 
+User: That's correct.
+Agent: your request for a quote on replacing or remanufacturing the fuel injectors for your 2012 Nissan Versa to the shop. Is that correct?
+User: That's right.
+Agent: Great, Caller_018! I’ve forwarded your request for a quote on replacing or remanufacturing the fuel injectors for your 2012 Nissan Versa to the shop. Someone will reach out to you as soon as possible with details.
+
+Is there anything else I can help you with?
+User: You think they can get back to me today?
+Agent: Since today is Sunday and the shop is closed, the team will see your request first thing when they reopen on Monday morning. They’ll get back to you as soon as possible after that.
+
+Is there anything else I can 
+User: Okay.
+Agent: help you with?
+Agent: Thank you, 
+User: That's it. Thank you.
+Agent: You're welcome, 
+User: How would you 
+Agent: Caller_018! Have a great 
+User: like to tag this call?
+User: Press one for good lead. Press two for poor lead. Press three for existing customer. Press four for vendor. Press five for other. Press star to repeat options.
+User: pound to skip this step.
+Agent: Thank you for calling Shop_C. Have a great day!

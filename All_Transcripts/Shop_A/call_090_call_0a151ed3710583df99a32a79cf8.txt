@@ -1,0 +1,19 @@
+Shop: Shop_A
+Call ID: call_0a151ed3710583df99a32a79cf8
+Time: 01/06/2026 04:07
+Duration: 0:40
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.079
+End-to-End Latency: 4738
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I'm in a low
+Agent: It sounds like you might be having an issue with your vehicle. Could you tell me a bit more about what’s going on? Are you needing a tow or some other kind of assistance?
+Agent: Just checking in—are you needing a tow or urgent help with your vehicle? Let me know how I

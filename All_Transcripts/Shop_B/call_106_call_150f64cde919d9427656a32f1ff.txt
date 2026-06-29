@@ -1,0 +1,45 @@
+Shop: Shop_B
+Call ID: call_150f64cde919d9427656a32f1ff
+Time: 12/09/2025 20:57
+Duration: 2:20
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.270
+End-to-End Latency: 2081
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Do you guys work on Tesla?
+Agent: Yes, we do! Our ASE-Certified technicians are fully trained and equipped to service and repair Tesla and other electric vehicles. Is there something specific you need help with on your Tesla, or would you like to schedule an appointment?
+User: I I get a knock on the back tires once in the Blue Moon.
+User: If that's something 
+Agent: Thanks for sharing that. An 
+User: that you guys wanna work on,
+Agent: Absolutely, we can help with that! Our technicians are experienced with diagnosing and repairing suspension, axle, and drivetrain issues—which are common causes of occasional knocking sounds near the rear tires, even on Teslas.
+
+Would you like to schedule an appointment to have it checked out? I can either send you a 
+User: Yes.
+Agent: booking link to set up a visit online, or I can forward your request directly to the shop so a service advisor can follow up with you. Which would you prefer?
+User: Service adviser.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 0 8 3
+User: last name is Uruci, u r u c I.
+Agent: Thank you, Caller_083. And can we use the phone number you are calling from to follow up?
+User: Yes.
+User: five eight three eight zero eight three one six.
+Agent: Thank you for confirming your phone number: 583-808-316.
+
+And just to confirm, you’d like to have a service advisor follow up with you about the occasional knock you’re hearing from the back tires of your Tesla.When would you like to come in for this inspection?
+User: Anytime.
+Agent: Thank you, Caller_083! I’ve notified the shop about your request, and a service advisor will follow up with you to schedule your visit at a convenient time.
+
+Is there anything else I can help you with today?
+User: No. That should do it. Thank you so much.
+Agent: You’re very welcome, Caller_083! Have a great day, and we look forward to helping 
+User: You
+Agent: you with your Tesla. Goodbye!

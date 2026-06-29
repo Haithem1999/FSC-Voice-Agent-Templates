@@ -1,0 +1,23 @@
+Shop: Shop_C
+Call ID: call_5ee73b07cd98132ce3b55fd4d19
+Time: 02/06/2026 04:11
+Duration: 1:06
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.128
+End-to-End Latency: 1401
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+User: This is 
+Agent: Thank you for calling 
+User: Caller_008 Andrew Georgette. You doing?
+Agent: Hi Caller_008! I’m doing well, thank you for asking. How can I help you today?
+User: Ginger Trust. The reason for my call is we help long homeowners over the age of sixty five understand their options when it comes time to move. Whether it's downsizing or moving into an area you've always wanted to live, and how prop nineteen can help you keep your current property tax rate. The best part? We even cover the cost of that move. This isn't a sales call, just informational. Would it be okay if I asked you a couple of quick questions?
+Agent: Thank you for sharing that information, Caller_008. I’m just the after-hours receptionist for Shop_C, so I’m not able to answer questions or make decisions on behalf of the business. If you’d like, I can take a message and have someone from the shop follow up with you during business hours. Would you like to leave a message?
+User: Thank you for letting me know. I'll go ahead and mark this as not interested You have a great day.
+Agent: Thank you, Caller_008. Have a wonderful day!

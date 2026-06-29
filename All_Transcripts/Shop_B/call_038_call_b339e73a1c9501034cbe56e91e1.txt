@@ -1,0 +1,32 @@
+Shop: Shop_B
+Call ID: call_b339e73a1c9501034cbe56e91e1
+Time: 02/12/2026 05:15
+Duration: 1:53
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.219
+End-to-End Latency: 1248.0009765625
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Cancel part order.
+Agent: I’m not able to process part order cancellations directly. Would you like to leave a message for the shop so they can follow up with you about canceling your part order?
+User: Yes.
+Agent: Great, can you please spell your first name for me?
+User: Caller_034, C a l l e r _ 0 3 4.
+Agent: Thanks, Caller_034. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Just to confirm, you’d like to leave a message for the shop to cancel your part order. Is there anything specific you’d like to mention about the order, or is a general cancellation request okay?
+User: Leave specific message.
+Agent: Of course! Please let me know the details you’d like included in your message about the part order cancellation.
+User: This is a message for Caller_025. I discussed with him ordering some new motor mounts and just after running through personal finances, I need to hold off on that for a couple days while I figure things out on my end. I'm just looking to hold off on on doing anything further with the car until I until I figure that out on my end.
+Agent: Your message for Caller_025 has been noted: you’d like to hold off on ordering the new motor mounts and pause any further work on your car until you sort out your finances. The shop has been notified and will follow up with you.
+
+Is there anything else I can help you with?
+User: Nope. That's it.
+Agent: Thank you for calling Shop_B, Caller_034. Have a great evening!

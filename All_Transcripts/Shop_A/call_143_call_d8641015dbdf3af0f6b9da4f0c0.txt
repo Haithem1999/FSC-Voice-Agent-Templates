@@ -1,0 +1,41 @@
+Shop: Shop_A
+Call ID: call_d8641015dbdf3af0f6b9da4f0c0
+Time: 11/08/2025 03:59
+Duration: 2:07
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: 
+Cost: $0.245
+End-to-End Latency: 2068.0050048828125
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Hello.
+User: I had a question about my truck that that that was in the shop.
+Agent: Of course! What would you 
+User: With you this week.
+Agent: Thanks for clarifying. Could you tell me a bit more about your question regarding your truck? Are you looking for an 
+User: Yeah. 
+Agent: update on the repair, or do you have a specific concern?
+User: No. I picked the truck up, but it's not wanting to to turn on.
+User: And that's why I sent it to the shop.
+Agent: I’m really sorry to hear you’re still having trouble starting your truck after picking it up. Since this sounds like an urgent issue related to a recent repair, I’ll make sure the shop is notified right away so they can follow up with you as soon as possible.
+
+Could you please provide your name and the best phone number for the shop to reach you? If you’d like, you can also share any other details about what’s happening with your truck.
+User: Yes. My name is Caller_106 Carillo. Phone number is five five five one zero zero zero zero one two.
+Agent: Thank you, Caller_106. Just to confirm, your phone number is 555-100-0012. Is that correct?
+
+Could you please share 
+User: Yes.
+Agent: any additional details about what happens when you try to start your truck? For example, do you hear any sounds, or does anything light up on the dashboard? This will help the shop understand the issue better.
+User: Yeah. When I turn the key, there's literally no lights that light Not the dashboard, not the headlights. Nothing lights up.
+User: No. No reaction.
+Agent: Thank you for sharing those details, Caller_106. I’ll make sure the shop is notified about your urgent issue with the truck not starting and no lights or reaction at all. They’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with tonight?
+User: That'll be it.
+Agent: Alright, Caller_106. Thanks for reaching out. The shop will be in touch with you as soon as possible. Have a good evening!

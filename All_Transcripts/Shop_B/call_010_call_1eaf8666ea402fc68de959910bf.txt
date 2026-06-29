@@ -1,0 +1,28 @@
+Shop: Shop_B
+Call ID: call_1eaf8666ea402fc68de959910bf
+Time: 03/21/2026 19:27
+Duration: 1:23
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.161
+End-to-End Latency: 1689.501953125
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Uh, I've got a blinking check engine light. 
+Agent: A blinking check engine light usually means there’s a more urgent issue that should be checked out as soon as possible. Would you like to schedule an appointment to have your vehicle diagnosed? I can either send you a booking link to set up your appointment online, or I can forward your request directly to the shop so they can follow up with you. Which would you prefer?
+User: Direct follow-up. 
+Agent: Great, can you please spell your first name for me?
+User: Caller_103, C a l l e r _ 1 0 3. 
+Agent: Thanks, Caller_103. And can we use the phone number you are calling from to follow up?
+User: Yes. 
+Agent: Perfect, thank you! Just to confirm, you’d like to schedule an appointment to have your vehicle diagnosed for a blinking check engine light.And when would you like to come in for your diagnosis?
+User: As soon as possible. 
+Agent: I've notified the shop about your request, and they'll follow up with you as soon as possible to confirm your appointment. Is there anything else I can help you with?
+User: No. 
+Agent: Alright, thank you for calling Shop_B. Have a great day!

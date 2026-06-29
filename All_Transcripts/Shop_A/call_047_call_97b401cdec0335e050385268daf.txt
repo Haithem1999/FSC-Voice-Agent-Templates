@@ -1,0 +1,28 @@
+Shop: Shop_A
+Call ID: call_97b401cdec0335e050385268daf
+Time: 02/15/2026 23:35
+Duration: 1:31
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.176
+End-to-End Latency: 1931
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: My car was dropped off on Friday night. For service.
+Agent: Thanks for letting me know your car was dropped off on Friday night for service. Is there something specific you’d like to check on or request regarding your vehicle?
+User: Well, it was dropped off for repair by triple a. So the key is on top of the tire. I think he said the driver's side tire. And I we were not really sure what's wrong with it. It had to be towed in. And so we can just please have someone call me in the morn as soon as they get to it or, you know, get in touch with me tomorrow at five five five one zero zero zero zero zero five. And my name is Caller_029 Richardson.
+Agent: Thank you, Caller_029. Just to confirm, your first name is Caller_029—could you please spell that for me to make sure I have it correct?
+User: Yes. C a l l e r _ 0 2 9.
+Agent: Thank you, Caller_029. And just to confirm, can we use the phone number you provided—eight one seven, nine nine nine, eight five four eight—to follow up with you?
+User: Yes.
+Agent: The shop has been notified of your request, Caller_029, and someone will reach out to you as soon as possible when they open tomorrow.
+
+Is there anything else I can help you with?
+User: No. Thank you.
+Agent: You're very welcome, Caller_029. Have a great rest of your day! Goodbye.

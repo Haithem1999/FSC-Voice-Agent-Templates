@@ -1,0 +1,36 @@
+Shop: Shop_C
+Call ID: call_849b90defa9965f58f7aa71e87f
+Time: 02/15/2026 01:07
+Duration: 1:29
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.172
+End-to-End Latency: 1561
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Um, brake service.
+User: to get a quote.
+Agent: Great, can you please spell your first name for me?
+User: Right.
+Agent: Thank you! Could you please spell your first name for me?
+User: C a l l e r _ 0 5 2
+Agent: Thanks, Caller_052. And can we use the phone number you are calling from to follow up?
+User: five five five one zero zero zero zero four zero.
+Agent: Thank you. Just to confirm, your phone number is 555-100-0040. Is that correct?
+User: Yes.
+User: Correct.
+Agent: Perfect, thank you! Could you please tell me the year, make, and model of your vehicle?
+User: Two thousand eighteen. Acura RDX.
+Agent: Thank you! And just to confirm, you’d like a quote for brake service on your 2018 Acura RDX, correct? Is there anything 
+User: Yeah. I like to get a quote Yeah. I like to replace two rear brake pads.
+Agent: Thanks, Caller_052! I’ve forwarded your request for a quote on replacing the two rear brake pads for your 2018 Acura RDX to the shop. They’ll follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: I think that's it.
+Agent: Alright, thank you for calling Shop_C, Caller_052! Have a great day.

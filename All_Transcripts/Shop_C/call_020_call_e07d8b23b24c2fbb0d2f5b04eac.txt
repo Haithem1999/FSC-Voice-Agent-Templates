@@ -1,0 +1,38 @@
+Shop: Shop_C
+Call ID: call_e07d8b23b24c2fbb0d2f5b04eac
+Time: 02/07/2026 04:19
+Duration: 2:41
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: false
+Cost: $0.310
+End-to-End Latency: 1615.006103515625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+User: A 
+Agent: Thank you for 
+User: one star review from Anthony Spinozzi that we believe could be fraudulent. I'm Caller_119, an AI sales agent with The Transparency Company. We are a consumer watchdog that helps businesses fight fake reviews. Would you like to learn more about this review or how to dispute it?
+Agent: Hi Caller_119, thanks for reaching out and letting us know about the review concern. The shop is currently closed for the day, but I can make sure your message gets to the right person so they can follow up with you during business hours. Would you like to leave your contact information or any specific details about the review so the team can get back to you?
+User: Thanks. I appreciate you passing this along. Quick note for the team. We flagged a one star Google review from Anthony Spinozzi on the automotive and transmission listing that looks suspicious and may violate Google's rules. We can investigate, and if appropriate, file a dispute to try to get it removed. Right now, we're running a promotion where you Great. Thanks. I can send full details and next steps to the person who handles reputation or the owner. What is the best email to use for that?
+User: No problem. Can you tell me the best email to send the details to for Automotive and Transmission?
+User: Please spell it out, and I will repeat it back by spelling the at symbol as at. So we get it exactly right.
+Agent: Absolutely! The best email to use is: [Shop_C_Email]
+
+Let me spell that out for you:
+
+m-i-r-a-m-a-r-a-u-t-o-m-o-t-i-v-e @ g-m-a-i-l . c-o-m
+
+Please let me know if you’d like me to repeat it or if there’s anything else I can help you with!
+User: Thanks. I'm saving that email now and will send the information shortly. One quick pause while I save this. Thanks. Just to confirm, I have the email spelled as Shop_C at Gmail dot com. Is that correct?
+User: I help with anything else before I send the great?
+User: I'll proceed with that email. Miramor automotive at g mail dot com. Can I send the full details and next steps to that address now?
+Agent: Yes, you can go ahead and send the full details and next steps to [Shop_C_Email]. The team will review your message and follow up with you as soon as possible.
+
+Is there anything else I can help you with today?
+User: I'm sending the details to Shop_C at Gmail dot com now. This will take just a moment. Thanks. I've sent the details to Shop_C at Gmail dot com and saved the contact. Will that be all for now?
+User: can I help you with anything else?
+Agent: Thank you for your help and for sending the details. If you need anything else in the future, feel free to reach out. Have a great day!

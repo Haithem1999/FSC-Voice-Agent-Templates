@@ -1,0 +1,34 @@
+Shop: Shop_C
+Call ID: call_253a83dd0620fad1ca64bb79ab3
+Time: 01/20/2026 04:13
+Duration: 1:42
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.197
+End-to-End Latency: 1759.49853515625
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Can I adjust the the walls in my Honda Pilot in your shop?
+Agent: We don’t offer any auto body or interior modification services, such as adjusting or modifying the walls or panels inside your Honda Pilot. Shop_C specializes in mechanical and electrical repairs, maintenance, diagnostics, and related services.
+
+Is there something else I can help you with regarding your vehicle’s maintenance or repair needs?
+User: What's price?
+User: For 
+User: adjust the part?
+User: Does the valve
+User: I need price for adjusting valves on Honda Pilot.
+Agent: Great, I can help you request a quote for a valve adjustment on your Honda Pilot.
+
+Can you please spell your first name for me?
+User: Caller_138.
+Agent: Thank you, Caller_138. And can we use the phone number you are calling from to follow up?
+User: Sorry. This is can I make appointment?
+Agent: No problem at all! If you’d like to make an appointment for a valve adjustment on your Honda Pilot, I can help with that.
+
+Would you like to schedule the next available appointment, or do you have a specific date and time in mind?

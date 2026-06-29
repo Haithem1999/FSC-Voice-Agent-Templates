@@ -1,0 +1,30 @@
+Shop: Shop_B
+Call ID: call_ac7689261da23f2b171eea8d452
+Time: 01/29/2026 02:32
+Duration: 1:29
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.172
+End-to-End Latency: 2381.49951171875
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need a mechanic
+Agent: I can help with that! Are you looking to schedule an appointment with one of our mechanics, or do you need immediate assistance, like a tow or urgent help with your vehicle?
+User: Urgent help with my vehicle.
+Agent: I understand—let’s make sure the shop is notified right away. Can you please spell your first name for me?
+User: C a l l e r _ 0 6 8.
+Agent: Thank you, Caller_068. And can we use the phone number you’re calling from to follow up with you?
+User: Yes.
+Agent: Thanks, Caller_068. Could you please tell me a bit more about your urgent situation or any additional details you’d like the shop to know?
+User: The card. Shutters, shimmies, while driving.
+Agent: The shop has been notified of your urgent request, and someone will follow up with you as soon as possible.
+
+Is there anything else I can help you with?
+User: Not at this time.
+Agent: Thank you for calling, Caller_068. Take care, and we’ll be in touch soon. Have a great day!

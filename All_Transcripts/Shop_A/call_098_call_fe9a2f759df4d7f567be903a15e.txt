@@ -1,0 +1,36 @@
+Shop: Shop_A
+Call ID: call_fe9a2f759df4d7f567be903a15e
+Time: 12/25/2025 03:21
+Duration: 2:17
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.265
+End-to-End Latency: 2530
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Speak to someone.
+Agent: The shop is currently closed for the evening, but I’m here to help however I can. If you’d like, I can take a message for the team or assist with scheduling, quotes, or any other questions you might have. What can I help you with tonight?
+User: Leave a message.
+Agent: Of course! Please let me know what you’d like the shop to know, and I’ll make sure your message gets to the right person. What would you like to say?
+User: Yes. Well, our car needs to be towed, and we our AAA will not be active for the premium membership until the thirty first.
+User: I just need it towed somewhere nearby.
+User: Within seven miles before then, and I wasn't certain if there was any place I'd be willing to hold on to our car until the thirty first.
+User: If y'all would be willing to do that for us.
+User: Please let me know if so. Thank you.
+Agent: I’m sorry you’re going through this. You’re in good hands, though. Would you like us to set up a tow for you and have your car brought to Shop_A for safekeeping until your AAA membership becomes active?
+User: Yes.
+Agent: Great, can you please spell your first name for me?
+User: Caller_065, k r I s t I n.
+Agent: Thanks, Caller_065. And can we use the phone number you are calling from to send you a text message?
+User: Yes.
+Agent: Okay, I’ve gone ahead and notified Prestons Towing. I've also sent you a text message with their contact info. They will get in touch with you as soon as possible to make sure you get the help you need. Is there anything else I can help you with?
+User: (inaudible speech)
+Agent: Great. If you've never dropped your vehicle off at our shop before, I recommend giving me a call back when you arrive. I'll be able to explain our drop off procedure to you.
+
+Thank you for calling, and I hope everything goes smoothly with your tow! Have a good evening.

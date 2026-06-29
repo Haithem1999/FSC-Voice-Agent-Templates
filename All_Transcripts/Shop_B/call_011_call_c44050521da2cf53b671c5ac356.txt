@@ -1,0 +1,18 @@
+Shop: Shop_B
+Call ID: call_c44050521da2cf53b671c5ac356
+Time: 03/17/2026 23:08
+Duration: 0:46
+Call Status: ended
+Disconnection Reason: call_transfer
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.090
+End-to-End Latency: 2143
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to talk to Staff_006, I guess, My name is Don Forrest. I brought my BMW in at eight o'clock this morning for an oil change, and, uh, I was told it should be ready about noon. I'm just trying to get an update on when it might be ready. 
+Agent: Let me get your message over to the team so they can provide you with an update on your BMW oil change. Please hold for just a moment while I connect you.

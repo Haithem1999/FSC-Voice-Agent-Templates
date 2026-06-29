@@ -1,0 +1,20 @@
+Shop: Shop_B
+Call ID: call_fdcd8882fbce1b36d86a8edd2eb
+Time: 01/01/2026 18:00
+Duration: 1:03
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Unsuccessful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.123
+End-to-End Latency: 2236
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I just wanted to speak with somebody.
+User: Um, I was driving, and, uh, there was some flooding in my area, in my bumper. Kinda came off. I just wanted to see if I can get it reattached.
+Agent: Let me connect you with one of our team members who can help you with your bumper issue.
+Agent: It looks like I wasn’t able to connect you directly with a team member right now. Would you like me to take a message for the shop,

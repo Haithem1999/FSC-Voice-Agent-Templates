@@ -1,0 +1,45 @@
+Shop: Shop_A
+Call ID: call_bc50d5f78c1f656ab86d2c92623
+Time: 02/21/2026 02:01
+Duration: 2:41
+Call Status: ended
+Disconnection Reason: agent_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: false
+Cost: $0.310
+End-to-End Latency: 1652.5
+Agent Name: Shop_A - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_A! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to speak to someone.
+Agent: The shop is currently closed for the day, but I’m here to help however I can. If you’d like, I can take a message for the team or assist you with scheduling, quotes, or urgent requests. What can I help you with today?
+User: Need to talk to someone at the front desk? About where to hide my keys so that I can get the car this weekend.
+Agent: I understand this is urgent since you need to coordinate where to hide your keys for pickup this weekend. I’ll make sure the shop is notified right away.
+
+Great, can you please spell your first name for me?
+User: C a l l e r _ 0 0 4.
+Agent: Thanks, Caller_004. And can we use the phone number you are calling from to follow up?
+User: Yes.
+Agent: Thank you! Could you please share any additional details about where you’d like to hide your keys, or any instructions you want the shop to know for your weekend pickup?
+User: They can just hide the key behind one of the tires.
+User: the 
+User: car, and we'll 
+User: get it
+Agent: Got it—so you’ll be picking up the car this weekend, and you’d like the key to be hidden behind one of the tires for you to retrieve it. The shop has been notified of your request and will do their best to accommodate it.
+
+Is there anything else I can help you with?
+User: Yes. How will I know if they've this message and have hidden the key so that I don't make a trip out there if the key isn't ready.
+Agent: That’s a great question. Once the shop receives your message, they’ll follow up with you directly to confirm the key-hiding arrangement. You should expect a call or text from them during their next business hours—Monday through Friday, 8am to 5pm.
+
+If you don’t hear back, I recommend giving them a call during business hours before making the trip, just to be sure everything is set.
+
+Is there anything else I can help you with?
+User: Yes. Tomorrow is Saturday, so I can't wait until Monday when the next business day is. I need to get the car tomorrow, but they're already closed. They said they would call me, but no one did.
+Agent: I understand how important this is, especially since you need to pick up your car tomorrow and the shop is already closed for the weekend. I’ve sent your urgent request to the team, and they’ll do their best to address it as soon as possible—even outside regular hours.
+
+If you don’t hear back soon, I recommend checking your phone for any calls or texts from the shop. Is there anything else I can help you with, or any other details you’d like me to include in your message to the team?
+User: No.
+Agent: Thank you, Caller_004. I’ve sent your request to the shop and they’ll reach out as soon as possible. Have a good evening!

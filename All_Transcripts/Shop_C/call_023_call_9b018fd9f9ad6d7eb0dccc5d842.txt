@@ -1,0 +1,34 @@
+Shop: Shop_C
+Call ID: call_9b018fd9f9ad6d7eb0dccc5d842
+Time: 02/05/2026 18:30
+Duration: 2:04
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Neutral
+Appointment Activity: true
+Cost: $0.240
+End-to-End Latency: 1770
+Agent Name: Shop_C - After Hours
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_C! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: Oil change scheduling.
+Agent: Great, can you please spell your first name for me?
+User: J a C a l l e r _ 0 1 2.
+Agent: Thanks, Caller_105. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: (User pressed digit: 0)
+Agent: Thank you! Just to confirm, we’ll use the number one two one five - three six zero - two eight nine three to send you the scheduling link.
+
+And just to confirm, you’d like to schedule an oil change, correct?
+User: Yes.
+Agent: Perfect! I’ve just sent you a text message with a link where you can schedule your oil change appointment at your convenience.
+
+Is there anything else I can help you with?
+Agent: Just checking in—was there anything else I could help you with today? If not, you’re all set to schedule your oil change using the link I sent.
+User: Connect. To operator.
+Agent: I’m sorry, but I’m not able to connect you directly to an operator. Is there a specific question or request I can help you with, or would you like to leave a message for the shop?
+User: How would you like to tag this call?
+User: Press one for good lead. Press two for poor lead. Press three for existing customer. Press four for vendor. Press five for other, Press star to repeat options. Or pound to skip this step.
+Agent: I’m not able to process call tagging or input options like that.

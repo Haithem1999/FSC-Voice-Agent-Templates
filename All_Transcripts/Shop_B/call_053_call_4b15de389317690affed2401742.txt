@@ -1,0 +1,29 @@
+Shop: Shop_B
+Call ID: call_4b15de389317690affed2401742
+Time: 02/01/2026 03:07
+Duration: 1:29
+Call Status: ended
+Disconnection Reason: user_hangup
+Call Successful: Successful
+User Sentiment: Positive
+Appointment Activity: true
+Cost: $0.172
+End-to-End Latency: 1976.5
+Agent Name: Shop_B - After Hours ([City])
+----------------------------------------------------------------------
+TRANSCRIPT
+----------------------------------------------------------------------
+Agent: Thank you for calling Shop_B ! This is Chloe, the AI assistant and this call is recorded to improve service. How can I help?
+User: I need to get my lowered car suspension raised up a little bit.
+Agent: We can definitely help with suspension adjustments, including raising a lowered suspension. Would you like to receive a booking link to schedule your appointment online, or would you prefer that I forward your request directly to the shop so they can follow up with you?
+User: Send me a link.
+Agent: Great, can you please spell your first name for me?
+User: C a l l e r _ 1 0 9.
+Agent: Thanks, Caller_109. And can we use the phone number you are calling from to send you a text message with our scheduling link?
+User: Yes.
+User: (inaudible speech)
+Agent: You’ll receive a text message shortly with a link to schedule your service appointment for raising your car’s suspension. Is there anything else I can help you with today?
+User: Yeah.
+Agent: Of course! What else can I help you with today?
+User: And that's it.
+Agent: Thank you for calling Shop_B, Caller_109. Have a
