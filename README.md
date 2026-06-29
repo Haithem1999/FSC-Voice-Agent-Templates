@@ -38,16 +38,7 @@ Each transcript file begins with call metadata (shop name, call ID, timestamp, d
 ### `call-data/`
 The consolidated post-call export underlying the per-call files in `All_Transcripts/` — one row per call for all 332 calls combined. This is the tabular dataset parsed by `analysis-scripts/01_extract_transcripts.py`.
 
-- `study_332_calls.csv` — 332 rows × 32 columns of Retell post-call data: timing, duration, cost, disconnection reason, call status, sentiment, agent name/ID, and the full call transcript, plus the (mostly empty) downstream analysis columns.
-
-The same anonymisation applied to the per-call transcripts applies here, and the file is consistent with `All_Transcripts/`:
-
-- `Call ID` is preserved and is the join key to the transcript filenames in `All_Transcripts/Shop_*/` (`call_<NNN>_<Call ID>.txt`).
-- The `Transcript` column is identical, call-for-call, to the dialogue in the corresponding transcript file.
-- Caller and shop phone numbers in the `From`/`To` columns are replaced with `555-100-NNNN` placeholder codes.
-- `Agent Name` is shop-anonymised (`Shop_A/B/C`) with the city shown as `[City]`.
-- `Public Log URL` (the provider's call-log links) is redacted to `[REDACTED]`.
-- The provider's per-word `Transcript With Tool Calls` token stream is omitted; the plain `Transcript` column carries the full dialogue.
+- `study_332_calls.csv` — 332 rows × 32 columns of Retell post-call data: timing, duration, cost, disconnection reason, call status, sentiment, agent name/ID, and the full call transcript.
 
 ## Configuring the Templates
 
