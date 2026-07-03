@@ -5,10 +5,10 @@
   "agent_name": "[AUTO REPAIR TEMPLATE] - After Hours  (copy)",
   "response_engine": {
     "type": "retell-llm",
-    "llm_id": "llm_b6b5d08aa178bee1e2c11bb0d6b7",
+    "llm_id": "[RETELL_LLM_ID]",
     "version": 0
   },
-  "webhook_url": "https://n8n.example.com/webhook-test/643194b8-f68a-4ebe-b94a-9f0052b586f7",
+  "webhook_url": "https://n8n.example.com/webhook/[WEBHOOK_ID]",
   "language": "en-US",
   "data_storage_setting": "everything",
   "end_call_after_silence_ms": 45000,
@@ -39,7 +39,7 @@
   "allow_user_dtmf": true,
   "user_dtmf_options": {},
   "retellLlmData": {
-    "llm_id": "llm_b6b5d08aa178bee1e2c11bb0d6b7",
+    "llm_id": "[RETELL_LLM_ID]",
     "version": 0,
     "model": "gpt-4.1",
     "model_temperature": 0,

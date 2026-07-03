@@ -141,7 +141,7 @@
             },
             {
               "fieldId": "company_id",
-              "fieldValue": "automod-racing"
+              "fieldValue": "[COMPANY_ID]"
             }
           ]
         }
@@ -156,8 +156,8 @@
       "name": "Supabase",
       "credentials": {
         "supabaseApi": {
-          "id": "bT9E8cRE5l43ZnjK",
-          "name": "AI_Platform_DB"
+          "id": "[SUPABASE_CREDENTIAL_ID]",
+          "name": "[SUPABASE_CREDENTIAL_NAME]"
         }
       },
       "onError": "continueRegularOutput"

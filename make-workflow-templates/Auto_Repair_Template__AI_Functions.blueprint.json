@@ -59,7 +59,7 @@
                             "module": "sendgrid:sendMail",
                             "version": 1,
                             "parameters": {
-                                "__IMTCONN__": 4209468
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "filter": {
                                 "name": "Leave Messages",
@@ -553,12 +553,12 @@
                             "module": "twilio:SendSMS",
                             "version": 2,
                             "parameters": {
-                                "__IMTCONN__": 2837893
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "mapper": {
                                 "to": "+1{{22.phone}}",
                                 "body": "Hi {{1.args.name}}, just confirming that [TOW TRUCK COMPANY] has been notified and will be contacting you shortly. If you’d prefer, you can also give them a call directly at [TOW TRUCK PHONE NUMBER]\n\nSchedule your appointment with [AUTO REPAIR SHOP]! Follow this link to book your service: [SCHEDULING LINK]",
-                                "from": "+18777130763",
+                                "from": "[TWILIO_FROM_NUMBER]",
                                 "fromType": "phone",
                                 "messageBody": "body"
                             },
@@ -845,12 +845,12 @@
                             "module": "twilio:SendSMS",
                             "version": 2,
                             "parameters": {
-                                "__IMTCONN__": 2837893
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "mapper": {
                                 "to": "+1[TOW TRUCK PHONE NUMBER]",
                                 "body": "Tow Request – New Pickup\nClient Name: {{1.args.name}}\nClient Phone: {{1.args.phone}}\nPick-Up Location: Please contact the client directly to confirm.\nDrop-Off Location: [AUTO REPAIR SHOP]\n\nPlease reach out to the client as soon as possible to arrange the pickup.",
-                                "from": "+13802255538",
+                                "from": "[TWILIO_FROM_NUMBER]",
                                 "fromType": "phone",
                                 "messageBody": "body"
                             },
@@ -1003,7 +1003,7 @@
                             "module": "sendgrid:sendMail",
                             "version": 1,
                             "parameters": {
-                                "__IMTCONN__": 4209468
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "filter": {
                                 "name": "Quote Request",
@@ -1502,12 +1502,12 @@
                             "module": "twilio:SendSMS",
                             "version": 2,
                             "parameters": {
-                                "__IMTCONN__": 1738925
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "mapper": {
                                 "to": "+1{{21.phone}}",
                                 "body": "Schedule your appointment with [AUTO REPAIR SHOP]! Follow this link to book your service: [SCHEDULING LINK]",
-                                "from": "+13802255538",
+                                "from": "[TWILIO_FROM_NUMBER]",
                                 "fromType": "phone",
                                 "messageBody": "body"
                             },
@@ -1794,7 +1794,7 @@
                             "module": "sendgrid:sendMail",
                             "version": 1,
                             "parameters": {
-                                "__IMTCONN__": 4209468
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "mapper": {
                                 "asm": {},
@@ -2208,7 +2208,7 @@
                             "module": "sendgrid:sendMail",
                             "version": 1,
                             "parameters": {
-                                "__IMTCONN__": 4209468
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "filter": {
                                 "name": "appointment_request",
@@ -2639,7 +2639,7 @@
                             "module": "twilio:SendSMS",
                             "version": 2,
                             "parameters": {
-                                "__IMTCONN__": 2837893
+                                "__IMTCONN__": "[MAKE_CONNECTION_ID]"
                             },
                             "filter": {
                                 "name": "Urgent Messages",
@@ -2656,7 +2656,7 @@
                             "mapper": {
                                 "to": "+1[URGENT CONTACT]",
                                 "body": "Urgent Request\n\nClient Name: {{1.args.name}}\nPhone Number: {{1.args.phone}}\nMessage: {{1.args.message}}",
-                                "from": "+18777130763",
+                                "from": "[TWILIO_FROM_NUMBER]",
                                 "fromType": "phone",
                                 "messageBody": "body"
                             },
